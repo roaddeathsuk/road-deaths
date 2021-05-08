@@ -225,9 +225,9 @@ while True:
 index_page = """<!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="assets/index.css">
 
-    <link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml">
+    <link rel="icon" href="assets/favicon.svg" sizes="any" type="image/svg+xml">
 
     <!-- HTML Meta Tags -->
     <title>Road Deaths</title>
@@ -238,7 +238,7 @@ index_page = """<!DOCTYPE html>
     <meta property="og:type" content="website">
     <meta property="og:title" content="Road Deaths">
     <meta property="og:description" content="Traffic crash deaths the United Kingdom of Great Britain and Northern Ireland since 1896.">
-    <meta property="og:image" content="https://jjrscott.github.io/road-deaths/og-image.png">
+    <meta property="og:image" content="https://jjrscott.github.io/road-deaths/assets/og-image.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
@@ -246,7 +246,7 @@ index_page = """<!DOCTYPE html>
     <meta property="twitter:url" content="https://jjrscott.github.io/road-deaths/">
     <meta name="twitter:title" content="Road Deaths">
     <meta name="twitter:description" content="Traffic crash deaths the United Kingdom of Great Britain and Northern Ireland since 1896.">
-    <meta name="twitter:image" content="https://jjrscott.github.io/road-deaths/og-image.png">
+    <meta name="twitter:image" content="https://jjrscott.github.io/road-deaths/assets/og-image.png">
 
     <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
