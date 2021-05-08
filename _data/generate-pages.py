@@ -5,7 +5,7 @@ from dateutil.parser import parse
 import re
 import random
 
-with open('incidents.yml') as file:
+with open('_data/incidents.yml') as file:
     # The FullLoader parameter handles the conversion from YAML
     # scalar values to Python the dictionary format
     incidents = yaml.load(file, Loader=yaml.FullLoader)
@@ -260,7 +260,7 @@ index_page = """<!DOCTYPE html>
 <a href="https://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom of Great Britain and Northern Ireland" target="_blank">United Kingdom of Great Britain and Northern Ireland</a> since {first_year}.
 </p>
 
-<p>This page is generated from <a href="incidents.yml">incidents.yml</a>.</p>
+<p>This page is generated from <a href="https://github.com/jjrscott/road-deaths/blob/main/_data/incidents.yml">incidents.yml</a>.</p>
 
     <h2 id="victims">Victims</h2>
 
@@ -299,7 +299,7 @@ index_page = """<!DOCTYPE html>
 with open('index.html', "w") as text_file:
     text_file.write(index_page)
 
-with open('incidents.yml', "w") as text_file:
+with open('_data/incidents.yml', "w") as text_file:
     text = yaml.dump(incidents)
     text = re.sub(r'(\A|\n)- ', '\\1-\n  ', text)
     text = ("""-
