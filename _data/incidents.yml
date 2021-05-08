@@ -255,6 +255,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 21 Apr 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '7661375'
+  imprisonment: null
+  killer-vehicle: car
+  links:
+  - https://www.avonandsomerset.police.uk/news/2021/04/appeal-after-fatal-collision-on-the-a303/
+  - https://www.avonandsomerset.police.uk/news/2021/04/family-issue-tribute-after-fatal-collision-on-a303/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5221085796
+  tags: null
+  victim: Josh Crayden (31)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 19 Apr 2021
   date-of-sentence: null
   disqualification: null
@@ -11551,23 +11573,25 @@
 -
   comment: null
   community-order: null
-  court: null
+  court: Cambridge Crown Court
   date-of-incident: Fri, 24 May 2019
-  date-of-sentence: null
-  disqualification: null
+  date-of-sentence: 7 May 2021
+  disqualification: 54 months + extended re-test
   editor-notes: null
   identifier: 9db1373
-  imprisonment: null
+  imprisonment: 3 years
   killer-vehicle: null
-  links: https://www.heraldscotland.com/news/18617982.mothers-anguish-death-son-alleged-hit-run-crash-family-awaits-trial/
-  offender-/-driver: Male (51)
+  links:
+  - https://www.cambs.police.uk/news-and-appeals/driver-jailed-following-fatal-collision-5May-2021
+  - https://www.heraldscotland.com/news/18617982.mothers-anguish-death-son-alleged-hit-run-crash-family-awaits-trial/
+  offender-/-driver: Heath Cooksey (51)
   plea: null
-  police-area: null
+  police-area: Cambridgeshire
   police-code: 64/24May2019
-  tags: hit-and-run
+  tags: disqualified hit-and-run uninsured
   victim: Paul Wood (23)
   victim-dob: null
-  victim-vehicle: null
+  victim-vehicle: white Kawasaki motorbike
 -
   comment: null
   community-order: 18 months +  250 hours unpaid work
