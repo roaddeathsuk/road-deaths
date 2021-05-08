@@ -1,0 +1,158 @@
+@font-face {
+  font-family: FontAwesome;
+  src: url(Symbols-Regular.otf);
+}
+
+:root {
+  color-scheme: light dark;
+  --text-color: #333;
+  /* --debug-border: 1px dashed #ddd; */
+  --link-color: #333;
+  --victim-color: #B30005;
+  --victim-text-color: #fff;
+  --petition-color: #080;
+  --petition-text-color: #fff;
+  --none-color: #999;
+  --table-row-color: #f8f8f8;
+  --table-row-alt-color: #fcfcfc;
+  --background-color: #fff;
+
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #eee;
+    --link-color: #eee;
+    /* --debug-border: 1px dashed #333; */
+    --victim-color: #800004;
+    --none-color: #999;
+    --table-row-color: #383838;
+    --table-row-alt-color: #3c3c3c;
+    --background-color: #1e1e1e;
+  }
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; */
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+table, td {
+    border: 1px solid var(--background-color);
+}
+
+table {
+    /*  */
+    margin: auto auto;
+    border-collapse:collapse;
+    font-size: smaller;
+}
+
+@media only screen and (max-width: 1024px) {
+  .column.police-area,
+  .column.police-code,
+  .column.driver {
+    display: none;
+  }
+
+  table {
+    font-size: 110%;
+    width: 1000px;
+    margin: 12px;
+  }
+
+}
+
+tr {
+  background: var(--table-row-color);
+}
+
+tr:nth-child(odd) {
+  background: var(--table-row-alt-color);
+}
+
+body p {
+  width: 1024px;
+  margin: 10px auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+a {
+  color: var(--link-color);
+}
+
+a, a:visited {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+td, th {
+    padding: 5px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.none {
+  color: var(--none-color);
+  font-size: smaller;
+}
+
+table.victims tr td:first-child,
+table.victims tr td:last-child {
+  /* font-family: FontAwesome; */
+  width:30px;
+  position: relative;
+}
+
+table.victims tr:target td {
+  background: var(--victim-color);
+  color: var(--victim-text-color);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+table.victims tr:target a {
+  color: var(--victim-text-color);
+}
+
+table.victims tr td:last-child a,
+#petition a {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  font-family: FontAwesome;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+table.victims tr:target td:last-child a,
+#petition a {
+  color: var(--petition-text-color);
+}
+
+#petition {
+  border-radius: 2px;
+  position: relative;
+  background: var(--petition-color);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* table.victims tr:hover td {
+  background: var(--victim-color);
+} */
