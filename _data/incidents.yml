@@ -192,6 +192,48 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 8 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6dcfae3
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.lincs.police.uk/news-campaigns/news/2021/fatal-collision-near-orby/
+  offender-/-driver: null
+  plea: null
+  police-area: Lincolnshire
+  police-code: 49 of 8/5/21
+  tags: driver
+  victim: Man (43)
+  victim-dob: null
+  victim-vehicle: black Audi S3 Quattro car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 28 Apr 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2fa7afa
+  imprisonment: null
+  killer-vehicle: car
+  links: https://news.met.police.uk/news/appeal-following-fatal-collision-in-isleworth-426289
+  offender-/-driver:
+  - Woman (39)
+  - Man (37)
+  plea: null
+  police-area: Metropolitan
+  police-code: CAD 7527/28Apr
+  tags: hit-and-run
+  victim: Man (50s)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 23 Apr 2021
   date-of-sentence: null
   disqualification: null
@@ -672,6 +714,26 @@
   victim: Farren Rawnsley (45)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 16 Mar 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 7cf9db6
+  imprisonment: null
+  killer-vehicle: HGV lorry
+  links: https://news.met.police.uk/news/appeal-for-witnesses-to-fatal-collision-in-brent-423516
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: 4977/16Mar
+  tags: hit-and-run
+  victim: Michael Stapleton (62)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
@@ -22996,26 +23058,6 @@
   victim: Person
   victim-dob: null
   victim-vehicle: Motorbike
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 7cf9db6
-  imprisonment: null
-  killer-vehicle: HGV lorry
-  links: https://news.met.police.uk/news/appeal-for-witnesses-to-fatal-collision-in-brent-423516
-  offender-/-driver: null
-  plea: null
-  police-area: Metropolitan
-  police-code: 4977/16Mar
-  tags: null
-  victim: Michael Stapleton (62)
-  victim-dob: null
-  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
