@@ -4245,6 +4245,26 @@
   victim-vehicle: Ford Focus car
 -
   comment: null
+  community-order: 200 hours
+  court: Norwich Magistrates Court
+  date-of-incident: Thu, 3 Sep 2020
+  date-of-sentence: 26 March 2021
+  disqualification: 12 months
+  editor-notes: null
+  identifier: 1b06291
+  imprisonment: 8 weeks, suspended 12 months
+  killer-vehicle: Mitsubishi car
+  links: https://www.edp24.co.uk/news/crime/driver-failed-to-stop-after-fatal-crash-7853670
+  offender-/-driver: Lloyd McMurtary
+  plea: null
+  police-area: null
+  police-code: null
+  tags: hit-and-run uninsured unlicensed
+  victim: Oscar Seaman (17)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
   community-order: null
   court: null
   date-of-incident: Wed, 2 Sep 2020
