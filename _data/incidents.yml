@@ -199,12 +199,114 @@
   identifier: '6406727'
   imprisonment: null
   killer-vehicle: Lorry
-  links: https://www.coventrytelegraph.net/news/coventry-news/cyclist-dies-crash-involving-lorry-20846175
+  links:
+  - https://www.coventrytelegraph.net/news/coventry-news/cyclist-dies-crash-involving-lorry-20846175
+  - https://www.warwickshire.police.uk/news/warwickshire/news/2021/june/appeal-following-fatal-collision-in-nuneaton/
   offender-/-driver: Man (43)
   plea: null
   police-area: Warwickshire
   police-code: 46 of 18 June 2021
   tags: drugs
+  victim: Man (70s)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 16 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6b25c4e
+  imprisonment: null
+  killer-vehicle: Car
+  links: https://news.met.police.uk/news/appeal-following-fatal-collision-in-hounslow-429605
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: CAD 5250/16 June
+  tags: null
+  victim: Woman (20s)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 16 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 05932b1
+  imprisonment: null
+  killer-vehicle: grey Citroen DS3 car
+  links: https://www.cambs.police.uk/news-and-appeals/fatal-collision-near-bluntisham-1
+  offender-/-driver: Man (20s)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: 334 of 15 June
+  tags: null
+  victim: Man (60s)
+  victim-dob: null
+  victim-vehicle: white Ford Ranger suv
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 16 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 079cda9
+  imprisonment: null
+  killer-vehicle: Lorry
+  links: https://www.avonandsomerset.police.uk/news/2021/06/witness-appeal-following-fatal-collision-on-the-a303/
+  offender-/-driver: Man (36)
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5221134914
+  tags: null
+  victim: Man (32)
+  victim-dob: null
+  victim-vehicle: Car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 14 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 4208b72
+  imprisonment: null
+  killer-vehicle: silver Vauxhall Corsa car
+  links: https://www.nottinghamshire.police.uk/news-article/update-fatal-collision-driver-named
+  offender-/-driver: null
+  plea: null
+  police-area: Nottinghamshire
+  police-code: null
+  tags: null
+  victim: Jamie Huscroft (19)
+  victim-dob: null
+  victim-vehicle: Driver
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 28 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c01aee9
+  imprisonment: null
+  killer-vehicle: Car
+  links: https://news.met.police.uk/news/appeal-after-cyclist-dies-following-collision-in-haringey-429500
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: door
   victim: null
   victim-dob: null
   victim-vehicle: Bicycle
