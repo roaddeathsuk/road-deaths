@@ -334,6 +334,52 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 11 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c497df3
+  imprisonment: null
+  killer-vehicle:
+  - Car
+  - Car
+  links:
+  - https://west-midlands.police.uk/news/mothers-tribute-kind-and-selfless-daughter-officers-appeal-over-motorbike-collision
+  - https://west-midlands.police.uk/news/woman-dies-after-motorbike-collision-coventry
+  offender-/-driver: null
+  plea: null
+  police-area: West Midlands
+  police-code: 4829 of 11 June
+  tags: passenger
+  victim: Cora Bacon (20)
+  victim-dob: null
+  victim-vehicle: white Yamaha motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 5 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 39b3370
+  imprisonment: null
+  killer-vehicle: null
+  links: https://west-midlands.police.uk/news/couple-named-investigation-fatal-collision-continues
+  offender-/-driver: Man (47)
+  plea: null
+  police-area: West Midlands
+  police-code: 3173 of 5/6/21
+  tags: null
+  victim:
+  - Mohammed Shahdab (39)
+  - Sheikala Razaq (39)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 5 Jun 2021
   date-of-sentence: null
   disqualification: null
@@ -352,6 +398,26 @@
   - Woman
   victim-dob: null
   victim-vehicle: Motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 1 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 513274b
+  imprisonment: null
+  killer-vehicle: Van
+  links: https://www.lancashire.police.uk/news/2021/june/appeal-after-fatal-collision-in-colne/
+  offender-/-driver: null
+  plea: null
+  police-area: Lancashire
+  police-code: 723 of June 1
+  tags: null
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -454,8 +520,8 @@
   police-code: 5221111873
   tags: null
   victim:
-  - Man
-  - Woman
+  - Craig Peter Michael Duffy (58)
+  - Susan Parmiter (55)
   victim-dob: null
   victim-vehicle: VW Golf car
 -
@@ -3817,6 +3883,7 @@
   - https://www.thamesvalley.police.uk/news/thames-valley/news/2020/october/12-10-2020/officers-on-scene-of-multiple-fatal-road-traffic-collision---oxford/
   - https://www.thamesvalley.police.uk/news/thames-valley/news/2020/october/12-10-2020/update-in-fatal-road-traffic-collision-investigation--oxford/
   - https://www.thamesvalley.police.uk/news/thames-valley/news/2020/october/12-10-2020/victims-in-fatal-road-traffic-collision-formally-identified--oxford/
+  - https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/07-06-2021/family-statement-after-conclusion-of-inquest-into-a40-fatal-collision---oxford
   offender-/-driver: null
   plea: null
   police-area: Thames Valley
