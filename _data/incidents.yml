@@ -196,6 +196,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: 8e686ad
+  imprisonment: null
+  killer-vehicle: blue Mini Cooper
+  links: https://www.westyorkshire.police.uk/news-appeals/appeal-over-fatal-road-traffic-collision-shadwell-leeds
+  offender-/-driver: null
+  plea: null
+  police-area: West Yorkshire
+  police-code: 455 of June 18
+  tags: null
+  victim: Man (83)
+  victim-dob: null
+  victim-vehicle: Driver
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 18 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: '6406727'
   imprisonment: null
   killer-vehicle: Lorry
@@ -210,6 +230,26 @@
   victim: Man (70s)
   victim-dob: null
   victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 18 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: fd53e1e
+  imprisonment: null
+  killer-vehicle: grey Mercedes C220 car
+  links: https://www.cambs.police.uk/news-and-appeals/Fatal-collision-in-march
+  offender-/-driver: Man (20s)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: 72 of 18 June
+  tags: drugs
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: grey Audi car
 -
   comment: null
   community-order: null
@@ -294,6 +334,70 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 5 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 770ea3d
+  imprisonment: null
+  killer-vehicle: blue Saab car
+  links: https://west-midlands.police.uk/news/fatal-collision-acocks-green
+  offender-/-driver: Man (47)
+  plea: null
+  police-area: West Midlands
+  police-code: null
+  tags: hit-and-run
+  victim:
+  - Man
+  - Woman
+  victim-dob: null
+  victim-vehicle: Motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 30 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5e93317
+  imprisonment: null
+  killer-vehicle: Motorbike
+  links: https://news.met.police.uk/news/appeal-following-fatal-collision-in-wembley-428402
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: 3374/30May
+  tags: null
+  victim: Man (25)
+  victim-dob: null
+  victim-vehicle: Motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 29 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0628ef4
+  imprisonment: null
+  killer-vehicle: car
+  links:
+  - https://news.met.police.uk/news/appeal-for-witnesses-to-fatal-collision-in-merton-428394
+  - https://news.met.police.uk/news/victim-of-fatal-collision-named-428544
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: Cad 5035/29May
+  tags: speeding
+  victim: Marcos Mateus Alves (25)
+  victim-dob: null
+  victim-vehicle: Moped
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 28 May 2021
   date-of-sentence: null
   disqualification: null
@@ -310,6 +414,70 @@
   victim: null
   victim-dob: null
   victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 25 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 10e7cec
+  imprisonment: null
+  killer-vehicle:
+  - grey BMW 520D car
+  - black Mercedes C180 car
+  links: https://www.herts.police.uk/news-and-appeals/appeal-following-fatal-collision-in-sandridge-0203f
+  offender-/-driver: null
+  plea: null
+  police-area: Hertfordshire
+  police-code: Operation Ermined
+  tags: null
+  victim: Man (30s)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 21 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 76079e9
+  imprisonment: null
+  killer-vehicle: Shogun suv
+  links: https://www.avonandsomerset.police.uk/news/2021/05/appeal-issued-following-fatal-collision-on-the-a39-near-tivington/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5221111873
+  tags: null
+  victim:
+  - Man
+  - Woman
+  victim-dob: null
+  victim-vehicle: VW Golf car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 19 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 257c39a
+  imprisonment: null
+  killer-vehicle: Scania double-decker bus
+  links: https://www.cambs.police.uk/news-and-appeals/Fatal-collision-on-A47
+  offender-/-driver: Woman (37)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: 523 of 19 May
+  tags: null
+  victim: Woman (18)
+  victim-dob: null
+  victim-vehicle: white Volkswagen Polo car
 -
   comment: null
   community-order: null
