@@ -358,6 +358,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 12 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f4eb778
+  imprisonment: null
+  killer-vehicle: VW Golf car
+  links:
+  - https://www.dailymail.co.uk/news/article-9704301/amp/Beautiful-man-20-dies-hospital-six-days-horror-e-scooter-crash.html
+  - https://www.west-midlands.police.uk/news/further-appeal-after-e-scooter-rider-dies-following-collision-wolverhampton
+  offender-/-driver: null
+  plea: null
+  police-area: West Midlands
+  police-code: 2690 of 12 June
+  tags: null
+  victim: Shakur Pinnock (20)
+  victim-dob: null
+  victim-vehicle: kick-scooter
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 11 Jun 2021
   date-of-sentence: null
   disqualification: null
