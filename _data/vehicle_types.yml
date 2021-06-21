@@ -311,6 +311,7 @@ pedestrian?: null
 pelican-crossing: F8E4
 peugeot: null
 phone: F3CD
+piaggio: null
 picanto: null
 picasso: null
 pick-up: null
@@ -383,7 +384,7 @@ stationary: null
 street: null
 subaru: null
 sun: F8DD
-suv: null
+suv: F63C
 suzuki: null
 swift: null
 tailgating: F422
