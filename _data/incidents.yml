@@ -192,6 +192,30 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 21 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6e15db6
+  imprisonment: null
+  killer-vehicle:
+  - Suzuki Vitasra car
+  - Audi A3 car
+  - Seat Leon car
+  - Toyota Yaris car
+  links: https://www.westyorkshire.police.uk/news-appeals/appeal-witnesses-fatal-road-traffic-collision-huddersfield
+  offender-/-driver: null
+  plea: null
+  police-area: West Yorkshire
+  police-code: 1003 of 21 June
+  tags: null
+  victim: Male (80)
+  victim-dob: null
+  victim-vehicle: Mercedes A140 car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 20 Jun 2021
   date-of-sentence: null
   disqualification: null
@@ -528,6 +552,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 3 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0aed9bb
+  imprisonment: null
+  killer-vehicle: white Ford Transit van
+  links: https://www.cambs.police.uk/news-and-appeals/fatal-collision-on-a605
+  offender-/-driver: Man (20s)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: 76 of 3 June
+  tags: null
+  victim: Woman (20s)
+  victim-dob: null
+  victim-vehicle: black Vauxhall Astra car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Wed, 2 Jun 2021
   date-of-sentence: null
   disqualification: null
@@ -648,6 +692,26 @@
   victim: Man (30s)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 23 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f54a450
+  imprisonment: null
+  killer-vehicle: white Volkswagen Golf car
+  links: https://www.westyorkshire.police.uk/news-appeals/appeal-witnesses-following-fatal-collision-common-lane-wakefield
+  offender-/-driver: Man (26)
+  plea: null
+  police-area: West Yorkshire
+  police-code: 1349 of 23/05
+  tags: null
+  victim: Man (27)
+  victim-dob: null
+  victim-vehicle: Passenger
 -
   comment: null
   community-order: null
