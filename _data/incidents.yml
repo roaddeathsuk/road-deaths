@@ -192,6 +192,46 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 20 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2394b73
+  imprisonment: null
+  killer-vehicle: HGV
+  links: https://www.merseyside.police.uk/news/merseyside/news/2021/june/update-following-fatal-collision-in-liverpool-city-centre/
+  offender-/-driver: Man (31)
+  plea: null
+  police-area: Merseyside
+  police-code: 21000431288
+  tags: null
+  victim: Male
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5073a6d
+  imprisonment: null
+  killer-vehicle: black Land Rover Freelander car
+  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/14-06-2021/appeal-for-witnesses-following-fatal-collision--shipton-under-wychwood-oxfordshire/
+  offender-/-driver: null
+  plea: null
+  police-area: Thames Valley
+  police-code: 43210270109
+  tags: Passenger
+  victim: Woman (33)
+  victim-dob: null
+  victim-vehicle: black BMW 118 car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 19 Jun 2021
   date-of-sentence: null
   disqualification: null
@@ -210,6 +250,46 @@
   police-code: 716 of June 19
   tags: null
   victim: Sharlotte Naglis (6)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1d3e866
+  imprisonment: null
+  killer-vehicle: null
+  links: https://lancashire.police.uk/news/2021/june/familys-tribute-to-gentle-kind-enthusiastic-soul-following-fatal-collision-in-blackpool/
+  offender-/-driver: null
+  plea: null
+  police-area: Lancashire
+  police-code: 0218 of June 19, 2021
+  tags: Driver
+  victim: Sam Cardwell (27)
+  victim-dob: null
+  victim-vehicle: Benelli TNT motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2d9d7ac
+  imprisonment: null
+  killer-vehicle: white Mercedes Sprinter van
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/june/a-man-has-been-arrested-following-a-fatal-collision-in-ashton/
+  offender-/-driver: Man (29)
+  plea: null
+  police-area: Greater Manchester
+  police-code: 3668 of 19/06/21
+  tags: hit-and-run
+  victim: Man (56)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
