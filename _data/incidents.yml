@@ -220,6 +220,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: ce3ce62
+  imprisonment: null
+  killer-vehicle: Car
+  links: https://news.met.police.uk/news/fatal-collision-in-camden-430033
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: 801/20JUN21
+  tags: null
+  victim: Woman (20s)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 20 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 2394b73
   imprisonment: null
   killer-vehicle: HGV
@@ -1366,6 +1386,68 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 31 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 7edae7a
+  imprisonment: null
+  killer-vehicle: null
+  links: https://northyorkshire.police.uk/news/members-of-public-who-stopped-at-fatal-collision-in-scarborough-asked-to-isolate/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12210049306
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: Car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 30 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 05132a4
+  imprisonment: null
+  killer-vehicle: Car
+  links: https://www.surrey.police.uk/news/surrey/news/2021/01/pedestrian-dies-following-collision-in-bagshot/
+  offender-/-driver: null
+  plea: null
+  police-area: Surrey
+  police-code: PR/P21020540
+  tags: null
+  victim: Man
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 26 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 556e8a1
+  imprisonment: null
+  killer-vehicle:
+  - Skoda Citigo car
+  - Renault Clio car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/january/the-family-of-a-woman-who-sadly-died-in-a-collision-in-salford-have-paid-tribute-to-her/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 2330 of 26/01/21
+  tags: null
+  victim: Selena Mystara Meyers (23)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 22 Jan 2021
   date-of-sentence: null
   disqualification: null
@@ -1406,6 +1488,171 @@
   victim: Stephen Bacon (50)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 21 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a3c6457
+  imprisonment: null
+  killer-vehicle: Lorry
+  links:
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/january/a-man-has-been-charged-following-a-fatal-collision-on-the-m60/
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/january/the-family-of-a-woman-who-died-in-a-collision-on-the-m60-yesterday-have-paid-tribute-to-her/
+  offender-/-driver: John Bowers (33)
+  offender-/-driver-dob: 12/07/1987
+  plea: null
+  police-area: Greater Manchester
+  police-code: null
+  tags: null
+  victim: Shirley-Ann Dumbuya (38)
+  victim-dob: null
+  victim-vehicle: Kia Ceed car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 18 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f8663d6
+  imprisonment: null
+  killer-vehicle:
+  - blue Aston Martin DB11 car
+  - black BMW 330d car
+  links: https://www.herts.police.uk/news-and-appeals/witness-appeal-following-fatal-collision-in-stanstead-abbotts-1102a
+  offender-/-driver: Man (45) [DB11]
+  plea: null
+  police-area: Hertfordshire
+  police-code: Operation Greenback
+  tags: alcohol
+  victim: Man (20s)
+  victim-dob: null
+  victim-vehicle: white Vauxhall Corsa car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 13 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 40e1363
+  imprisonment: null
+  killer-vehicle: white Ford Transit van
+  links: https://www.westyorkshire.police.uk/news-appeals/appeal-fatal-road-traffic-collision-leeds-city-centre
+  offender-/-driver: null
+  plea: null
+  police-area: West Yorkshire
+  police-code: 1294 of 13/01
+  tags: null
+  victim: Gilberto Miranda (58)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 13 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1db3664
+  imprisonment: null
+  killer-vehicle: blue Vauxhall Mokka car
+  links: https://www.hampshire.police.uk/news/hampshire/news/news/2021/january/man-dies-following-collision-in-minley-on-january-13/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44210014319
+  tags: null
+  victim: Bogdan Adrian Albon (39)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 11 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8947dc0
+  imprisonment: null
+  killer-vehicle: silver Mitsubishi L200 car
+  links: https://www.cambs.police.uk/news-and-appeals/man-named-following-fatal-collision-12jan2020
+  offender-/-driver: Man (50s)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: null
+  tags: null
+  victim: John Ulliot (32)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 9 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ac96047
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.avonandsomerset.police.uk/news/2021/01/fatal-collision-on-cumberland-basin-bristol-under-investigation/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5221005840
+  tags: null
+  victim: Man
+  victim-dob: null
+  victim-vehicle: car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 4 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e973807
+  imprisonment: null
+  killer-vehicle: bus?
+  links: https://www.surrey.police.uk/news/surrey/news/2021/01/fatal-collision-on-a281-at-alfold/
+  offender-/-driver: null
+  plea: null
+  police-area: Surrey
+  police-code: PR/P21002200
+  tags: null
+  victim: Person
+  victim-dob: null
+  victim-vehicle: car?
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 23 Dec 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6f9d3b3
+  imprisonment: null
+  killer-vehicle: black Nissan Note car
+  links: https://www.leics.police.uk/news/leicestershire/news/2021/january/man-named-after-fatal-collision-in-whitwick/
+  offender-/-driver: Man (22)
+  plea: null
+  police-area: Leicestershire
+  police-code: 21 of 23 December
+  tags: null
+  victim: Aaron Fairbrother (24)
+  victim-dob: null
+  victim-vehicle: Passenger
 -
   comment: null
   community-order: null
@@ -3910,6 +4157,26 @@
   victim: Joshua Fletcher (16)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 16 Oct 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c732f94
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.surrey.police.uk/news/surrey/news/2021/01/woman-charged-following-fatal-collision-in-runfold/
+  offender-/-driver: Victoria Howell (23)
+  plea: null
+  police-area: Surrey
+  police-code: null
+  tags: null
+  victim: Conner Traves (20)
+  victim-dob: null
+  victim-vehicle: moped
 -
   comment: null
   community-order: null
@@ -11281,6 +11548,26 @@
 -
   comment: null
   community-order: null
+  court: null
+  date-of-incident: Tue, 3 Dec 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c6a0046
+  imprisonment: null
+  killer-vehicle: Car
+  links: https://west-midlands.police.uk/news/four-charged-connection-fatal-collision-killed-aaron-wilson
+  offender-/-driver: Danny Considine (39)
+  plea: null
+  police-area: West Midlands
+  police-code: null
+  tags: disqualified
+  victim: Aaron Wilson (29)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
   court: Leicester Crown Court
   date-of-incident: Mon, 2 Dec 2019
   date-of-sentence: null
@@ -11403,6 +11690,29 @@
   victim: Alison McBlaine (36)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 14 Nov 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: bcbfa25
+  imprisonment: null
+  killer-vehicle: black Volkswagen Golf car
+  links: https://www.cambs.police.uk/news-and-appeals/minibus-fatal-collision-man-charged
+  offender-/-driver: Bogdan Ksiazek (43)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: null
+  tags: null
+  victim:
+  - Richard Kenworthy (72)
+  - Margaret Henwood (85)
+  - Barbara McGruer (86)
+  victim-dob: null
+  victim-vehicle: white Mercedes minibus
 -
   comment: null
   community-order: null
@@ -24111,3 +24421,23 @@
   victim: Anna Roselyn Evans
   victim-dob: null
   victim-vehicle: Tent
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: null
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 3f9fe63
+  imprisonment: null
+  killer-vehicle: null
+  links: https://merseyside.police.uk/news/merseyside/news/2021/january/appeal-after-fatal-collision-in-st-helens/
+  offender-/-driver: null
+  plea: null
+  police-area: Merseyside
+  police-code: null
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: null
