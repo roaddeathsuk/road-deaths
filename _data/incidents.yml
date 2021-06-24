@@ -13057,6 +13057,28 @@
 -
   comment: null
   community-order: null
+  court: Liverpool Crown Court
+  date-of-incident: Thu, 28 Feb 2019
+  date-of-sentence: 24 June 2021
+  disqualification: 10 years 6 months
+  editor-notes: null
+  identifier: 7b5ac8f
+  imprisonment: 11 years
+  killer-vehicle: white Ford Fiesta
+  links: https://www.merseyside.police.uk/news/merseyside/news/2021/june/man-jailed-for-11-years-following-fatal-collision-in-speke/
+  offender-/-driver: Colin Smith (23)
+  plea: null
+  police-area: Merseyside
+  police-code: null
+  tags: drugs hit-and-run
+  victim:
+  - Tony Cope (39)
+  - Clare Killey (45)
+  victim-dob: null
+  victim-vehicle: Bicycles
+-
+  comment: null
+  community-order: null
   court: Plymouth Crown Court
   date-of-incident: Sun, 24 Feb 2019
   date-of-sentence: 31 January 2020
