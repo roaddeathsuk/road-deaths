@@ -552,6 +552,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: 77b9c24
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.kent.police.uk/news/kent/latest/appeals/witnesses-sought-to-fatal-collision-in-broadstairs/
+  offender-/-driver: null
+  plea: null
+  police-area: Kent
+  police-code: SM/KA/051/21
+  tags: driver
+  victim: Woman (80s)
+  victim-dob: null
+  victim-vehicle: blue Hyundai I30 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 11 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: c497df3
   imprisonment: null
   killer-vehicle:
@@ -568,6 +588,26 @@
   victim: Cora Bacon (20)
   victim-dob: null
   victim-vehicle: white Yamaha motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 10 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 16e04bf
+  imprisonment: null
+  killer-vehicle: Ford Fiesta car
+  links: https://www.lincs.police.uk/news-campaigns/news/2021/fatal-collision-a607-honington-to-barkston/
+  offender-/-driver: null
+  plea: null
+  police-area: Lincolnshire
+  police-code: 490 of  10 June
+  tags: null
+  victim: Man (50s)
+  victim-dob: null
+  victim-vehicle: motorcycle
 -
   comment: null
   community-order: null
@@ -680,6 +720,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: b5e5096
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.avonandsomerset.police.uk/news/2021/06/witness-appeal-following-fatal-collision-in-weston-super-mare/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5221121013
+  tags: null
+  victim: Man (50s)
+  victim-dob: null
+  victim-vehicle: motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 1 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 513274b
   imprisonment: null
   killer-vehicle: Van
@@ -736,6 +796,26 @@
   victim: Marcos Mateus Alves (25)
   victim-dob: null
   victim-vehicle: Moped
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 28 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 26ec19e
+  imprisonment: null
+  killer-vehicle: silver Ford Tourneo minibus
+  links: https://www.westyorkshire.police.uk/news-appeals/police-id-victim-and-re-appeal-fatal-road-traffic-collision-beckett-street-leeds
+  offender-/-driver: Dalsooz Hussain (49)
+  plea: null
+  police-area: West Yorkshire
+  police-code: 13210264346
+  tags: uninsured unlicenced
+  victim: Colin Penman (44)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
