@@ -196,6 +196,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: 023513b
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.surrey.police.uk/news/surrey/news/2021/06/information-sought-following-fatal-collision-in-woking/
+  offender-/-driver: null
+  plea: null
+  police-area: Surrey
+  police-code: PR/P21132089
+  tags: driver
+  victim: Man (20s)
+  victim-dob: null
+  victim-vehicle: red Ford Fiesta car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 21 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 6e15db6
   imprisonment: null
   killer-vehicle:
@@ -260,26 +280,6 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
-  identifier: 5073a6d
-  imprisonment: null
-  killer-vehicle: black Land Rover Freelander car
-  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/14-06-2021/appeal-for-witnesses-following-fatal-collision--shipton-under-wychwood-oxfordshire/
-  offender-/-driver: null
-  plea: null
-  police-area: Thames Valley
-  police-code: 43210270109
-  tags: Passenger
-  victim: Woman (33)
-  victim-dob: null
-  victim-vehicle: black BMW 118 car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: Sat, 19 Jun 2021
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
   identifier: 7bd5a3d
   imprisonment: null
   killer-vehicle: Car
@@ -336,6 +336,28 @@
   victim: Man (56)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5073a6d
+  imprisonment: null
+  killer-vehicle: black Land Rover Freelander car
+  links:
+  - https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/14-06-2021/appeal-for-witnesses-following-fatal-collision--shipton-under-wychwood-oxfordshire/
+  - https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/21-06-2021/woman-identified-following-fatal-road-traffic-collision--shipton-under-wychwood-oxfordshire/
+  offender-/-driver: null
+  plea: null
+  police-area: Thames Valley
+  police-code: 43210270109
+  tags: Passenger
+  victim: Alaa Al-siddiq (33)
+  victim-dob: null
+  victim-vehicle: black BMW 118 car
 -
   comment: null
   community-order: null
@@ -426,18 +448,18 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
-  identifier: 05932b1
+  identifier: ddefb6c
   imprisonment: null
-  killer-vehicle: grey Citroen DS3 car
-  links: https://www.cambs.police.uk/news-and-appeals/fatal-collision-near-bluntisham-1
-  offender-/-driver: Man (20s)
+  killer-vehicle: null
+  links: https://lancashire.police.uk/news/2021/june/familys-tribute-after-motorcyclist-sadly-died-following-collision-in-haslingden/
+  offender-/-driver: null
   plea: null
-  police-area: Cambridgeshire
-  police-code: 334 of 15 June
-  tags: null
-  victim: Man (60s)
+  police-area: Lancashire
+  police-code: 1020 of June 16th
+  tags: driver
+  victim: Martin Walden (35)
   victim-dob: null
-  victim-vehicle: white Ford Ranger suv
+  victim-vehicle: Suzuki GSX motorcycle
 -
   comment: null
   community-order: null
@@ -458,6 +480,28 @@
   victim: Man (32)
   victim-dob: null
   victim-vehicle: Car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 16 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 05932b1
+  imprisonment: null
+  killer-vehicle: grey Citroen DS3 car
+  links:
+  - https://www.cambs.police.uk/news-and-appeals/fatal-collision-near-bluntisham-1
+  - https://www.cambs.police.uk/news-and-appeals/man-named-following-fatal-collision-near-bluntisham
+  offender-/-driver: Man (20s)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: 334 of 15 June
+  tags: null
+  victim: Dennis Dear (68)
+  victim-dob: null
+  victim-vehicle: white Ford Ranger suv
 -
   comment: null
   community-order: null
@@ -524,6 +568,26 @@
   victim: Cora Bacon (20)
   victim-dob: null
   victim-vehicle: white Yamaha motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 9 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: dc76983
+  imprisonment: null
+  killer-vehicle: marked police vehicle
+  links: https://news.met.police.uk/news/fatal-collision-involving-police-car-in-lambeth-429150
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Woman (25)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -658,7 +722,9 @@
   editor-notes: null
   identifier: 0628ef4
   imprisonment: null
-  killer-vehicle: car
+  killer-vehicle:
+  - car
+  - car
   links:
   - https://news.met.police.uk/news/appeal-for-witnesses-to-fatal-collision-in-merton-428394
   - https://news.met.police.uk/news/victim-of-fatal-collision-named-428544
@@ -778,6 +844,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 14 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d34a037
+  imprisonment: null
+  killer-vehicle: car
+  links: https://news.met.police.uk/news/appeal-for-witnesses-to-fatal-collision-in-dagenham-427702
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: 8669/14MAY
+  tags: null
+  victim: Man (21)
+  victim-dob: null
+  victim-vehicle: Motorbike
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 8 May 2021
   date-of-sentence: null
   disqualification: null
@@ -816,6 +902,26 @@
   victim: Man (50s)
   victim-dob: null
   victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 28 Apr 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: cbe8035
+  imprisonment: null
+  killer-vehicle: car
+  links: https://news.met.police.uk/news/appeal-following-fatal-collision-in-isleworth-426289
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: 7527/28Apr
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
