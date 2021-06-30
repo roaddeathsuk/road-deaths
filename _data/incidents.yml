@@ -192,6 +192,68 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 27 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f20fccb
+  imprisonment: null
+  killer-vehicle: Car
+  links: https://www.west-midlands.police.uk/news/investigation-following-fatal-collision-west-bromwich
+  offender-/-driver: null
+  plea: null
+  police-area: West Midlands
+  police-code: 3563 of 27/06
+  tags: null
+  victim: Man (24)
+  victim-dob: null
+  victim-vehicle: Motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 27 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 46d6f64
+  imprisonment: null
+  killer-vehicle: black Audi car
+  links:
+  - https://www.avonandsomerset.police.uk/news/2021/06/m5-southbound-closed-following-fatal-collision/
+  - https://www.avonandsomerset.police.uk/news/2021/06/witnesses-and-footage-sought-after-fatal-m5-collision-somerset/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5221142767
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: Passenger
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 26 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 85a2a2a
+  imprisonment: null
+  killer-vehicle: Renault Clio car
+  links: https://lancashire.police.uk/news/2021/june/update-tribute-to-sion-after-darwen-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Lancashire
+  police-code: 1214 of June 26
+  tags: alcohol
+  victim: Sion Chaisty (44)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 21 Jun 2021
   date-of-sentence: null
   disqualification: null
