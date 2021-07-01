@@ -12505,6 +12505,28 @@
   victim-dob: null
   victim-vehicle: blue Suzuki motorcycle
 -
+  comment: null
+  community-order: null
+  court: Mold Crown Court
+  date-of-incident: Mon, 19 Aug 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: be08159
+  imprisonment: 8 years
+  killer-vehicle: Subaru Impreza Car
+  links:
+  - https://twitter.com/ormondroyd/status/1186670522295300101
+  - https://www.bbc.co.uk/news/uk-wales-50137051
+  offender-/-driver: Jake Waterhouse (26)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: alcohol uninsured unlicensed
+  victim: Anna Roselyn Evans (46)
+  victim-dob: null
+  victim-vehicle: Tent
+-
   comment: Birmingham hit-and-run driver jailed for cyclist's death
   community-order: null
   court: null
@@ -12781,6 +12803,29 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 5 Jun 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a4af6f7
+  imprisonment: 9 years
+  killer-vehicle: black VW Golf car
+  links:
+  - https://planetradio.co.uk/hits-radio/local/news/bolton-man-jailed-after-fatal-collision/
+  - https://twitter.com/ormondroyd/status/1174957708274892801
+  - https://www.belfasttelegraph.co.uk/news/uk/driver-with-25-points-on-licence-not-banned-before-fatal-crash-38518056.html
+  offender-/-driver: Ivan Girga (27)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 72/30
+  victim: Ghusanfar Illyas (42)
+  victim-dob: null
+  victim-vehicle: Vauxhall Zafira Car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 31 May 2019
   date-of-sentence: 24 November 2020
   disqualification: 6 years and 354 days (concurrent)
@@ -12819,6 +12864,29 @@
   victim: Paul Wood (23)
   victim-dob: null
   victim-vehicle: white Kawasaki motorbike
+-
+  comment: null
+  community-order: null
+  court: Teesside Crown Court
+  date-of-incident: Fri, 26 Apr 2019
+  date-of-sentence: null
+  disqualification: 4 years
+  editor-notes: null
+  identifier: 5a9fd89
+  imprisonment: 2 years
+  killer-vehicle: HGV
+  links:
+  - https://twitter.com/ormondroyd/status/1303063383458091009
+  - https://www.gazettelive.co.uk/news/teesside-news/tributes-paid-tom-harker-68-16187649
+  - https://www.thenorthernecho.co.uk/news/18703095.hgv-driver-killed-tom-harker-using-mobile-55mph-a66/
+  offender-/-driver: Jordan Leonard
+  plea: null
+  police-area: null
+  police-code: 46 of April 26
+  tags: phone
+  victim: Thomas Harker (68)
+  victim-dob: null
+  victim-vehicle: Car
 -
   comment: null
   community-order: 18 months +  250 hours unpaid work
@@ -13000,13 +13068,16 @@
   identifier: ba33fd2
   imprisonment: null
   killer-vehicle: null
-  links: https://www.essex.police.uk/news/essex/news/brought-to-justice/2020/november/man-admits-causing-fatal-collison/
+  links:
+  - https://www.essex.police.uk/news/essex/news/brought-to-justice/2020/november/man-admits-causing-fatal-collison/
+  - https://www.essex.police.uk/news/essex/news/brought-to-justice/2020/november/man-admits-causing-fatal-collison/
+  - https://www.leightimes.co.uk/article.cfm?id=128283
   offender-/-driver: James Williams (24)
   plea: null
   police-area: Essex
   police-code: null
   tags: null
-  victim: Female (90s)
+  victim: Maria Ansell (90s)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
@@ -13364,6 +13435,26 @@
   victim-dob: null
   victim-vehicle: red Honda Jazz car
 -
+  comment: "fined \xA3120"
+  community-order: null
+  court: null
+  date-of-incident: Mon, 28 Jan 2019
+  date-of-sentence: null
+  disqualification: 4 years
+  editor-notes: null
+  identifier: 615f11b
+  imprisonment: None
+  killer-vehicle: Bus
+  links: https://twitter.com/ormondroyd/status/1177570217888821250
+  offender-/-driver: Michael John Parker (62)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: insurance provisional
+  victim: Sian Ellie (15)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
   comment: 'Not guilty: Jury at Reading Crown Court clears death crash Thatcham grandmother'
   community-order: null
   court: null
@@ -13403,6 +13494,28 @@
   victim: Paul Radcliffe (18)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 16 Jan 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '3854789'
+  imprisonment: null
+  killer-vehicle: Car
+  links:
+  - https://twitter.com/ormondroyd/status/1177231034787778561
+  - https://www.essexlive.news/news/essex-news/steve-lord-death-man-admits-3287398
+  offender-/-driver: Daniel Tilley (37)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: hit-and-run
+  victim: Steve Lord (63)
+  victim-dob: null
+  victim-vehicle: Suzuki SGF motorbike
 -
   comment: null
   community-order: null
@@ -13490,6 +13603,28 @@
   community-order: 250 hours
   court: Birmingham Crown Court
   date-of-incident: Sat, 22 Dec 2018
+  date-of-sentence: null
+  disqualification: 2 years
+  editor-notes: null
+  identifier: d03b244
+  imprisonment: 6 months (suspended 2 years)
+  killer-vehicle: Porsche car
+  links:
+  - https://www.bbc.co.uk/news/uk-england-birmingham-46674650
+  - https://www.birminghammail.co.uk/news/midlands-news/ex-raf-pilot-avoids-jail-18879187
+  offender-/-driver: David McSkimming (53)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 59/40
+  victim: Anthony Satterwaite (51)
+  victim-dob: null
+  victim-vehicle: bicycle
+-
+  comment: null
+  community-order: 250 hours
+  court: Birmingham Crown Court
+  date-of-incident: Sat, 22 Dec 2018
   date-of-sentence: 4 September 2020
   disqualification: 6 months (suspended for 2 years)
   editor-notes: null
@@ -13525,6 +13660,28 @@
   victim: John Hughes (44)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 8 Dec 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 34d2613
+  imprisonment: 28 months
+  killer-vehicle: black Ford Focus
+  links:
+  - https://twitter.com/ormondroyd/status/1195660823663955969
+  - https://www.bbc.co.uk/news/uk-england-berkshire-43472639
+  offender-/-driver: Pertpall Sall (68)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Sonata Saulytyte (44)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -13721,6 +13878,28 @@
 -
   comment: null
   community-order: null
+  court: null
+  date-of-incident: Mon, 22 Oct 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: bdb870c
+  imprisonment: null
+  killer-vehicle: HGV
+  links:
+  - https://twitter.com/ormondroyd/status/1258698048793915394
+  - https://www.kidderminstershuttle.co.uk/news/18148243.lorry-driver-faces-trial-fatal-a449-hartlebury-crash/
+  offender-/-driver: Richard Merris (50)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: acquitted
+  victim: Barry Brettell (66)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
   court: Exeter Crown Court
   date-of-incident: Thu, 11 Oct 2018
   date-of-sentence: null
@@ -13782,6 +13961,26 @@
   victim: Annette Booth
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 27 Sep 2018
+  date-of-sentence: null
+  disqualification: 4 years
+  editor-notes: null
+  identifier: 33e8ee9
+  imprisonment: 10 months suspended 2 years
+  killer-vehicle: Motorbike
+  links: https://twitter.com/ormondroyd/status/1187075429896802305
+  offender-/-driver: Leroy Campbell-Brown
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 92/30
+  victim: Mark Ward
+  victim-dob: null
+  victim-vehicle: Motorbike
 -
   comment: null
   community-order: null
@@ -13909,6 +14108,29 @@
 -
   comment: null
   community-order: null
+  court: Salisbury Crown Court
+  date-of-incident: Mon, 27 Aug 2018
+  date-of-sentence: null
+  disqualification: 5 years
+  editor-notes: null
+  identifier: a7c5982
+  imprisonment: 4 years
+  killer-vehicle: Seat Ibiza Car
+  links:
+  - https://twitter.com/ormondroyd/status/1177615648693919747
+  - https://www.bbc.co.uk/news/uk-england-wiltshire-45341786
+  - https://www.swindonadvertiser.co.uk/news/17932532.driver-killed-devizes-mum-crash-jailed-four-years/
+  offender-/-driver: Brad Hayden (26)
+  plea: null
+  police-area: Wiltshire
+  police-code: null
+  tags: alcohol
+  victim: Karly Heweson (21)
+  victim-dob: null
+  victim-vehicle: Passenger
+-
+  comment: null
+  community-order: null
   court: null
   date-of-incident: Wed, 22 Aug 2018
   date-of-sentence: null
@@ -14017,6 +14239,32 @@
   victim-vehicle: Pedestrian on pavement
 -
   comment: null
+  community-order: 100 hours
+  court: null
+  date-of-incident: Thu, 2 Aug 2018
+  date-of-sentence: null
+  disqualification: 2 years
+  editor-notes: null
+  fine: "\xA3105"
+  identifier: cd9c2d7
+  imprisonment: null
+  killer-vehicle: Car
+  links:
+  - https://twitter.com/ormondroyd/status/1196468141532106752
+  - https://www.bbc.co.uk/news/uk-england-berkshire-50219544
+  - https://www.getreading.co.uk/news/reading-berkshire-news/teenager-who-killed-two-men-16561520
+  offender-/-driver: Max Coopey (17)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: cannabis
+  victim:
+  - Jason Imi (48)
+  - John Shackley (61)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
   community-order: null
   court: null
   date-of-incident: Thu, 2 Aug 2018
@@ -14110,6 +14358,30 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 16 Jun 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8c71748
+  imprisonment: null
+  killer-vehicle: Volkswagen Golf car
+  links:
+  - https://twitter.com/ormondroyd/status/1177739403319562240
+  - https://www.lancs.live/news/lancashire-news/tragic-death-avid-liverpool-fan-17001974
+  offender-/-driver:
+  - Victoria Barker (37)
+  - George Barnes (26)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 40+/20 alcohol cocaine
+  victim: Jackson Pickering (18)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 12 Jun 2018
   date-of-sentence: null
   disqualification: null
@@ -14130,6 +14402,30 @@
   - Timothy Peter Grace (31)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 7 Jun 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0f3ccb2
+  imprisonment: null
+  killer-vehicle: grey Nissan Navara Car
+  links:
+  - https://twitter.com/ormondroyd/status/1288856886213779456
+  - https://www.edp24.co.uk/news/crime/police-continue-to-investigate-fatal-swannington-crash-6441784
+  - https://www.edp24.co.uk/news/inquest-held-into-death-of-popular-norfolk-runner-and-cyclist-1574492
+  - https://www.edp24.co.uk/news/sze-ming-cheung-s-family-hit-out-at-police-investogation-1575962
+  offender-/-driver: Alan Hall (57)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: alcohol no-charges
+  victim: Sze-Ming Cheung (44)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: PC Jamie Holloway, 49, of West Mercia Police, is charged in connection
     with a crash on the A449 in Hartlebury, Worcestershire, on 28 May 2018.
@@ -14174,6 +14470,26 @@
 -
   comment: null
   community-order: null
+  court: null
+  date-of-incident: Mon, 21 May 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1239aea
+  imprisonment: 18 months (suspended)
+  killer-vehicle: Car
+  links: https://twitter.com/ormondroyd/status/1191686432051515393
+  offender-/-driver: Laura Hope (28)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: cannabis
+  victim: John Hevey (61)
+  victim-dob: null
+  victim-vehicle: Motorcycle
+-
+  comment: null
+  community-order: null
   court: Northampton Crown Court
   date-of-incident: Sun, 20 May 2018
   date-of-sentence: September 16, 2019
@@ -14191,6 +14507,26 @@
   police-code: null
   tags: hit-and-run
   victim: Stephen Swann (39)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 May 2018
+  date-of-sentence: null
+  disqualification: 6 years
+  editor-notes: null
+  identifier: b4afd42
+  imprisonment: 4 years 6 months
+  killer-vehicle: Car
+  links: https://twitter.com/ormondroyd/status/1183763997729939457
+  offender-/-driver: Carl White (38)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 70/30 hit-and-run undertaking
+  victim: Charlotte Carol (19)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
@@ -14256,6 +14592,28 @@
   victim: Man (30s)
   victim-dob: null
   victim-vehicle: grey Honda Civic car
+-
+  comment: null
+  community-order: null
+  court: Glasgow High Court
+  date-of-incident: Wed, 9 May 2018
+  date-of-sentence: null
+  disqualification: 6 years
+  editor-notes: null
+  identifier: 1d4ca62
+  imprisonment: 4 years 8 months
+  killer-vehicle: orange Ford Focus car
+  links:
+  - https://twitter.com/ormondroyd/status/1189997319497891841
+  - https://www.thescottishsun.co.uk/news/2619534/shaun-allan-inverness-dies-crash-b851-farr-loch-ness/
+  offender-/-driver: Martin Cameron (25)
+  plea: null
+  police-area: null
+  police-code: 486 of May 9
+  tags: 125/60?
+  victim: Shaun Allen (26)
+  victim-dob: null
+  victim-vehicle: Passenger
 -
   comment: St Cuthbert's Way, Darlington (A167)
   community-order: null
@@ -14389,6 +14747,26 @@
 -
   comment: null
   community-order: null
+  court: null
+  date-of-incident: Fri, 20 Apr 2018
+  date-of-sentence: null
+  disqualification: 5 years
+  editor-notes: null
+  identifier: 95a8ccb
+  imprisonment: 52 months
+  killer-vehicle: Volvo Lorry
+  links: https://twitter.com/ormondroyd/status/1184085944053501953
+  offender-/-driver: Raymond Hogg (69)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 50/0 phone queue
+  victim: Mandy Snowling (43)
+  victim-dob: null
+  victim-vehicle: red Mazda 6 car
+-
+  comment: null
+  community-order: null
   court: Bristol Crown Court
   date-of-incident: Wed, 18 Apr 2018
   date-of-sentence: null
@@ -14431,6 +14809,29 @@
   police-code: 1011-160-418
   tags: null
   victim: Ranjit Kaur Grewal (49)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: Warwick Crown Court
+  date-of-incident: Sun, 8 Apr 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 75658fa
+  imprisonment: 7 years
+  killer-vehicle: Volkswagen Bora Car
+  links:
+  - https://twitter.com/ormondroyd/status/1203237386873954304
+  - https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-43697293
+  - https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-50606161
+  offender-/-driver: Abid Mohmood (39)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 60/30
+  victim: Umar Akhalwaya (2)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
@@ -15000,6 +15401,28 @@
   victim-dob: null
   victim-vehicle: null
 -
+  comment: "\xA3800 fine, 6 points"
+  community-order: null
+  court: null
+  date-of-incident: Sun, 19 Nov 2017
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 85984f2
+  imprisonment: null
+  killer-vehicle: Audi A3 Car
+  links:
+  - https://twitter.com/ormondroyd/status/1178062379604729857
+  - https://www.dailyrecord.co.uk/news/local-news/driver-fined-causing-death-pensioner-14196626
+  offender-/-driver: Suzanne Lavelle (49)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Female (82)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
   comment: null
   community-order: null
   court: null
@@ -15304,6 +15727,28 @@
 -
   comment: null
   community-order: null
+  court: Basildon Crown Court
+  date-of-incident: Fri, 15 Sep 2017
+  date-of-sentence: null
+  disqualification: 4.5 years
+  editor-notes: null
+  identifier: ea0f4c7
+  imprisonment: 3 years, 2 months
+  killer-vehicle: Volvo V70 Car
+  links:
+  - https://twitter.com/ormondroyd/status/1189999068199546880
+  - https://www.echo-news.co.uk/news/18004148.gavin-featherstone-jailed-fatal-70mph-canvey-crash/
+  offender-/-driver: Gavin Featherstone (26)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 70/30
+  victim: Petru Barticel (43)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
   court: null
   date-of-incident: Sat, 9 Sep 2017
   date-of-sentence: null
@@ -15526,6 +15971,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 11 Jul 2017
+  date-of-sentence: null
+  disqualification: 3 years
+  editor-notes: null
+  identifier: fe80f6e
+  imprisonment: 12 months
+  killer-vehicle: Car
+  links:
+  - https://twitter.com/ormondroyd/status/1186719750375837702
+  - https://www.bbc.co.uk/news/uk-northern-ireland-50137703
+  offender-/-driver: Hing Tong 'Steve' Cheung (61)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Gavin Moore (40)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 9 Jul 2017
   date-of-sentence: Tue, 23 Oct 2018
   disqualification: null
@@ -15565,6 +16032,28 @@
   victim: Male (5)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: Sheffield Crown Court
+  date-of-incident: Thu, 8 Jun 2017
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 3d75685
+  imprisonment: 16 months jail for careless driving
+  killer-vehicle: Rover MG ZS Car
+  links:
+  - https://twitter.com/ormondroyd/status/1175111976537808897
+  - https://www.thestar.co.uk/news/police-make-three-arrests-after-rotherham-mum-dies-crash-477125
+  offender-/-driver: Deryon King (22)
+  plea: null
+  police-area: South Yorkshire
+  police-code: 8 June 8, 2017
+  tags: alcohol hit-and-run insurance
+  victim: Megan Burrows (24)
+  victim-dob: null
+  victim-vehicle: Passenger
 -
   comment: null
   community-order: null
@@ -15702,6 +16191,32 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 17 Mar 2017
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f5352ac
+  imprisonment: 14 months
+  killer-vehicle: Nissan Micra Car
+  links:
+  - https://twitter.com/ormondroyd/status/1178062379604729857
+  - https://www.bbc.co.uk/news/uk-northern-ireland-48874811
+  - https://www.bbc.co.uk/news/uk-northern-ireland-48888614
+  - https://www.belfasttelegraph.co.uk/news/northern-ireland/boy-racer-who-killed-couple-after-losing-control-of-car-is-jailed-for-14-months-38283080.html
+  offender-/-driver: Charles Hugh Macartney (20)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim:
+  - Dean Weir
+  - Sandra Weir
+  victim-dob: null
+  victim-vehicle: Suzuki Alto Car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 2 Mar 2017
   date-of-sentence: null
   disqualification: null
@@ -15781,6 +16296,28 @@
   police-code: null
   tags: null
   victim: Nadia Sattar (43)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 10 Feb 2017
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 92f789e
+  imprisonment: null
+  killer-vehicle: HGV
+  links:
+  - http://camdennewjournal.com/article/driver-in-fatal-crash-did-not-check-mirrors-properly-inquest-told
+  - https://twitter.com/ormondroyd/status/1305425618826407936
+  offender-/-driver: Scott Gutteridge
+  plea: null
+  police-area: null
+  police-code: null
+  tags: phone
+  victim: Jennifer Heskins (55)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
@@ -16142,6 +16679,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 29 Nov 2016
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 59bdd85
+  imprisonment: null
+  killer-vehicle: Coach
+  links:
+  - http://camdennewjournal.com/article/questions-over-death-of-amazing-woman-in-lorry-collision-at-pedestrian-crossing
+  - http://islingtontribune.com/article/tragic-death-of-woman-who-feared-she-had-ms
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: null
+  tags: suicide
+  victim: Christine Luscombe (58)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 25 Nov 2016
   date-of-sentence: null
   disqualification: null
@@ -16158,6 +16717,28 @@
   victim: Thomas Taylor
   victim-dob: 10 June 1929
   victim-vehicle: mobility-scooter
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 Nov 2016
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2b9764c
+  imprisonment: null
+  killer-vehicle: Bus
+  links:
+  - http://camdennewjournal.com/article/questions-over-death-of-amazing-woman-in-lorry-collision-at-pedestrian-crossing
+  - http://www.camdennewjournal.co.uk/article/brent-francis-inquest-cause-of-bus-collision-death-may-never-be-known
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Brent Francis (47)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: The mother of a teenage moped rider who died in a hit-and-run crash told
     of her disgust today after the joyrider who killed him was sent to prison for
@@ -16246,6 +16827,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 13 Sep 2016
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0dd6b4a
+  imprisonment: null
+  killer-vehicle: cement mixer lorry
+  links:
+  - http://camdennewjournal.com/article/questions-over-death-of-amazing-woman-in-lorry-collision-at-pedestrian-crossing
+  - https://www.hamhigh.co.uk/news/teddy-bear-vigil-for-hampstead-heath-pensioner-sheila-karsberg-at-3533224
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Sheila Karsberg (79)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 12 Sep 2016
   date-of-sentence: null
   disqualification: null
@@ -16264,6 +16867,28 @@
   victim: Lennon Toland (5)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 19 Aug 2016
+  date-of-sentence: null
+  disqualification: 4 years
+  editor-notes: null
+  identifier: 17ed210
+  imprisonment: 2 years
+  killer-vehicle: Car
+  links:
+  - https://twitter.com/ormondroyd/status/1262104156032073728
+  - https://www.cornwalllive.com/news/cornwall-news/sentences-judges-cornwall-given-drivers-728005
+  offender-/-driver: Jack Bright (19)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: 91/50 solid-white-line
+  victim: Marek Cook
+  victim-dob: null
+  victim-vehicle: Car
 -
   comment: null
   community-order: null
@@ -16585,6 +17210,28 @@
   - Paul Grice (24)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: Stoke-on-Trent Crown
+  date-of-incident: Thu, 14 Apr 2016
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: bff31ef
+  imprisonment: 12 month
+  killer-vehicle: Volvo XC90 Car
+  links:
+  - https://twitter.com/ormondroyd/status/1262105817479884800
+  - https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-36102844
+  offender-/-driver: Shakeeb Zamir (21)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: hit-and-run theft uninsured
+  victim: Kayden Dunn (7)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: The court heard Balu had also gone through a red light before hitting Ms
     Shapiro on Birmingham Road, West Midlands Police said.
@@ -17186,6 +17833,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 27 Jun 2014
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f61fda8
+  imprisonment: null
+  killer-vehicle: VW Polo car
+  links: https://www.bbc.co.uk/news/uk-england-somerset-35040958
+  offender-/-driver: Jasmine Larder (20)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim:
+  - Ellie Clare (19)
+  - George Stott
+  victim-dob: null
+  victim-vehicle: Passenger
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 2 May 2014
   date-of-sentence: null
   disqualification: null
@@ -17482,6 +18151,33 @@
   victim: Callum Hilton (16)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: Shrewsbury Crown Court
+  date-of-incident: Wed, 17 Oct 2012
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a2b96c9
+  imprisonment: null
+  killer-vehicle:
+  - red Kika Rio Car
+  - blue Ford Fiesta
+  - VW transporter van
+  links:
+  - https://twitter.com/ormondroyd/status/1196736869012254720
+  - https://www.shropshirestar.com/news/2014/11/06/two-deny-death-of-shropshire-cyclist/
+  offender-/-driver:
+  - Pamela Willocks (50)
+  - Russel Davies (54)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: sun
+  victim: John Edmund Searle (59)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: Addlestone rdbt
   community-order: 180 hrs
@@ -18755,6 +19451,33 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 4 Jun 2008
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: aea6e0a
+  imprisonment: null
+  killer-vehicle:
+  - Ford Galaxy car
+  - Ford Mondeo car
+  links:
+  - http://ghostbikes.org/brighton/marie-vesco
+  - https://forum.cyclinguk.org/viewtopic.php?p=178230#p178230
+  - https://www.getreading.co.uk/news/local-news/protest-memory-anthony-maynard-4236482
+  offender-/-driver:
+  - Pamela Sweetman
+  - William Keith Davis
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Marie Vesco (19)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
   comment: fine 500 GBP
   community-order: null
   court: null
@@ -18797,6 +19520,32 @@
   victim: Jason MacIntyre
   victim-dob: 20 September 1973
   victim-vehicle: null
+-
+  comment: "\xA3500 and given 9 points"
+  community-order: null
+  court: null
+  date-of-incident: Mon, 7 Jan 2008
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9029c1d
+  imprisonment: null
+  killer-vehicle:
+  - Vauxhall Corsa car
+  - skip lorry
+  links:
+  - https://twitter.com/ormondroyd/status/1178078551825960967
+  - https://www.swindonadvertiser.co.uk/news/3944169.cyclist-died-in-collision-inquest-hears/
+  offender-/-driver:
+  - Reginald Archer
+  - Colin Stocking
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Denise Margiotta (54)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
@@ -24053,391 +24802,12 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
-  identifier: 5a9fd89
-  imprisonment: 2 years
-  killer-vehicle: HGV
-  links: https://twitter.com/ormondroyd/status/1303063383458091009
-  offender-/-driver: Jordan Leonard
-  plea: null
-  police-area: null
-  police-code: null
-  tags: phone
-  victim: Thomas Harker
-  victim-dob: null
-  victim-vehicle: Car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 0f3ccb2
-  imprisonment: null
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1288856886213779456
-  offender-/-driver: null
-  plea: null
-  police-area: null
-  police-code: null
-  tags: alcohol no-charges
-  victim: Sze-Ming Cheung
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: '3854789'
-  imprisonment: null
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1177231034787778561
-  offender-/-driver: Daniel Tilley
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Steve Lord
-  victim-dob: null
-  victim-vehicle: Motorcycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 34d2613
-  imprisonment: 28 months
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1195660823663955969
-  offender-/-driver: null
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Sonata Saulytyte
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: "fined \xA3120"
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 615f11b
-  imprisonment: null
-  killer-vehicle: Bus
-  links: https://twitter.com/ormondroyd/status/1177570217888821250
-  offender-/-driver: Michael Parker
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Sian Ellie (15)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 6 years
-  editor-notes: null
-  identifier: 1d4ca62
-  imprisonment: 4 years 8 months
-  killer-vehicle: Ford Focus car
-  links: https://twitter.com/ormondroyd/status/1189997319497891841
-  offender-/-driver: Martin Cameron
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 125/60?
-  victim: Shaun Allen (26)
-  victim-dob: null
-  victim-vehicle: Garden
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 4.5 years
-  editor-notes: null
-  identifier: ea0f4c7
-  imprisonment: 3 years, 2 months
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1189999068199546880
-  offender-/-driver: Gavin Featherstone
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 70/30
-  victim: Petru Barticel
-  victim-dob: null
-  victim-vehicle: Bicycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 75658fa
-  imprisonment: 7 years
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1203237386873954304
-  offender-/-driver: Abid Mohmood
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 60/30
-  victim: Person (2)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 4 years
-  editor-notes: null
-  identifier: 33e8ee9
-  imprisonment: 10 months
-  killer-vehicle: Motorbike
-  links: https://twitter.com/ormondroyd/status/1187075429896802305
-  offender-/-driver: Leroy Campbell-Brown
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 92/30
-  victim: Person
-  victim-dob: null
-  victim-vehicle: Motorbike
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 3d75685
-  imprisonment: 16 months jail for careless driving
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1175111976537808897
-  offender-/-driver: Deryon King
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Megan Burrows
-  victim-dob: null
-  victim-vehicle: Passenger
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: f811fb4
-  imprisonment: null
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1177971895741960192
-  offender-/-driver: Cameron MacFadyen
-  plea: null
-  police-area: null
-  police-code: null
-  tags: sun
-  victim: Mark Georgeson
-  victim-dob: null
-  victim-vehicle: Bicycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: aea6e0a
-  imprisonment: null
-  killer-vehicle: Vehicle
-  links: https://www.getreading.co.uk/news/local-news/protest-memory-anthony-maynard-4236482
-  offender-/-driver: null
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Marie Vesco (19)
-  victim-dob: null
-  victim-vehicle: Bicycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 4 years
-  editor-notes: null
-  identifier: 17ed210
-  imprisonment: 2 years
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1262104156032073728
-  offender-/-driver: Jack Bright
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 91/? solid-white-line
-  victim: Marek Cook
-  victim-dob: null
-  victim-vehicle: Car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 95a8ccb
-  imprisonment: 52 months
-  killer-vehicle: Lorry
-  links: https://twitter.com/ormondroyd/status/1184085944053501953
-  offender-/-driver: Raymond Hogg
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 50/0 phone queue
-  victim: Mandy Snowling (43)
-  victim-dob: null
-  victim-vehicle: Car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 3e8cd3e
-  imprisonment: null
-  killer-vehicle: Road
-  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2020/november/16-11-2020/appeal-for-witnesses-following-fatal-road-traffic-collision--west-hagbourne-oxfordshire/
-  offender-/-driver: null
-  plea: null
-  police-area: Thames Valley
-  police-code: 43200376767
-  tags: null
-  victim: Man (41)
-  victim-dob: null
-  victim-vehicle: black BMW 1 Series car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: bff31ef
-  imprisonment: 12 month
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1262105817479884800
-  offender-/-driver: Shakeeb Zamir
-  plea: null
-  police-area: null
-  police-code: null
-  tags: hit-and-run theft uninsured
-  victim: Kayden Dunn (7)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  cause: drink
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 5 years
-  editor-notes: null
-  identifier: a7c5982
-  imprisonment: 4 years
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1177615648693919747
-  offender-/-driver: Brad Hayden
-  plea: null
-  police-area: null
-  police-code: null
-  tags: alcohol
-  victim: Karly Heweson
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: a2b96c9
-  imprisonment: null
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1196736869012254720
-  offender-/-driver: null
-  plea: null
-  police-area: null
-  police-code: null
-  tags: sun
-  victim: John Searle
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 1239aea
-  imprisonment: 18 months (suspended)
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1191686432051515393
-  offender-/-driver: Laura Hope
-  plea: null
-  police-area: null
-  police-code: null
-  tags: cannabis
-  victim: John Hevey (61)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
   identifier: 3b3423b
   imprisonment: null
   killer-vehicle: Lorry
-  links: http://www.bbc.co.uk/worldservice/specials/1331_testimonies/page12.shtml
+  links:
+  - http://www.bbc.co.uk/worldservice/specials/1331_testimonies/page12.shtml
+  - http://www.parishchurch.leatherheadweb.org.uk/remembpc/jim-caroline-williams.htm
   offender-/-driver: null
   plea: null
   police-area: null
@@ -24447,52 +24817,9 @@
   victim-dob: null
   victim-vehicle: Car
 -
-  comment: null
+  comment: September 2018
   community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 92f789e
-  imprisonment: null
-  killer-vehicle: HGV
-  links: https://twitter.com/ormondroyd/status/1305425618826407936
-  offender-/-driver: null
-  plea: null
-  police-area: null
-  police-code: null
-  tags: phone
-  victim: Jennifer Heskins
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: 100 hours
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 2 years
-  editor-notes: null
-  fine: "\xA3105"
-  identifier: cd9c2d7
-  imprisonment: null
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1196468141532106752
-  offender-/-driver: Max Coopey
-  plea: null
-  police-area: null
-  police-code: null
-  tags: cannabis
-  victim:
-  - Jason Imi
-  - John Shackley
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
+  court: Newcastle Crown Court
   date-of-incident: null
   date-of-sentence: null
   disqualification: null
@@ -24509,225 +24836,3 @@
   victim: Janusz Wojciechowski (85)
   victim-dob: null
   victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 8c71748
-  imprisonment: null
-  killer-vehicle: null
-  links: https://twitter.com/ormondroyd/status/1177739403319562240
-  offender-/-driver: Victoria Barker
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 40+/20 alcohol cocaine
-  victim: Jackson Pickering (18)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: a4af6f7
-  imprisonment: 9 years
-  killer-vehicle: car
-  links: https://twitter.com/ormondroyd/status/1174957708274892801
-  offender-/-driver: Ivan Girga
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 72/30
-  victim: Ghusanfar Illyas (42)
-  victim-dob: null
-  victim-vehicle: Car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 3 years
-  editor-notes: null
-  identifier: fe80f6e
-  imprisonment: 12 months
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1186719750375837702
-  offender-/-driver: Steve Cheung
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Gavin Moore
-  victim-dob: null
-  victim-vehicle: Bicycle
--
-  comment: "\xA3800 fine, 6 points"
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 85984f2
-  imprisonment: null
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1178062379604729857
-  offender-/-driver: Suzanne Lavelle
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Female (82)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: "\xA3500 and given 9 points"
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 9029c1d
-  imprisonment: null
-  killer-vehicle: skip lorry
-  links: https://twitter.com/ormondroyd/status/1178078551825960967
-  offender-/-driver: Reginald Archer
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim: Denise Margiotta
-  victim-dob: null
-  victim-vehicle: Bicycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: f5352ac
-  imprisonment: 14 months
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1178062379604729857
-  offender-/-driver: Charles MacCartney
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim:
-  - Dean Weir
-  - Sandra Weir
-  victim-dob: null
-  victim-vehicle: Car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 6 years
-  editor-notes: null
-  identifier: b4afd42
-  imprisonment: 4 years 6 months
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1183763997729939457
-  offender-/-driver: Carl White
-  plea: null
-  police-area: null
-  police-code: null
-  tags: 70/30 hit-and-run undertaking
-  victim: Charlotte Carol (19)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: bdb870c
-  imprisonment: null
-  killer-vehicle: HGV
-  links: https://twitter.com/ormondroyd/status/1258698048793915394
-  offender-/-driver: null
-  plea: null
-  police-area: null
-  police-code: null
-  tags: acquitted
-  victim: Barry Brettell
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: 2 years
-  editor-notes: null
-  identifier: d03b244
-  imprisonment: suspended
-  killer-vehicle: Porsche car
-  links: null
-  offender-/-driver: David McSkimming
-  plea: null
-  police-area: null
-  police-code: null
-  tags: ?/40
-  victim: Anthony Satterwaite
-  victim-dob: null
-  victim-vehicle: bicycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: be08159
-  imprisonment: 8 years
-  killer-vehicle: Car
-  links: https://twitter.com/ormondroyd/status/1186670522295300101
-  offender-/-driver: Jake Waterhouse
-  plea: null
-  police-area: null
-  police-code: null
-  tags: alcohol uninsured unlicensed
-  victim: Anna Roselyn Evans
-  victim-dob: null
-  victim-vehicle: Tent
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 3f9fe63
-  imprisonment: null
-  killer-vehicle: null
-  links: https://merseyside.police.uk/news/merseyside/news/2021/january/appeal-after-fatal-collision-in-st-helens/
-  offender-/-driver: null
-  plea: null
-  police-area: Merseyside
-  police-code: null
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null

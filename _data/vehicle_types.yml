@@ -56,6 +56,7 @@
 '535': null
 55/40: F48B
 58/20: F48B
+59/40: null
 '6': null
 60/20: F48B
 60/30: F48B
@@ -66,9 +67,8 @@
 '75': null
 '750': null
 900cc: null
-91/?: F48B
+91/50: null
 92/30: F48B
-?/40: F48B
 a: null
 a-class: null
 a1: null
@@ -90,6 +90,7 @@ alfa: null
 alhambra: null
 almera: null
 altea: null
+alto: null
 amg: null
 and: null
 angry: F556
@@ -199,7 +200,7 @@ front: null
 ftr: null
 fullback: null
 fusion: F5E4
-garden: F554
+galaxy: null
 gas: null
 gear: null
 golf: null
@@ -236,6 +237,7 @@ impreza: null
 in: null
 indian: null
 insignia: F5E4
+insurance: null
 iveco: null
 jaguar: null
 jazz: F5E4
@@ -247,6 +249,7 @@ ka: null
 kawasaki: null
 kia: null
 kick-scooter: F8DA
+kika: null
 km05hht: null
 knife: F007
 kodiaq: null
@@ -284,6 +287,7 @@ medical: F21E
 megane: null
 mercedes: null
 mercedes-benz: null
+mg: null
 micra: null
 milano: null
 military: null
@@ -304,6 +308,7 @@ mph: null
 mpv: null
 murder: F556
 mv: null
+navara: null
 nine-seater: null
 nissan: null
 'no': null
@@ -382,6 +387,7 @@ scrambler: null
 scrambler-type: null
 seat: null
 series: null
+sgf: null
 shogun: null
 silver: null
 single: null
@@ -399,6 +405,7 @@ ssangyong: null
 stationary: null
 street: null
 subaru: null
+suicide: null
 sun: F8DD
 suv: F63C
 suzuki: null
@@ -437,6 +444,7 @@ unlicenced: null
 unlicensed: F2C2
 up: null
 v60: null
+v70: null
 van: F0D1
 vauxhall: null
 vectra: null
@@ -469,3 +477,4 @@ yellow: null
 yzf: null
 zafira: null
 zetec: null
+zs: null

@@ -291,6 +291,11 @@ index_page = """<!DOCTYPE html>
         that was published around 2013, and an epic Twitter thread by <a href="https://twitter.com/ormondroyd">@ormondroyd</a> entitled
         &ldquo;<a href="https://twitter.com/ormondroyd/status/910244326567006211">A thread for all the pundits lining up to wring their hands about dangerous cycling and light sentencing</a>&rdquo;.
     </p>
+    <h2 id="other-projects">Other Projects</h2>
+    <ul>
+        <li><a href="https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/">Vision Zero London</a></li>
+        <li><a href="https://cyclistskilledontheroads.wordpress.com/">Cyclists killed on the Roads</a></li>
+    </ul>
   </body>
 </html>
 
