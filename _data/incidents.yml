@@ -1400,6 +1400,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 6 Apr 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 06d1279
+  imprisonment: null
+  killer-vehicle: small van
+  links: https://www.surrey.police.uk/news/surrey/news/2021/03/witness-appeal-following-serious-collision-on-a322-in-lightwater/
+  offender-/-driver: null
+  plea: null
+  police-area: Surrey
+  police-code: PR/45210035196
+  tags: null
+  victim: Woman (74)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 4 Apr 2021
   date-of-sentence: null
   disqualification: null
@@ -1458,7 +1478,7 @@
   offender-/-driver: null
   plea: null
   police-area: Surrey
-  police-code: PR/ P21066659
+  police-code: PR/P21066659
   tags: null
   victim: Man (92)
   victim-dob: null
@@ -1634,6 +1654,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 9 Mar 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9d7031c
+  imprisonment: null
+  killer-vehicle: black Audi A4 car
+  links: https://www.surrey.police.uk/news/surrey/news/2021/03/appeal-for-witnesses-following-fatal-collision-in-chertsey/
+  offender-/-driver: null
+  plea: null
+  police-area: Surrey
+  police-code: PR/P21048926
+  tags: null
+  victim: Woman (70s)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 1 Mar 2021
   date-of-sentence: null
   disqualification: null
@@ -1681,8 +1721,10 @@
   identifier: 174fbda
   imprisonment: null
   killer-vehicle: blue BMW car
-  links: https://www.surrey.police.uk/news/surrey/news/2021/02/police-appeal-for-witnesses-after-fatal-collision-in-laleham/
-  offender-/-driver: null
+  links:
+  - https://www.surrey.police.uk/news/surrey/news/2021/02/police-appeal-for-witnesses-after-fatal-collision-in-laleham/
+  - https://www.surrey.police.uk/news/surrey/news/2021/03/update-fatal-collision-in-shepperton/
+  offender-/-driver: Man (25)
   plea: null
   police-area: Surrey
   police-code: PR/P21037307
@@ -4489,16 +4531,18 @@
   victim-vehicle: null
 -
   comment: null
-  community-order: null
-  court: null
+  community-order: 200 hours unpaid work, given a six month curfew
+  court: "Guildford Magistrates\u2019 Court"
   date-of-incident: Fri, 16 Oct 2020
   date-of-sentence: null
-  disqualification: null
+  disqualification: 2 years
   editor-notes: null
   identifier: c732f94
   imprisonment: null
   killer-vehicle: car
-  links: https://www.surrey.police.uk/news/surrey/news/2021/01/woman-charged-following-fatal-collision-in-runfold/
+  links:
+  - https://www.surrey.police.uk/news/surrey/news/2021/01/woman-charged-following-fatal-collision-in-runfold/
+  - https://www.surrey.police.uk/news/surrey/news/2021/04/woman-sentenced-following-fatal-collision-in-runfold/
   offender-/-driver: Victoria Howell (23)
   plea: null
   police-area: Surrey
@@ -11441,6 +11485,26 @@
   victim: Female (65 and over)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: Guildford Crown Court
+  date-of-incident: Thu, 9 Jan 2020
+  date-of-sentence: 23 February 2021
+  disqualification: 30 months
+  editor-notes: null
+  identifier: ec3013f
+  imprisonment: 12 months
+  killer-vehicle: BMW 520 car
+  links: https://www.surrey.police.uk/news/surrey/news/2021/02/man-sentenced-after-fatal-whyteleafe-hit-and-run/
+  offender-/-driver: Mitchell Locke (26)
+  plea: null
+  police-area: Surrey
+  police-code: null
+  tags: hit-and-run
+  victim: Matthew Berry (30)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
