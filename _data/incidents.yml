@@ -386,6 +386,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: ea08004
+  imprisonment: null
+  killer-vehicle: white VW Golf
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/june-2021/appeal-for-information-after-fatal-collision-in-southampton/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44210239245
+  tags: null
+  victim: Man (73)
+  victim-dob: null
+  victim-vehicle: yellow Mazda MX-5 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 2d9d7ac
   imprisonment: null
   killer-vehicle: white Mercedes Sprinter van
@@ -550,6 +570,28 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: b961e3c
+  imprisonment: null
+  killer-vehicle:
+  - black Nissan Qashqai car
+  - grey Skoda Fabia car
+  links: https://www.hampshirealert.co.uk/da/387754
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44210236838
+  tags: null
+  victim: James East (59)
+  victim-dob: null
+  victim-vehicle: black Honda CBR motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 16 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 05932b1
   imprisonment: null
   killer-vehicle: grey Citroen DS3 car
@@ -690,6 +732,26 @@
   victim: Woman (25)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 8 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8fe975e
+  imprisonment: null
+  killer-vehicle: blue Mini Cooper car
+  links: https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/police-identify-man-who-died-in-sparsholt-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44210223675
+  tags: null
+  victim: David Davenport (59)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
