@@ -192,6 +192,46 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 3 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 72b23df
+  imprisonment: null
+  killer-vehicle: Citroen car
+  links: https://www.gloucestershirelive.co.uk/news/gloucester-news/cotswolds-fatal-crash-young-pedestrian-5607355
+  offender-/-driver: null
+  plea: null
+  police-area: Gloucestershire
+  police-code: 30 of 3 July
+  tags: null
+  victim: Man (23)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 2 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0fab04d
+  imprisonment: null
+  killer-vehicle: Mercedes car
+  links: https://www.gloucestershirelive.co.uk/news/gloucester-news/brockworth-tesco-crash-know-roads-5606487
+  offender-/-driver: null
+  plea: null
+  police-area: Gloucestershire
+  police-code: 554 of 2 July
+  tags: null
+  victim: Man (30s)
+  victim-dob: null
+  victim-vehicle: driver
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 1 Jul 2021
   date-of-sentence: null
   disqualification: null
@@ -219,7 +259,9 @@
   identifier: 36a3a26
   imprisonment: null
   killer-vehicle: Mercedes Actros HGV
-  links: https://www.lancashire.police.uk/news/2021/july/witness-appeal-after-fatal-motorway-collision/
+  links:
+  - https://www.lancashire.police.uk/news/2021/july/witness-appeal-after-fatal-motorway-collision/
+  - https://www.lancashiretelegraph.co.uk/news/19411662.one-person-killed-m6-crash-standish-leyland/
   offender-/-driver: null
   plea: null
   police-area: Lancashire
