@@ -84,6 +84,7 @@ a7: null
 a8: null
 aa: null
 acquitted: null
+actros: null
 agricultural: 1F69C
 agusta: null
 alcohol: F4E3
@@ -144,6 +145,7 @@ car: F5E4
 car?: null
 case: null
 cattle: null
+cb1000: null
 cbf125: null
 cbr: null
 ceed: F5E4
@@ -298,6 +300,7 @@ minivan: null
 mito: null
 mitsubishi: null
 mixer: null
+mobility: null
 mobility-scooter: F8DB
 modified: null
 mokka: null
@@ -385,6 +388,7 @@ saloon: null
 scania: null
 scenic: null
 scirocco: null
+scooter: null
 scrambler: null
 scrambler-type: null
 seat: null
@@ -399,6 +403,7 @@ slk: null
 small: null
 smart: null
 solid-white-line: F8E5
+speed: null
 speeding: null
 sport: null
 sportage: null
@@ -471,6 +476,7 @@ x5: null
 xc60: null
 xc90: null
 xf: null
+xj: null
 xsara: null
 yahama: null
 yamaha: null

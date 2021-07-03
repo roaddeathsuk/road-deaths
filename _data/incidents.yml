@@ -192,6 +192,46 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 1 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 280bf83
+  imprisonment: null
+  killer-vehicle: stationary lorry
+  links: https://www.sussex.police.uk/news/sussex/news/witness-appeals/appeal-for-witnesses-to-a-fatal-collision-at-uckfield/
+  offender-/-driver: null
+  plea: null
+  police-area: Sussex
+  police-code: Operation Trend
+  tags: null
+  victim: Man (70)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 1 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 36a3a26
+  imprisonment: null
+  killer-vehicle: Mercedes Actros HGV
+  links: https://www.lancashire.police.uk/news/2021/july/witness-appeal-after-fatal-motorway-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Lancashire
+  police-code: 0063 of July 1, 2021
+  tags: null
+  victim: Man (20s)
+  victim-dob: null
+  victim-vehicle: Seat Ibiza
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 27 Jun 2021
   date-of-sentence: null
   disqualification: null
@@ -222,12 +262,12 @@
   links:
   - https://www.avonandsomerset.police.uk/news/2021/06/m5-southbound-closed-following-fatal-collision/
   - https://www.avonandsomerset.police.uk/news/2021/06/witnesses-and-footage-sought-after-fatal-m5-collision-somerset/
-  offender-/-driver: null
+  offender-/-driver: Man (30s)
   plea: null
   police-area: Avon and Somerset
   police-code: 5221142767
   tags: null
-  victim: null
+  victim: Dalius Jensauskis (27)
   victim-dob: null
   victim-vehicle: Passenger
 -
@@ -248,6 +288,88 @@
   police-code: 1214 of June 26
   tags: alcohol
   victim: Sion Chaisty (44)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 26 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 35eacbd
+  imprisonment: null
+  killer-vehicle:
+  - white Mercedes hgv
+  - black Volkswagen Touran car
+  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/28-06-2021/appeal-for-witnesses-following-fatal-road-traffic-collision--a41-woodham-buckinghamshire/
+  offender-/-driver: null
+  plea: null
+  police-area: Thames Valley
+  police-code: 43210281835
+  tags: null
+  victim: Man (45)
+  victim-dob: null
+  victim-vehicle: blue Yamaha motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 26 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '7748899'
+  imprisonment: null
+  killer-vehicle: red Nissan Juke
+  links: https://www.humberside.police.uk/witness-appeals/appeal-following-fatal-road-traffic-collision-a1033-patrington-road
+  offender-/-driver: null
+  plea: null
+  police-area: Humberside
+  police-code: 652 of 26 June
+  tags: speed
+  victim: Man
+  victim-dob: null
+  victim-vehicle: motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 25 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6d9e572
+  imprisonment: null
+  killer-vehicle: white Seat Ibiza
+  links: https://www.cambs.police.uk/news-and-appeals/woman-dies-following-peterborough-collision
+  offender-/-driver: Man (40s)
+  plea: null
+  police-area: Cambridgeshire
+  police-code: 163 of 25 June
+  tags: null
+  victim: null
+  victim-dob: Woman (80s)
+  victim-vehicle: mobility scooter
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 21 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6bf7f96
+  imprisonment: null
+  killer-vehicle: car
+  links: https://news.met.police.uk/news/appeal-to-trace-driver-after-man-dies-following-collision-in-ealing-430532
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: CAD 7101/21JUN
+  tags: null
+  victim: Man (66)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
@@ -570,6 +692,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: acb622d
+  imprisonment: null
+  killer-vehicle: blue Jaguar XJ car
+  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/14-06-2021/appeal-for-witnesses-of-a-fatal-road-traffic-collision--milton-keynes/
+  offender-/-driver: null
+  plea: null
+  police-area: Thames Valley
+  police-code: 43210264980
+  tags: null
+  victim: Man (24)
+  victim-dob: null
+  victim-vehicle: black Honda CB1000 motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 16 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: b961e3c
   imprisonment: null
   killer-vehicle:
@@ -626,6 +768,46 @@
   victim: Jamie Huscroft (19)
   victim-dob: null
   victim-vehicle: Driver
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 13 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c338acc
+  imprisonment: null
+  killer-vehicle: silver BMW 1 Series car
+  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/14-06-2021/man-arrested-in-connection-with-fatal-road-traffic-collision--a34-near-chieveley/
+  offender-/-driver: Man (43)
+  plea: null
+  police-area: Thames Valley
+  police-code: null
+  tags: null
+  victim: Man (50s)
+  victim-dob: null
+  victim-vehicle: Motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 13 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8e129b7
+  imprisonment: null
+  killer-vehicle: Van
+  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/june/14-06-2021/appeal-for-witnesses-following-fatal-road-traffic-collision--henley-on-thames/
+  offender-/-driver: Man (57)
+  plea: null
+  police-area: Thames Valley
+  police-code: 43210259113
+  tags: drugs
+  victim: Man (45)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
@@ -836,6 +1018,28 @@
   victim: Mark Jenkins (58)
   victim-dob: null
   victim-vehicle: Piaggio moped
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 2 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e5a59c7
+  imprisonment: null
+  killer-vehicle:
+  - Ford Transit van
+  - black Fiat 500 car
+  links: https://northyorkshire.police.uk/news/appeal-for-information-after-fatal-collision-near-selby/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12210130779
+  tags: null
+  victim: Female
+  victim-dob: null
+  victim-vehicle: blue Suzuki Swift car
 -
   comment: null
   community-order: null
