@@ -219,7 +219,9 @@
   identifier: 0fab04d
   imprisonment: null
   killer-vehicle: Mercedes car
-  links: https://www.gloucestershirelive.co.uk/news/gloucester-news/brockworth-tesco-crash-know-roads-5606487
+  links:
+  - https://www.gazetteseries.co.uk/news/19417796.man-dies-single-car-collision-near-tesco-brockworth/
+  - https://www.gloucestershirelive.co.uk/news/gloucester-news/brockworth-tesco-crash-know-roads-5606487
   offender-/-driver: null
   plea: null
   police-area: Gloucestershire
@@ -239,7 +241,9 @@
   identifier: 280bf83
   imprisonment: null
   killer-vehicle: stationary lorry
-  links: https://www.sussex.police.uk/news/sussex/news/witness-appeals/appeal-for-witnesses-to-a-fatal-collision-at-uckfield/
+  links:
+  - https://uckfieldnews.com/cyclist-dies-in-a22-maresfield-by-pass-crash/
+  - https://www.sussex.police.uk/news/sussex/news/witness-appeals/appeal-for-witnesses-to-a-fatal-collision-at-uckfield/
   offender-/-driver: null
   plea: null
   police-area: Sussex
@@ -304,6 +308,7 @@
   links:
   - https://www.avonandsomerset.police.uk/news/2021/06/m5-southbound-closed-following-fatal-collision/
   - https://www.avonandsomerset.police.uk/news/2021/06/witnesses-and-footage-sought-after-fatal-m5-collision-somerset/
+  - https://www.somersetlive.co.uk/news/somerset-news/dad-twins-killed-m5-crash-5596880
   offender-/-driver: Man (30s)
   plea: null
   police-area: Avon and Somerset
@@ -1142,6 +1147,26 @@
   victim: Man (40s)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 1 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 54b090c
+  imprisonment: null
+  killer-vehicle: blue Saab 93 car
+  links: https://www.theboltonnews.co.uk/news/19416032.police-appeal-cyclist-40s-dies-horwich-collision/
+  offender-/-driver: Man (33)
+  plea: null
+  police-area: null
+  police-code: 2272 of 1/7/21
+  tags: disqualified
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
@@ -18383,14 +18408,16 @@
   disqualification: null
   editor-notes: null
   identifier: e9b74d9
-  imprisonment: null
+  imprisonment: 6 years
   killer-vehicle: Volvo XC90 car
-  links: https://www.dorset.police.uk/news-information/news-archive/a31-fatal-collision-man-arrested-and-car-seized/
-  offender-/-driver: Man (58)
+  links:
+  - https://www.bournemouthecho.co.uk/news/11041801.jade-clarks-hit-and-run-killer-brian-hampton-has-appeal-dismissed/
+  - https://www.dorset.police.uk/news-information/news-archive/a31-fatal-collision-man-arrested-and-car-seized/
+  offender-/-driver: Brian Hampton (58)
   plea: null
   police-area: Dorset
   police-code: 24:393
-  tags: hit-and-run
+  tags: disqualified hit-and-run perverting-the-course-of-justice uninsured
   victim: Jade Clark (16)
   victim-dob: null
   victim-vehicle: moped
