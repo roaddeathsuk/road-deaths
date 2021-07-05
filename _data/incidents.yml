@@ -196,6 +196,30 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: d0a508d
+  imprisonment: null
+  killer-vehicle: tractor
+  links:
+  - https://www.bbc.co.uk/news/uk-england-cumbria-57720741
+  - https://www.lancs.live/news/local-news/two-people-killed-a66-tractor-20972850
+  offender-/-driver: Man (20)
+  plea: null
+  police-area: Cumbria
+  police-code: 51 of the 3rd July 2021
+  tags: null
+  victim:
+  - Shaun Milburn (34)
+  - Michelle Pattinson (42)
+  victim-dob: null
+  victim-vehicle: black Ford S-Max car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 3 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: dd8ed8d
   imprisonment: null
   killer-vehicle: grey Volkswagen Polo car
@@ -295,6 +319,28 @@
   victim: Man (20s)
   victim-dob: null
   victim-vehicle: Seat Ibiza
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 29 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 93da2e9
+  imprisonment: null
+  killer-vehicle: white Ford Transit van
+  links:
+  - https://www.scotland.police.uk/what-s-happening/news/2021/june/appeal-for-witnesses-following-fatal-road-crash-a82-south-of-inverness/
+  - https://www.scotland.police.uk/what-s-happening/news/2021/june/update-man-named-following-fatal-road-crash-on-the-a82/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 3159 of Tuesday, 29 June, 2021
+  tags: null
+  victim: Andy McDiarmid (51)
+  victim-dob: null
+  victim-vehicle: black and red Honda CBR motorcycle
 -
   comment: null
   community-order: null
@@ -15315,6 +15361,30 @@
   victim: Kevin Chang (25)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: Hull Crown Court
+  date-of-incident: Tue, 3 Apr 2018
+  date-of-sentence: October 2020
+  disqualification: null
+  editor-notes: null
+  identifier: 3ec397c
+  imprisonment: 6 years
+  killer-vehicle: hgv
+  links: https://www.humberside.police.uk/news/haulage-company-owner-sentenced-15-years-jail-and-driver-sentenced-six-years-after-two-men-died
+  offender-/-driver:
+  - Jack Beston (22)
+  - Michael Holgate (39)
+  plea: null
+  police-area: Humberside
+  police-code: null
+  tags: null
+  victim:
+  - John-Paul Cassidy (37)
+  - Nigel Eley (41)
+  victim-dob: null
+  victim-vehicle: black Lexus car
 -
   comment: null
   community-order: null
