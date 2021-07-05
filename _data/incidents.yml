@@ -196,6 +196,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: dd8ed8d
+  imprisonment: null
+  killer-vehicle: grey Volkswagen Polo car
+  links: https://www.southyorks.police.uk/find-out/news-and-appeals/2021/july-2021/fatal-collision-in-rotherham-can-you-help/
+  offender-/-driver: Man (22)
+  plea: null
+  police-area: South Yorkshire
+  police-code: 1119 of 3 July
+  tags: null
+  victim: Man (26)
+  victim-dob: null
+  victim-vehicle: white Ford Transit Connect van
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 3 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 72b23df
   imprisonment: null
   killer-vehicle: Citroen car
@@ -221,6 +241,7 @@
   killer-vehicle: Mercedes car
   links:
   - https://www.gazetteseries.co.uk/news/19417796.man-dies-single-car-collision-near-tesco-brockworth/
+  - https://www.gloucestershire.police.uk/news/gloucestershire/emergency-services-called-to-fatal-collision-in-brockworth/
   - https://www.gloucestershirelive.co.uk/news/gloucester-news/brockworth-tesco-crash-know-roads-5606487
   offender-/-driver: null
   plea: null
