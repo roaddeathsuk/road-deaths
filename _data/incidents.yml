@@ -212,6 +212,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 13 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: db53018
+  imprisonment: null
+  killer-vehicle: HGV
+  links:
+  - https://www.bbc.co.uk/news/uk-england-bristol-57833514
+  - https://www.wiltshire.police.uk/news/wiltshire/news/2021/july-2021/seven-year-girl-dies-following-collision-in-collingbourne-ducis/
+  offender-/-driver: null
+  plea: null
+  police-area: Wiltshire
+  police-code: 225 of 13 July 2021
+  tags: null
+  victim: Girl (7)
+  victim-dob: null
+  victim-vehicle: Cyclist
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 6 Jul 2021
   date-of-sentence: null
   disqualification: null
