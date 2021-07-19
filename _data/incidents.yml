@@ -192,6 +192,46 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 18 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e76d16a
+  imprisonment: null
+  killer-vehicle: red Fiat Punto
+  links: https://www.newsshopper.co.uk/news/19451339.bromley-driver-arrested-boy-riding-e-scooter-dies/
+  offender-/-driver: Man (20)
+  plea: null
+  police-area: null
+  police-code: 775/18JUL
+  tags: alcohol
+  victim: Boy (16)
+  victim-dob: null
+  victim-vehicle: e-scooter
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 6 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: fd0980d
+  imprisonment: null
+  killer-vehicle: lorry
+  links: https://www.halifaxcourier.co.uk/news/police-confirm-identity-of-woman-who-died-after-being-hit-by-lorry-in-halifax-3298849
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: 292 of 6 July
+  tags: null
+  victim: Sonya Majid (32)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 3 Jul 2021
   date-of-sentence: null
   disqualification: null
@@ -1187,6 +1227,13 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
+  belligerents:
+  - onboard:
+    - Mohammed Shahdab (39)
+    - Sheikala Razaq (39)
+    type: motorbike
+  - onboard:
+    - Man (47)
   comment: null
   community-order: null
   court: null
@@ -1207,7 +1254,7 @@
   - Mohammed Shahdab (39)
   - Sheikala Razaq (39)
   victim-dob: null
-  victim-vehicle: null
+  victim-vehicle: motorbike
 -
   comment: null
   community-order: null
