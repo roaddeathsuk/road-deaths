@@ -234,6 +234,30 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 12 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2e83067
+  imprisonment: null
+  involved:
+  - tipper lorry
+  - black Volkswagen Polo
+  - silver Renault Laguna
+  killer-vehicle: null
+  links: https://www.wiltshire.police.uk/news/wiltshire/news/2021/july-2021/update-man-injured-in-salisbury-collision-has-died-in-hospital/
+  offender-/-driver: null
+  plea: null
+  police-area: Wiltshire
+  police-code: 54210067367
+  tags: null
+  victim: Man (20s)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 6 Jul 2021
   date-of-sentence: null
   disqualification: null
@@ -7175,6 +7199,7 @@
   links:
   - https://www.bbc.co.uk/news/uk-england-wiltshire-53798413
   - https://www.thesun.co.uk/news/12437975/four-young-men-car-crash-a4-wiltshire-note-keep-partying/
+  - https://www.wiltshire.police.uk/news/wiltshire/news/2021/july-2021/inquest-held-following-last-years-fatal-collision-in-derry-hill/
   offender-/-driver: null
   plea: null
   police-area: Wiltshire
