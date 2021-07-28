@@ -192,6 +192,95 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 24 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  graph:
+  - date-of-death: 24 July 2021
+    name: Man (57)
+    vehicle: black Kawasaki Motorcycle
+  - driver: Woman (32)
+    passenger: Man (31)
+    vehicle: red Seat Leon car
+  identifier: 9ab9112
+  imprisonment: null
+  killer-vehicle: red Seat Leon car
+  links: https://www.sussex.police.uk/news/sussex/news/witness-appeals/appeal-for-witnesses-to-eastbourne-fatal-collision/
+  offender-/-driver: Woman (32)
+  plea: null
+  police-area: Sussex
+  police-code: Operation Soundex
+  tags: null
+  victim: Man (57)
+  victim-dob: null
+  victim-vehicle: black Kawasaki Motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 23 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 679f1e0
+  imprisonment: null
+  killer-vehicle: HGV
+  links: https://thelincolnite.co.uk/2021/07/two-men-die-in-a17-boston-crash/
+  offender-/-driver: null
+  plea: null
+  police-area: Lincolnshire
+  police-code: 212 of 23 July
+  tags: null
+  victim:
+  - Man (46)
+  - Man (31)
+  victim-dob: null
+  victim-vehicle: van
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 22 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 177e985
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.gloucestershirelive.co.uk/news/cheltenham-news/a417-fatal-crash-woman-dies-5692023
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: 43210326007
+  tags: null
+  victim: Woman (72)
+  victim-dob: null
+  victim-vehicle: car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 21 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '8445619'
+  imprisonment: null
+  killer-vehicle: grey Nissan X-Trail car
+  links: https://www.kent.police.uk/news/kent/latest/appeals/witnesses-sought-to-fatal-collision-in-lorsdwood/
+  offender-/-driver: null
+  plea: null
+  police-area: Kent
+  police-code: KH/LB/067/21
+  tags: null
+  victim: Male (36)
+  victim-dob: null
+  victim-vehicle: orange KTM 390 Duke motorbike
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 18 Jul 2021
   date-of-sentence: null
   disqualification: null
