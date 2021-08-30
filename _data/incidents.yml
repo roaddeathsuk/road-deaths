@@ -937,6 +937,27 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: 786bf3e
+  imprisonment: null
+  killer-vehicle: white VW Golf car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/june-2021/appeal-for-information-after-fatal-collision-in-southampton/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210239245'
+  tags: null
+  victim: Man (73)
+  victim-dob: null
+  victim-vehicle: yellow Mazda MX-5 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 19 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 2d9d7ac
   imprisonment: null
   killer-vehicle: white Mercedes Sprinter van
@@ -2750,6 +2771,27 @@
   victim: Selena Mystara Meyers (23)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 22 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 16ee994
+  imprisonment: null
+  killer-vehicle: red DAF lorry
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/january/witness-appeal-after-man-dies-in-a303-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210024951'
+  tags: null
+  victim: Man (41)
+  victim-dob: null
+  victim-vehicle: white Ford Transit van
 -
   comment: null
   community-order: null
@@ -12536,6 +12578,29 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: b76d860
+  imprisonment: null
+  killer-vehicle:
+  - Peugeot 807 car
+  - Land Rover Discovery car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/january/tribute-paid-to-man-who-died-following-collision-in-winchester/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200011478'
+  tags: null
+  victim: Robert George Soper (81)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 10 Jan 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 6a1f14e
   imprisonment: null
   killer-vehicle: grey Citroen C4 Picasso car
@@ -12926,6 +12991,27 @@
   victim: Male (30s)
   victim-dob: null
   victim-vehicle: blue BMW 535 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 17 Dec 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 418065c
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/december/tribute-paid-to-man-who-died-in-single-vehicle-collision-in-owslebury/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44190452045'
+  tags: null
+  victim: Harry James Turner (29)
+  victim-dob: null
+  victim-vehicle: car
 -
   comment: null
   community-order: null
@@ -27387,90 +27473,6 @@
   plea: null
   police-area: Hampshire
   police-code: '44200014162'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: b76d860
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/january/tribute-paid-to-man-who-died-following-collision-in-winchester/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200011478'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 418065c
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/december/tribute-paid-to-man-who-died-in-single-vehicle-collision-in-owslebury/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190452045'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 16ee994
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/january/witness-appeal-after-man-dies-in-a303-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210024951'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 786bf3e
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/june-2021/appeal-for-information-after-fatal-collision-in-southampton/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210239245'
   tags: null
   victim: null
   victim-dob: null
