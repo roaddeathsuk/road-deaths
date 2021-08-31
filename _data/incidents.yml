@@ -192,6 +192,48 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 30 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f118d52
+  imprisonment: null
+  killer-vehicle: silver Vauxhall Astra car
+  links:
+  - https://www.avonandsomerset.police.uk/news/2021/08/witnesses-sought-after-fatal-collision-on-the-m32/
+  offender-/-driver: Woman
+  plea: null
+  police-area: Avon and Somerset
+  police-code: '5221200131'
+  tags: alcohol
+  victim: Woman
+  victim-dob: null
+  victim-vehicle: Passenger
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 30 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: b167782
+  imprisonment: null
+  killer-vehicle: red Mazda 6 car
+  links:
+  - https://www.avonandsomerset.police.uk/news/2021/08/appeal-after-fatal-collision-on-the-a303-2/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: '5221200676'
+  tags: null
+  victim: Man
+  victim-dob: null
+  victim-vehicle: black Isuzu Rodeo pick-up
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Wed, 25 Aug 2021
   date-of-sentence: null
   disqualification: null
@@ -212,6 +254,27 @@
   - Person 3
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 10 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: cac4fe9
+  imprisonment: null
+  killer-vehicle: lorry
+  links:
+  - https://www.avonandsomerset.police.uk/news/2021/08/appeal-for-information-following-fatal-collision-on-a361-frome/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: '5221183217'
+  tags: null
+  victim: Man (52)
+  victim-dob: null
+  victim-vehicle: car
 -
   comment: null
   community-order: null
@@ -348,6 +411,27 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 19 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5d4575a
+  imprisonment: null
+  killer-vehicle: motorbike
+  links:
+  - https://www.avonandsomerset.police.uk/news/2021/07/hengrove_way_fatal_crash/
+  offender-/-driver: Man (20)
+  plea: null
+  police-area: Avon and Somerset
+  police-code: '5221163398'
+  tags: null
+  victim: Man
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 18 Jul 2021
   date-of-sentence: null
   disqualification: null
@@ -429,6 +513,29 @@
   police-code: 54210067367
   tags: null
   victim: Man (20s)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 11 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5b9d917
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.avonandsomerset.police.uk/news/2021/07/witnesses-and-dash-cam-sought-following-a36-fatal-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: '5221156383'
+  tags: null
+  victim:
+  - Person 1
+  - Person 2
   victim-dob: null
   victim-vehicle: null
 -
