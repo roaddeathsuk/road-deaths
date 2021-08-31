@@ -279,6 +279,27 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 3 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a561323
+  imprisonment: null
+  killer-vehicle: blue Vauxhall Corsa car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/august/family-pays-tribute-to-woman-who-died-in-collision-on-winston-churchill-avenue/
+  offender-/-driver: Man (32)
+  plea: null
+  police-area: Hampshire
+  police-code: '44210308587'
+  tags: alcohol drugs
+  victim: Sharon Randall (55)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 24 Jul 2021
   date-of-sentence: null
   disqualification: null
@@ -2791,7 +2812,7 @@
   offender-/-driver: null
   plea: null
   police-area: Hampshire
-  police-code: 44210071134
+  police-code: '44210071134'
   tags: driver
   victim: Woman (57)
   victim-dob: null
@@ -3070,6 +3091,27 @@
   plea: null
   police-area: Hampshire
   police-code: 44210014319
+  tags: null
+  victim: Bogdan Adrian Albon (39)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 13 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a97657c
+  imprisonment: null
+  killer-vehicle: blue Vauxhall Mokka car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/january/man-dies-following-collision-in-minley-on-january-13/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210014319'
   tags: null
   victim: Bogdan Adrian Albon (39)
   victim-dob: null
@@ -6021,6 +6063,28 @@
   victim: Nellie Loughlin (77)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 10 Oct 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f260c08
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/october/appeal-for-witnesses-after-fatal-collision-in-hayling-island/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/october/tribute-paid-to-man-who-sadly-died-in-single-vehicle-collision-in-hayling-island/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200393189'
+  tags: null
+  victim: Cameron Pierre Knouwds (20)
+  victim-dob: null
+  victim-vehicle: black Mazda 2 car
 -
   comment: null
   community-order: null
@@ -14342,6 +14406,30 @@
   victim: Andrew Dean (46)
   victim-dob: null
   victim-vehicle: white Renault Master van
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 17 Jul 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 09e85bd
+  imprisonment: null
+  killer-vehicle:
+  - Ford Transit van
+  - silver Peugeot Expert van
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/july/fatal-collision-on-the-a33-near-micheldever/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/july/tribute-is-paid-to-a-motorist-who-died-in-a-collision-in-micheldever/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44190249497'
+  tags: null
+  victim: Annie Holman (63)
+  victim-dob: null
+  victim-vehicle: blue Toyota Yaris car
 -
   comment: null
   community-order: null
@@ -27480,113 +27568,6 @@
   plea: null
   police-area: Hampshire
   police-code: '44210236838'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: a561323
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/august/family-pays-tribute-to-woman-who-died-in-collision-on-winston-churchill-avenue/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210308587'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: f260c08
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/october/appeal-for-witnesses-after-fatal-collision-in-hayling-island/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/october/tribute-paid-to-man-who-sadly-died-in-single-vehicle-collision-in-hayling-island/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200393189'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 376914e
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/february/appeal-after-fatal-collision-in-denmead/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210071134'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 09e85bd
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/july/fatal-collision-on-the-a33-near-micheldever/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/july/tribute-is-paid-to-a-motorist-who-died-in-a-collision-in-micheldever/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190249497'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: a97657c
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/january/man-dies-following-collision-in-minley-on-january-13/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210014319'
   tags: null
   victim: null
   victim-dob: null
