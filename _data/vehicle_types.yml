@@ -16,6 +16,7 @@
 125/60?: F48B
 125cc: null
 1275gt: null
+'1300': null
 18-foot: null
 19.2-tonne: null
 '2': null
@@ -96,6 +97,7 @@ agusta: null
 alcohol: F4E3
 alfa: null
 alhambra: null
+all-terrain: null
 almera: null
 altea: null
 alto: null
@@ -105,6 +107,7 @@ angry: F556
 aprilia: null
 aprilla: null
 arosa: null
+arrested: null
 artic: null
 articulated: null
 aston: null
@@ -143,6 +146,7 @@ c-max: null
 c180: null
 c2000: null
 c220: null
+c3: null
 c4: null
 cabriolet: null
 caddy: null
@@ -158,6 +162,7 @@ cbr: null
 ceed: F5E4
 cement: null
 chevrolet: null
+child: 1F9D2
 citigo: null
 citreon: null
 citroen: null
@@ -192,6 +197,7 @@ doblo: null
 door: F52B
 double-decker: null
 driver: F622
+drug: F484
 drugs: F484
 ds3: null
 ducati: null
@@ -205,6 +211,7 @@ eos: null
 estate: null
 expert: null
 fabia: F5E4
+fail-to-stop: null
 fence: F277
 fiat: null
 fiesta: F5E4
@@ -366,6 +373,7 @@ pick-up: null
 pickup: F63C
 pixo: null
 plant: null
+polaris: null
 police: null
 polo: null
 porsche: null
@@ -374,6 +382,7 @@ prius: null
 proton: null
 provisional: F2C2
 punto: null
+q5: null
 qashqai: null
 quad: null
 quattro: null
