@@ -696,28 +696,6 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
-  identifier: 1738a1a
-  imprisonment: null
-  killer-vehicle: silver Vauxhall Vectra car
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/august/man-who-died-in-fatal-andover-collision-is-named-in-renewed-appeal-for-witnesses/
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/july/appeal-for-witnesses-following-fatal-road-traffic-collision-in-andover/
-  offender-/-driver: Man (81)
-  plea: null
-  police-area: Hampshire
-  police-code: '44210291458'
-  tags: arrested car
-  victim: Man (70)
-  victim-dob: null
-  victim-vehicle: Bicycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: Fri, 23 Jul 2021
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
   identifier: 679f1e0
   imprisonment: null
   killer-vehicle: HGV
@@ -753,6 +731,29 @@
   victim: Man (35)
   victim-dob: null
   victim-vehicle: black moped
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 23 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1738a1a
+  imprisonment: null
+  killer-vehicle: silver Vauxhall Vectra car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/august/man-who-died-in-fatal-andover-collision-is-named-in-renewed-appeal-for-witnesses/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/july/appeal-for-witnesses-following-fatal-road-traffic-collision-in-andover/
+  - https://www.hampshirelive.news/news/hampshire-news/hampshire-police-name-70-year-5783771
+  offender-/-driver: Man (81)
+  plea: null
+  police-area: Hampshire
+  police-code: '44210291458'
+  tags: arrested car
+  victim: James Tassell (70)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
