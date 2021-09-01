@@ -344,6 +344,48 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 24 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0e2e76d
+  imprisonment: null
+  killer-vehicle: HGV
+  links:
+  - https://www.northyorkshire.police.uk/news/appeal-for-witnesses-following-fatal-collision-on-a64/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: null
+  tags: null
+  vehicles:
+  - type: HGV
+  - driver:
+      age: 48
+      gender: Male
+    passenger:
+    - age: 44
+      dead: 24 August 2021
+      gender: Female
+    - age: 9
+      dead: 24 August 2021
+      gender: Female
+    - age: 5
+      dead: 24 August 2021
+      gender: Male
+    - age: 6
+      gender: Male
+    type: motorhome
+  victim:
+  - Woman (44)
+  - Girl (9)
+  - Boy (5)
+  victim-dob: null
+  victim-vehicle: grey Motor home van
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 23 Aug 2021
   date-of-sentence: null
   disqualification: null
