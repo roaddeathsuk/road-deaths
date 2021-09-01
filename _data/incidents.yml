@@ -205,7 +205,7 @@
   plea: null
   police-area: Avon and Somerset
   police-code: '5221200131'
-  tags: alcohol arrested car arrested car
+  tags: alcohol arrested car
   victim: Woman
   victim-dob: null
   victim-vehicle: Passenger
@@ -289,7 +289,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210338980'
-  tags: arrested arrested car drug drugs hgv van car drug hgv van
+  tags: arrested car drugs hgv van
   victim:
   - Tom Watson
   - Person 2
@@ -336,7 +336,7 @@
   plea: null
   police-area: Thames Valley
   police-code: '43210379976'
-  tags: pedestrian pedestrian van van
+  tags: pedestrian van
   victim: Woman (80s)
   victim-dob: null
   victim-vehicle: Pedestrian
@@ -357,7 +357,7 @@
   plea: null
   police-area: Merseyside
   police-code: '21000587770'
-  tags: car car pedestrian pedestrian
+  tags: car pedestrian
   victim: Man (30s)
   victim-dob: null
   victim-vehicle: Pedestrian
@@ -378,7 +378,7 @@
   plea: null
   police-area: Thames Valley
   police-code: '43210375269'
-  tags: motorcycle
+  tags: motorbike
   victim: Man (49)
   victim-dob: null
   victim-vehicle: black Honda motorcycle
@@ -440,7 +440,7 @@
   plea: null
   police-area: North Yorkshire
   police-code: '12210180883'
-  tags: arrested arrested arrested car car drug drug car drug
+  tags: arrested car drugs
   victim: Man (18)
   victim-dob: null
   victim-vehicle: red Citroen C3 car
@@ -461,7 +461,7 @@
   plea: null
   police-area: Thames Valley
   police-code: '43210358530'
-  tags: arrested arrested hgv hgv motorcycle
+  tags: arrested hgv motorbike
   victim: Man (40s)
   victim-dob: null
   victim-vehicle: red Ducati motorcycle
@@ -482,7 +482,7 @@
   plea: null
   police-area: Avon and Somerset
   police-code: '5221183217'
-  tags: car car lorry lorry
+  tags: car lorry
   victim: Man (52)
   victim-dob: null
   victim-vehicle: car
@@ -527,7 +527,7 @@
   plea: null
   police-area: Thames Valley
   police-code: '43210356500'
-  tags: alcohol alcohol arrested child hgv arrested hgv
+  tags: alcohol arrested hgv
   victim:
   - Child 1 (4)
   - Child 2 (10)
@@ -550,8 +550,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210308587'
-  tags: alcohol alcohol alcohol arrested car drug drugs pedestrian arrested car drug
-    pedestrian
+  tags: alcohol arrested car drugs pedestrian
   victim: Sharon Randall (55)
   victim-dob: null
   victim-vehicle: pedestrian
@@ -593,7 +592,7 @@
   plea: null
   police-area: North Yorkshire
   police-code: '12210171943'
-  tags: motorcycle
+  tags: motorbike
   victim: Man (30s)
   victim-dob: null
   victim-vehicle: blue motorcycle
@@ -616,7 +615,7 @@
   plea: null
   police-area: North Yorkshire
   police-code: '12210169569'
-  tags: arrested arrested arrested car car van van car van
+  tags: arrested car van
   victim: Man
   victim-dob: null
   victim-vehicle: green Polaris all-terrain vehicle with a trailer
@@ -665,7 +664,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210291458'
-  tags: arrested arrested car car
+  tags: arrested car
   victim: Man (70)
   victim-dob: null
   victim-vehicle: Bicycle
@@ -769,7 +768,7 @@
   plea: null
   police-area: Avon and Somerset
   police-code: '5221163398'
-  tags: arrested arrested car pedestrian car motorbike pedestrian
+  tags: arrested car motorbike pedestrian
   victim: Man
   victim-dob: null
   victim-vehicle: pedestrian
@@ -793,7 +792,7 @@
   plea: null
   police-area: North Yorkshire
   police-code: '12210162540'
-  tags: car car car motorbike motorcycle
+  tags: car motorbike
   victim: Patrick Casey (29)
   victim-dob: null
   victim-vehicle: black Suzuki Gsx 1300 motorcycle
@@ -861,7 +860,7 @@
   plea: null
   police-area: North Yorkshire
   police-code: '12210159925'
-  tags: car motorcycle
+  tags: car motorbike
   victim: Darron Coster (54)
   victim-dob: null
   victim-vehicle: red Ducati motorcycle
@@ -951,7 +950,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210267484'
-  tags: car car van van
+  tags: car van
   victim:
   - Man (48)
   - Man (56)
@@ -1679,7 +1678,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210236838'
-  tags: motorcycle
+  tags: motorbike
   victim: Man (59)
   victim-dob: null
   victim-vehicle: black Honda CBR motorcycle
@@ -2500,7 +2499,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210166661'
-  tags: car motorcycle
+  tags: car motorbike
   victim: Jamie Pinnock (33)
   victim-dob: null
   victim-vehicle: blue Kawasaki ZR750 motorcycle
@@ -2603,7 +2602,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210154977'
-  tags: car car van van
+  tags: car van
   victim: Hayden Perrin (22)
   victim-dob: null
   victim-vehicle: car
@@ -3359,7 +3358,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210024951'
-  tags: lorry lorry van van
+  tags: lorry van
   victim: Man (41)
   victim-dob: null
   victim-vehicle: white Ford Transit van
@@ -3590,7 +3589,7 @@
   plea: null
   police-area: Hampshire
   police-code: '4421000736'
-  tags: car car pedestrian van pedestrian van
+  tags: car pedestrian van
   victim: Man (47)
   victim-dob: null
   victim-vehicle: Pedestrian
@@ -3611,7 +3610,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200499198'
-  tags: car car lorry lorry
+  tags: car lorry
   victim: Man (41)
   victim-dob: null
   victim-vehicle: brown Peugeot car
@@ -4981,7 +4980,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200432908'
-  tags: child motorbike motorcycle
+  tags: motorbike
   victim: Christopher David Schuchart (35)
   victim-dob: null
   victim-vehicle: motorcycle
@@ -7335,7 +7334,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200333501'
-  tags: child motorcycle
+  tags: motorbike
   victim: Daniel Gale (19)
   victim-dob: null
   victim-vehicle: moped
@@ -8590,7 +8589,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200303926'
-  tags: car car van van
+  tags: car van
   victim: Declan Murray (55)
   victim-dob: null
   victim-vehicle: Bicycle
@@ -10706,7 +10705,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200241182'
-  tags: motorcycle
+  tags: motorbike
   victim: Man (62)
   victim-dob: null
   victim-vehicle: green Kawasaki motorcycle
@@ -11489,7 +11488,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200202668'
-  tags: car car child van van
+  tags: car van
   victim: Michael Horne (40)
   victim-dob: null
   victim-vehicle: Royal Mail delivery van
@@ -13694,7 +13693,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190460421'
-  tags: arrested arrested car fail-to-stop hit-and-run car fail-to-stop
+  tags: arrested car fail-to-stop hit-and-run
   victim: James Stephen Smith (38)
   victim-dob: null
   victim-vehicle: Pedestrian
@@ -14844,7 +14843,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190249497'
-  tags: car car van van
+  tags: car van
   victim: Annie Holman (63)
   victim-dob: null
   victim-vehicle: blue Toyota Yaris car
@@ -14928,7 +14927,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190226451'
-  tags: arrested arrested car car
+  tags: arrested car
   victim: Kim Bainbridge (51)
   victim-dob: null
   victim-vehicle: passenger
@@ -14952,7 +14951,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190225063'
-  tags: arrested arrested car car motorcycle
+  tags: arrested car motorbike
   victim: Jack Burgess (22)
   victim-dob: null
   victim-vehicle: motorcycle
@@ -27100,7 +27099,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190438205'
-  tags: car car child
+  tags: car
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27142,7 +27141,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210325082'
-  tags: arrested arrested car car
+  tags: arrested car
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27185,7 +27184,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200108245'
-  tags: car car pedestrian pedestrian
+  tags: car pedestrian
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27207,7 +27206,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210196667'
-  tags: car car hgv lorry hgv lorry motorcycle
+  tags: car hgv lorry motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27228,7 +27227,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200044485'
-  tags: car motorcycle
+  tags: car motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27273,7 +27272,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200230693'
-  tags: car car child van van
+  tags: car van
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27316,7 +27315,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200360924'
-  tags: car car child
+  tags: car
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27338,7 +27337,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200222443'
-  tags: child
+  tags: ''
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27382,7 +27381,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210281745'
-  tags: arrested arrested car car
+  tags: arrested car
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27403,7 +27402,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210233054'
-  tags: motorcycle van
+  tags: motorbike van
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27425,7 +27424,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210149298'
-  tags: car car lorry lorry
+  tags: car lorry
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27446,7 +27445,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200024268'
-  tags: car car hgv hgv
+  tags: car hgv
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27468,7 +27467,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200209847'
-  tags: child motorbike motorcycle
+  tags: motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27513,7 +27512,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200266371'
-  tags: arrested arrested drug van drug van
+  tags: arrested drugs van
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27535,7 +27534,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190332625'
-  tags: arrested arrested car fail-to-stop car fail-to-stop motorcycle
+  tags: arrested car fail-to-stop motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27579,7 +27578,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210224948'
-  tags: motorcycle
+  tags: motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27601,7 +27600,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210292622'
-  tags: arrested arrested car drug car drug
+  tags: arrested car drugs
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27644,7 +27643,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200078958'
-  tags: arrested arrested car drug car drug
+  tags: arrested car drugs
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27687,7 +27686,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200255290'
-  tags: child van van
+  tags: van
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27708,7 +27707,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200127453'
-  tags: car car lorry pedestrian lorry pedestrian
+  tags: car lorry pedestrian
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27771,7 +27770,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190415301'
-  tags: car car lorry pedestrian lorry pedestrian
+  tags: car lorry pedestrian
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27814,7 +27813,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200023846'
-  tags: lorry lorry pedestrian pedestrian
+  tags: lorry pedestrian
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27837,7 +27836,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200002157'
-  tags: arrested arrested car child van car motorcycle van
+  tags: arrested car motorbike van
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27858,7 +27857,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44190433214'
-  tags: car car child
+  tags: car
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27879,7 +27878,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200364768'
-  tags: car motorcycle
+  tags: car motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27901,7 +27900,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44210186639'
-  tags: car motorcycle
+  tags: car motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
@@ -27944,7 +27943,7 @@
   plea: null
   police-area: Hampshire
   police-code: '44200041761'
-  tags: arrested arrested car child drug car drug motorbike motorcycle
+  tags: arrested car drugs motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null
