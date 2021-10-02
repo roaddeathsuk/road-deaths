@@ -428,6 +428,27 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 21 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ece13d6
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.herts.police.uk/news-and-appeals/fatal-road-traffic-collision-in-potters-bar-0531
+  offender-/-driver: null
+  plea: null
+  police-area: Hertfordshire
+  police-code: 435 of 21 August 2021
+  tags: car
+  victim: null
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 17 Aug 2021
   date-of-sentence: null
   disqualification: null
