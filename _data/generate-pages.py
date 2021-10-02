@@ -44,6 +44,8 @@ for incident in incidents:
         incident['victim'] = name
         incident['victim-dob'] = dob
         incident['date-of-incident'] = doi
+        if not isinstance(incident['police-code'], str) and not isinstance(incident['police-code'], list):
+            incident['police-code'] = str(incident['police-code'])
 
 def check_incident(incident):
     for key in ['links', 'date-of-incident', 'victim']:
@@ -101,6 +103,18 @@ def incident_order(incident):
     else:
         return '0000-00-00' + '/'.join(listify(incident['victim']))
 
+
+tag_tansforms = {
+    "drug" : "drugs",
+    "motorcycle" : "motorbike",
+    "child" : "",
+}
+
+def transform_tags(tag):
+    if tag in tag_tansforms:
+        return tag_tansforms[tag]
+    return tag
+
 incidents.sort(reverse=True, key=incident_order)
 
 total_victim_count = 0
@@ -136,7 +150,7 @@ for incident in incidents:
         incident['tags'] = tags
 
     if isinstance(incident['tags'], list):
-        incident['tags'] = ' '.join(sorted(incident['tags']))
+        incident['tags'] = ' '.join(sorted(set(map(transform_tags, incident['tags']))))
 
     if isinstance(incident['links'], list):
         incident['links'].sort()
