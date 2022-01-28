@@ -15461,6 +15461,26 @@
 -
   comment: null
   community-order: null
+  court: null
+  date-of-incident: Fri, 22 Mar 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f2a6665
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.derbyshire.police.uk/news/derbyshire/news/news/forcewide/2019/march/witnesses-sought-to-fatal-m1-collision/
+  offender-/-driver: red Ford KA
+  plea: null
+  police-area: Derbyshire
+  police-code: 19000148247
+  tags: null
+  victim: Derek Jacobs (83)
+  victim-dob: null
+  victim-vehicle: white Volkswagen Crafter van
+-
+  comment: null
+  community-order: null
   court: Reading Crown Court
   date-of-incident: Sun, 17 Mar 2019
   date-of-sentence: null
