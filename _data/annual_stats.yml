@@ -356,7 +356,7 @@
   covered: 18
   total: 1742
 2015:
-  covered: 14
+  covered: 15
   total: 1770
 2016:
   covered: 39
@@ -365,14 +365,17 @@
   covered: 75
   total: 1718
 2018:
-  covered: 84
+  covered: 82
   total: 1794
 2019:
-  covered: 111
+  covered: 115
   total: 1870
 2020:
-  covered: 509
+  covered: 508
   total: null
 2021:
-  covered: 171
+  covered: 169
+  total: null
+2022:
+  covered: 0
   total: null

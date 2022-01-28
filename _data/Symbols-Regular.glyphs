@@ -99043,7 +99043,7 @@ unicode = F8D9;
 },
 {
 glyphname = uniF8DA;
-lastChange = "2020-11-05 10:51:10 +0000";
+lastChange = "2021-07-19 19:02:11 +0000";
 layers = (
 {
 layerId = "8CF30A56-F91F-4EB2-A618-934C961D83D1";
@@ -103045,6 +103045,138 @@ width = 760;
 }
 );
 unicode = F8F5;
+},
+{
+glyphname = uniF8F6;
+lastChange = "2021-07-19 19:01:55 +0000";
+layers = (
+{
+layerId = "8CF30A56-F91F-4EB2-A618-934C961D83D1";
+paths = (
+{
+closed = 1;
+nodes = (
+"112 -66 OFFCURVE {stroke = {w = \"1\";};}",
+"142 -45 OFFCURVE {stroke = {w = \"1\";};}",
+"152 -14 CURVE {stroke = {w = \"1\";};}",
+"388 -12 LINE SMOOTH {stroke = {w = \"1\";};}",
+"399 -12 OFFCURVE {stroke = {w = \"1\";};}",
+"405 -7 OFFCURVE {stroke = {w = \"1\";};}",
+"411 2 CURVE {stroke = {w = \"1\";};}",
+"468 123 LINE {stroke = {w = \"1\";};}",
+"478 78 LINE {stroke = {w = \"1\";};}",
+"456 65 OFFCURVE {stroke = {w = \"1\";};}",
+"441 40 OFFCURVE {stroke = {w = \"1\";};}",
+"441 13 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"441 -30 OFFCURVE {stroke = {w = \"1\";};}",
+"476 -66 OFFCURVE {stroke = {w = \"1\";};}",
+"520 -66 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"564 -66 OFFCURVE {stroke = {w = \"1\";};}",
+"598 -30 OFFCURVE {stroke = {w = \"1\";};}",
+"598 16 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"598 56 OFFCURVE {stroke = {w = \"1\";};}",
+"567 88 OFFCURVE {stroke = {w = \"1\";};}",
+"530 92 CURVE {stroke = {w = \"1\";};}",
+"503 210 LINE {stroke = {w = \"1\";};}",
+"455 429 LINE SMOOTH {stroke = {w = \"1\";};}",
+"452 441 OFFCURVE {stroke = {w = \"1\";};}",
+"441 449 OFFCURVE {stroke = {w = \"1\";};}",
+"429 449 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"356 449 LINE SMOOTH {stroke = {w = \"1\";};}",
+"341 449 OFFCURVE {stroke = {w = \"1\";};}",
+"329 437 OFFCURVE {stroke = {w = \"1\";};}",
+"329 422 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"329 408 OFFCURVE {stroke = {w = \"1\";};}",
+"341 395 OFFCURVE {stroke = {w = \"1\";};}",
+"356 395 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"408 395 LINE {stroke = {w = \"1\";};}",
+"451 206 LINE {stroke = {w = \"1\";};}",
+"373 40 LINE {stroke = {w = \"1\";};}",
+"221 40 LINE {stroke = {w = \"1\";};}",
+"214 105 OFFCURVE {stroke = {w = \"1\";};}",
+"159 155 OFFCURVE {stroke = {w = \"1\";};}",
+"92 155 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"82 155 OFFCURVE {stroke = {w = \"1\";};}",
+"74 145 OFFCURVE {stroke = {w = \"1\";};}",
+"74 135 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"74 124 OFFCURVE {stroke = {w = \"1\";};}",
+"82 115 OFFCURVE {stroke = {w = \"1\";};}",
+"92 115 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"138 115 OFFCURVE {stroke = {w = \"1\";};}",
+"175 81 OFFCURVE {stroke = {w = \"1\";};}",
+"181 38 CURVE {stroke = {w = \"1\";};}",
+"152 38 LINE {stroke = {w = \"1\";};}",
+"142 69 OFFCURVE {stroke = {w = \"1\";};}",
+"112 91 OFFCURVE {stroke = {w = \"1\";};}",
+"79 91 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"36 91 OFFCURVE {stroke = {w = \"1\";};}",
+"0 56 OFFCURVE {stroke = {w = \"1\";};}",
+"0 13 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"0 -31 OFFCURVE {stroke = {w = \"1\";};}",
+"35 -66 OFFCURVE {stroke = {w = \"1\";};}",
+"79 -66 CURVE SMOOTH {stroke = {w = \"1\";};}"
+);
+},
+{
+closed = 1;
+nodes = (
+"59 -25 OFFCURVE {stroke = {w = \"1\";};}",
+"41 -7 OFFCURVE {stroke = {w = \"1\";};}",
+"41 14 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"41 34 OFFCURVE {stroke = {w = \"1\";};}",
+"59 52 OFFCURVE {stroke = {w = \"1\";};}",
+"80 52 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"91 52 OFFCURVE {stroke = {w = \"1\";};}",
+"100 46 OFFCURVE {stroke = {w = \"1\";};}",
+"108 38 CURVE {stroke = {w = \"1\";};}",
+"92 38 LINE SMOOTH {stroke = {w = \"1\";};}",
+"79 38 OFFCURVE {stroke = {w = \"1\";};}",
+"67 28 OFFCURVE {stroke = {w = \"1\";};}",
+"67 13 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"67 -2 OFFCURVE {stroke = {w = \"1\";};}",
+"79 -14 OFFCURVE {stroke = {w = \"1\";};}",
+"92 -14 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"108 -14 LINE {stroke = {w = \"1\";};}",
+"102 -19 OFFCURVE {stroke = {w = \"1\";};}",
+"91 -25 OFFCURVE {stroke = {w = \"1\";};}",
+"80 -25 CURVE SMOOTH {stroke = {w = \"1\";};}"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 -25 OFFCURVE {stroke = {w = \"1\";};}",
+"483 -7 OFFCURVE {stroke = {w = \"1\";};}",
+"483 14 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"483 22 OFFCURVE {stroke = {w = \"1\";};}",
+"486 29 OFFCURVE {stroke = {w = \"1\";};}",
+"490 34 CURVE {stroke = {w = \"1\";};}",
+"492 22 LINE SMOOTH {stroke = {w = \"1\";};}",
+"495 10 OFFCURVE {stroke = {w = \"1\";};}",
+"506 2 OFFCURVE {stroke = {w = \"1\";};}",
+"518 2 CURVE SMOOTH {stroke = {w = \"1\";};}",
+"523 2 LINE {stroke = {w = \"1\";};}",
+"536 5 OFFCURVE {stroke = {w = \"1\";};}",
+"543 16 OFFCURVE {stroke = {w = \"1\";};}",
+"543 26 CURVE SMOOTH",
+"543 29 OFFCURVE",
+"543 30 OFFCURVE",
+"543 32 CURVE {stroke = {w = \"1\";};}",
+"540 46 LINE {stroke = {w = \"1\";};}",
+"552 40 OFFCURVE {stroke = {w = \"1\";};}",
+"560 28 OFFCURVE {stroke = {w = \"1\";};}",
+"560 13 CURVE {stroke = {w = \"1\";};}",
+"559 -7 OFFCURVE {stroke = {w = \"1\";};}",
+"543 -25 OFFCURVE {stroke = {w = \"1\";};}",
+"522 -25 CURVE SMOOTH {stroke = {w = \"1\";};}"
+);
+}
+);
+width = 598;
+}
+);
+note = bicycle;
+unicode = F8DA;
 }
 );
 instances = (

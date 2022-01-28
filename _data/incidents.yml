@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 5 Nov 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e5d8dba
+  imprisonment: null
+  killer-vehicle: black BMW car
+  links: https://www.fosse107.co.uk/hinckley/news/local-news/woman-dies-in-a5-sharnford-crash/
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: 277 of 5 November
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: black Ford Fiesta car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 30 Aug 2021
   date-of-sentence: null
   disqualification: null
@@ -2560,33 +2580,14 @@
   identifier: c045e53
   imprisonment: null
   killer-vehicle: null
-  links: https://www.hampshire.police.uk/news/hampshire/news/news/2021/may/family-pay-tribute-to-man-who-died-following-collision-on-b2177/
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/may/appeal-for-witnesses-after-serious-collision-on-b2177/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/may/family-pay-tribute-to-man-who-died-following-collision-on-b2177/
   offender-/-driver: null
   plea: null
   police-area: Hampshire
   police-code: 44210166661
   tags: null
-  victim: Jamie Pinnock (33)
-  victim-dob: null
-  victim-vehicle: blue Kawasaki ZR750 motorcycle
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: Sat, 1 May 2021
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 979b0f9
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/may/family-pay-tribute-to-man-who-died-following-collision-on-b2177/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210166661'
-  tags: car motorbike
   victim: Jamie Pinnock (33)
   victim-dob: null
   victim-vehicle: blue Kawasaki ZR750 motorcycle
@@ -3575,27 +3576,6 @@
   police-area: Hampshire
   police-code: 44210014319
   tags: null
-  victim: Bogdan Adrian Albon (39)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: Wed, 13 Jan 2021
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: a97657c
-  imprisonment: null
-  killer-vehicle: blue Vauxhall Mokka car
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/january/man-dies-following-collision-in-minley-on-january-13/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210014319'
-  tags: pedestrian
   victim: Bogdan Adrian Albon (39)
   victim-dob: null
   victim-vehicle: Pedestrian
@@ -5050,27 +5030,6 @@
   victim: Christopher David Schuchart (35)
   victim-dob: null
   victim-vehicle: orange Kawasaki motorbike
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: Sun, 8 Nov 2020
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 6e7a027
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/family-of-man-who-died-in-collision-in-ryde-pay-tribute-to-him/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200432908'
-  tags: motorbike
-  victim: Christopher David Schuchart (35)
-  victim-dob: null
-  victim-vehicle: motorcycle
 -
   comment: null
   community-order: null
@@ -14443,7 +14402,7 @@
   police-area: Leicestershire
   police-code: 97/22Oct2019
   tags: null
-  victim: null
+  victim: Woman
   victim-dob: null
   victim-vehicle: white Ford Fiesta car
 -
@@ -14785,7 +14744,7 @@
   police-area: Leicestershire
   police-code: 370/24Aug2019
   tags: null
-  victim: null
+  victim: Man (30s)
   victim-dob: null
   victim-vehicle: blue Suzuki motorcycle
 -
@@ -15152,6 +15111,32 @@
   victim: Woman (80s)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: Sheffield Crown Court
+  date-of-incident: Fri, 7 Jun 2019
+  date-of-sentence: 19 Oct 2020
+  disqualification: null
+  editor-notes: null
+  identifier: f41199e
+  imprisonment: 10 months
+  killer-vehicle: HGV
+  links:
+  - https://www.thescottishsun.co.uk/news/6177789/lorry-driver-killed-two-jailed-widow-plea/
+  - https://www.thesun.co.uk/news/13778983/smart-motorways-risk-future-deaths-horror-crash-m1-coroner/
+  offender-/-driver: Prezemyslaw Zbigniew Szuba (40)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim:
+  - Alexandru Murgeanu (22)
+  - Jason Mercer (44)
+  victim-dob: null
+  victim-vehicle:
+  - car
+  - car
 -
   comment: null
   community-order: null
@@ -16595,13 +16580,13 @@
   community-order: 100 hours
   court: null
   date-of-incident: Thu, 2 Aug 2018
-  date-of-sentence: null
-  disqualification: 2 years
+  date-of-sentence: 30 January 2019
+  disqualification: 24 months
   editor-notes: null
   fine: "\xA3105"
   identifier: cd9c2d7
   imprisonment: null
-  killer-vehicle: Car
+  killer-vehicle: Audi A5 car
   links:
   - https://twitter.com/ormondroyd/status/1196468141532106752
   - https://www.bbc.co.uk/news/uk-england-berkshire-50219544
@@ -16614,30 +16599,6 @@
   victim:
   - Jason Imi (48)
   - John Shackley (61)
-  victim-dob: null
-  victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: Thu, 2 Aug 2018
-  date-of-sentence: 30 January 2019
-  disqualification: 24 months
-  editor-notes: null
-  identifier: cdd4dad
-  imprisonment: null
-  killer-vehicle: Audi A5 car
-  links:
-  - https://twitter.com/ormondroyd/status/1092720919120875520
-  - https://www.inyourarea.co.uk/news/drug-driver-17-walks-free-after-double-fatal-crash-in-sunninghill/
-  offender-/-driver: Male (17)
-  plea: null
-  police-area: null
-  police-code: null
-  tags: null
-  victim:
-  - Jason Imi (48)
-  - John Shackey (61)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
@@ -19867,6 +19828,26 @@
   victim-dob: null
   victim-vehicle: Car
 -
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 8 Jul 2015
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d79ecf8
+  imprisonment: null
+  killer-vehicle: Mercedes Sprinter van
+  links: https://www.hinckleytimes.net/news/local-news/man-who-died-a5-crash-9650368
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Arthur Wilson (77)
+  victim-dob: null
+  victim-vehicle: bronze Ford Fiesta car
+-
   comment: Reigate hit-and-run soldier death driver jailed
   community-order: null
   court: Winchester Crown
@@ -20802,6 +20783,26 @@
   victim: Neil Thompson
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 12 Jan 2012
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '4470507'
+  imprisonment: null
+  killer-vehicle: BMW 320 car
+  links: https://www.bbc.co.uk/news/uk-england-leicestershire-16545429
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: Ford Fiesta Zetec car
 -
   comment: Newcastle  Close pass at pinch point
   community-order: null
