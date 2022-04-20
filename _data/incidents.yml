@@ -5080,7 +5080,7 @@
   editor-notes: null
   identifier: e500bc3
   imprisonment: null
-  killer-vehicle: null
+  killer-vehicle: Car
   links:
   - https://www.bbc.co.uk/news/uk-wales-61147508
   - https://www.judiciary.uk/wp-content/uploads/2022/03/Margaret-Lewis-Prevention-of-future-deaths-report-2022-0080_Published.pdf
@@ -5088,7 +5088,7 @@
   plea: null
   police-area: null
   police-code: null
-  tags: null
+  tags: headphones sun
   victim: Margaret May Lewis
   victim-dob: null
   victim-vehicle: Pedestrian
