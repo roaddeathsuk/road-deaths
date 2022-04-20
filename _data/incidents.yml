@@ -5078,6 +5078,28 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: e500bc3
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.bbc.co.uk/news/uk-wales-61147508
+  - https://www.judiciary.uk/wp-content/uploads/2022/03/Margaret-Lewis-Prevention-of-future-deaths-report-2022-0080_Published.pdf
+  offender-/-driver: null
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim: Margaret May Lewis
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 6 Nov 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: fa9b20a
   imprisonment: null
   killer-vehicle: Road
