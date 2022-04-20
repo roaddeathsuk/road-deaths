@@ -192,6 +192,48 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 15 Apr 2022
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 4e2c017
+  imprisonment: null
+  killer-vehicle: grey Ford Kuga car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/appeals/2022/april/investigation-launched-after-two-men-die-in-oldham-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 1045 of 15/04/2022
+  tags: null
+  victim:
+  - Man (20)
+  - Man (21)
+  victim-dob: null
+  victim-vehicle: yellow Suzuki off-road motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 20 Mar 2022
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 45c29ee
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2022/march/a-man-has-died-following-a-collision-in-urmston/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 939 of 20/03/22
+  tags: null
+  victim: Man (33)
+  victim-dob: null
+  victim-vehicle: Yahama MT-07 ABS motorbike
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 5 Nov 2021
   date-of-sentence: null
   disqualification: null
