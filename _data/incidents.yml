@@ -191,26 +191,6 @@
 -
   comment: null
   community-order: null
-  court: Cardiff Crown Court
-  date-of-incident: Sun, 25 Sep 2022
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 5eba29e
-  imprisonment: null
-  killer-vehicle: Ford Transit van
-  links: https://www.walesonline.co.uk/news/wales-news/cyclist-killed-after-driver-incredibly-23787212
-  offender-/-driver: Matthew Clemo (51)
-  plea: null
-  police-area: null
-  police-code: null
-  tags: alcohol
-  victim: Michael Partridge (76)
-  victim-dob: null
-  victim-vehicle: Bicycle
--
-  comment: null
-  community-order: null
   court: null
   date-of-incident: Fri, 15 Apr 2022
   date-of-sentence: null
@@ -270,6 +250,26 @@
   victim: null
   victim-dob: null
   victim-vehicle: black Ford Fiesta car
+-
+  comment: null
+  community-order: null
+  court: Cardiff Crown Court
+  date-of-incident: Sat, 25 Sep 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e8d8ee0
+  imprisonment: null
+  killer-vehicle: Ford Transit van
+  links: https://www.walesonline.co.uk/news/wales-news/cyclist-killed-after-driver-incredibly-23787212
+  offender-/-driver: Matthew Clemo (51)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: alcohol
+  victim: Michael Partridge (76)
+  victim-dob: null
+  victim-vehicle: Bicycle
 -
   comment: null
   community-order: null
