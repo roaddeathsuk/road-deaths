@@ -234,6 +234,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 10 Nov 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f589e9d
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/november/the-family-of-a-man-killed-in-crash-in-delph-pay-tribute-to-loving-brother-partner-and-son/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 2878 of 10/11/21
+  tags: null
+  victim:
+  - Karl Edward Young (34)
+  - Man (21)
+  victim-dob: null
+  victim-vehicle: Mazda 3 car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 5 Nov 2021
   date-of-sentence: null
   disqualification: null
@@ -15862,6 +15884,26 @@
   - Clare Killey (45)
   victim-dob: null
   victim-vehicle: Bicycles
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 26 Feb 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 4627bcc
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/november/michael-smith-family-remembers-gentle-giant-killed-in-wigan-crash/
+  offender-/-driver: Hanzah Yusuf (29/01/2000)
+  plea: null
+  police-area: Greater Manchester
+  police-code: null
+  tags: null
+  victim: Michael Smith (53)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
