@@ -191,6 +191,26 @@
 -
   comment: null
   community-order: null
+  court: Cardiff Crown Court
+  date-of-incident: Sun, 25 Sep 2022
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5eba29e
+  imprisonment: null
+  killer-vehicle: Ford Transit van
+  links: https://www.walesonline.co.uk/news/wales-news/cyclist-killed-after-driver-incredibly-23787212
+  offender-/-driver: Matthew Clemo (51)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: alcohol
+  victim: Michael Partridge (76)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
   court: null
   date-of-incident: Fri, 15 Apr 2022
   date-of-sentence: null
@@ -244,7 +264,7 @@
   links: https://www.fosse107.co.uk/hinckley/news/local-news/woman-dies-in-a5-sharnford-crash/
   offender-/-driver: null
   plea: null
-  police-area: null
+  police-area: Leicestershire
   police-code: 277 of 5 November
   tags: null
   victim: null
