@@ -24,6 +24,7 @@
 '207': null
 '208': null
 218i: null
+220d: null
 '25': null
 '250': null
 '3': null
@@ -114,6 +115,7 @@ articulated: null
 aston: null
 astra: null
 audi: null
+aura: null
 auris: null
 avensis: null
 axle: null
@@ -182,6 +184,7 @@ corsa: null
 countryman: null
 coupe: null
 crafter: null
+crf: null
 crossing: F8F3
 d3: null
 daf: null
@@ -226,6 +229,7 @@ front: null
 ftr: null
 fullback: null
 fusion: F5E4
+g63: null
 galaxy: null
 gas: null
 gear: null
@@ -528,3 +532,4 @@ zetec: null
 zircon: null
 zr750: null
 zs: null
+zx: null

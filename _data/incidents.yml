@@ -206,8 +206,8 @@
   police-code: 1045 of 15/04/2022
   tags: null
   victim:
-  - Man (20)
-  - Man (21)
+  - Harry Atkinson (20)
+  - Lewis Meeson (21)
   victim-dob: null
   victim-vehicle: yellow Suzuki off-road motorbike
 -
@@ -250,6 +250,88 @@
   victim: null
   victim-dob: null
   victim-vehicle: black Ford Fiesta car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 4 Nov 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e2d1031
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/november/family-pays-tribute-to-whitefield-crash-victim/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 440 of 04/11/21
+  tags: null
+  victim: Aaron Jarvis (31)
+  victim-dob: null
+  victim-vehicle: silver BMW 320D car (passenger)
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 25 Oct 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '4202411'
+  imprisonment: null
+  killer-vehicle: blue Mercedes G63 car
+  links:
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/november/a-family-have-paid-tribute-to-a-woman-who-sadly-died-in-a-collision-and-has-left-a-huge-void-in-their-hearts/
+  - https://www.manchestereveningnews.co.uk/news/greater-manchester-news/family-beloved-woman-killed-during-22057654
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 2990 of 25/10/21
+  tags: null
+  victim: Ibizugbe Ikponnmwen (38)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 13 Oct 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1ba6a70
+  imprisonment: null
+  killer-vehicle: lorry
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/october/family-pay-tribute-to-loving-father-and-grandfather-following-fatal-collision-in-ashton-under-lyne/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 1785 of 14/10/21
+  tags: null
+  victim: Kenneth Hartley (72)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 10 Oct 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: cf99299
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/october/marcus-simmons-allen-tribute-to-teenager-who-died-in-trafford-collision/
+  offender-/-driver: Connor Matthews (04/02/1999)
+  plea: null
+  police-area: Greater Manchester
+  police-code: null
+  tags: null
+  victim: Marcus Simmons-Allen (18)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -1057,6 +1139,26 @@
   victim: Man (20s)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 12 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 49d747e
+  imprisonment: null
+  killer-vehicle: white BMW 220D car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/july/the-family-of-a-woman-who-died-in-a-collision-in-tameside-have-paid-tribute-to-her/
+  offender-/-driver: Connor Faulkner (09/08/1994)
+  plea: null
+  police-area: Greater Manchester
+  police-code: 195 of 12/07/21
+  tags: null
+  victim: Joanne Whyte (49)
+  victim-dob: null
+  victim-vehicle: pedestrian
 -
   comment: null
   community-order: null
@@ -2348,13 +2450,15 @@
   identifier: 54b090c
   imprisonment: null
   killer-vehicle: blue Saab 93 car
-  links: https://www.theboltonnews.co.uk/news/19416032.police-appeal-cyclist-40s-dies-horwich-collision/
+  links:
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/july/the-family-of-a-cyclist-who-died-following-a-collision-in-bolton-have-paid-tribute-to-him/
+  - https://www.theboltonnews.co.uk/news/19416032.police-appeal-cyclist-40s-dies-horwich-collision/
   offender-/-driver: Man (33)
   plea: null
-  police-area: null
+  police-area: Greater Manchester
   police-code: 2272 of 1/7/21
   tags: disqualified
-  victim: Man (40s)
+  victim: Kevin Harmon (47)
   victim-dob: null
   victim-vehicle: Bicycle
 -
@@ -13397,6 +13501,27 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: b9746cb
+  imprisonment: null
+  killer-vehicle: DAF lorry
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-89-year-old-woman-dies-following-collision-in-new-milton/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200023846'
+  tags: lorry pedestrian
+  victim: Margaret Fraser (89)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 20 Jan 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: a16d715
   imprisonment: null
   killer-vehicle: car
@@ -13409,6 +13534,28 @@
   victim: Man (50s)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 19 Jan 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 499b447
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-man-dies-in-single-vehicle-crash-near-andover/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/january/tribute-paid-to-man-who-died-in-single-vehicle-collision-near-andover/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200022699'
+  tags: car
+  victim: Nicholas Lee Thomas (43)
+  victim-dob: null
+  victim-vehicle: Citroen ZX Aura car
 -
   comment: null
   community-order: null
@@ -13742,6 +13889,29 @@
   victim: Francis Hanaigan (74)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 2 Jan 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: b4524ab
+  imprisonment: null
+  killer-vehicle: Vauxhall Vectra car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-fatal-collision-in-basingstoke/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-to-locate-driver-of-van-after-fatal-collision-in-basingstoke/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/january/tribute-paid-to-man-who-died-following-collision-involving-car-and-motorcycle-in-basingstoke/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200002157'
+  tags: arrested car motorbike van
+  victim: Matthew Joseph Harris (34)
+  victim-dob: null
+  victim-vehicle: Honda CRF motorcycle
 -
   comment: null
   community-order: null
@@ -14159,6 +14329,27 @@
   victim: Man (40s)
   victim-dob: null
   victim-vehicle: Blue Ford C-Max car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 2 Dec 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f4b6cc7
+  imprisonment: null
+  killer-vehicle: Vauxhall Corsa car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/december/tribute-paid-to-man-who-died-in-collision-between-car-and-mobility-scooter-in-waterlooville/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44190433214'
+  tags: car
+  victim: John Dognini (80)
+  victim-dob: null
+  victim-vehicle: mobility-scooter
 -
   comment: Iftekhar Khondaker (34)
   community-order: null
@@ -28031,93 +28222,6 @@
   police-area: Hampshire
   police-code: '44190415301'
   tags: car lorry pedestrian
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 499b447
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-man-dies-in-single-vehicle-crash-near-andover/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/january/tribute-paid-to-man-who-died-in-single-vehicle-collision-near-andover/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200022699'
-  tags: car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: b9746cb
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-89-year-old-woman-dies-following-collision-in-new-milton/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200023846'
-  tags: lorry pedestrian
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: b4524ab
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-fatal-collision-in-basingstoke/
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-to-locate-driver-of-van-after-fatal-collision-in-basingstoke/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/january/tribute-paid-to-man-who-died-following-collision-involving-car-and-motorcycle-in-basingstoke/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200002157'
-  tags: arrested car motorbike van
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: f4b6cc7
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/december/tribute-paid-to-man-who-died-in-collision-between-car-and-mobility-scooter-in-waterlooville/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190433214'
-  tags: car
   victim: null
   victim-dob: null
   victim-vehicle: null
