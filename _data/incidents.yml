@@ -234,6 +234,86 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 10 Jan 2022
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 3b1ce57
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2022/january/tribute-paid-to-a-cheerful-caring-and-thoughtful-teenager-with-a-beautiful-heart-who-sadly-died-following-a-collision-in-manchester/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 3221 of 10/01/2022
+  tags: null
+  victim: Nadia Yusuf (17)
+  victim-dob: null
+  victim-vehicle: Mercedes car (passenger)
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 2 Jan 2022
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 58277f6
+  imprisonment: null
+  killer-vehicle: vehicle
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2022/january/the-family-of-a-man-who-died-on-the-m67-in-tameside-has-described-him-as-a-joker-with-a-cheeky-grin/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 2240-02/01/2022
+  tags: null
+  victim: Chris Gaffney (34)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 28 Dec 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 90e59b2
+  imprisonment: null
+  killer-vehicle: vehicle
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/december/family-of-man-killed-in-collision-on-m602-pay-tribute/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 286 of 28/12/21
+  tags: null
+  victim: Benjamin Connor (30)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 20 Dec 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0d14b83
+  imprisonment: null
+  killer-vehicle: silver VW Golf car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/december/the-family-of-a-man-who-was-killed-in-a-collision-in-trafford-park-have-paid-tribute-to-a-keen-runner-hiker-and-cyclist-who-had-a-real-flare-for-adventure/
+  offender-/-driver: Man (20s)
+  plea: null
+  police-area: Greater Manchester
+  police-code: null
+  tags: null
+  victim: Roger Parris (63)
+  victim-dob: null
+  victim-vehicle: bicycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Wed, 10 Nov 2021
   date-of-sentence: null
   disqualification: null
