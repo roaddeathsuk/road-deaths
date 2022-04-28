@@ -4299,6 +4299,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 28 Nov 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a6bb7b2
+  imprisonment: null
+  killer-vehicle: red Volkswagen Golf car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2020/november/the-family-of-a-woman-who-died-following-a-collision-in-ashton-under-lyne-have-paid-tribute-to-her/
+  offender-/-driver: Man (31)
+  plea: null
+  police-area: Greater Manchester
+  police-code: null
+  tags: null
+  victim: Antonia St Louis (27)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 27 Nov 2020
   date-of-sentence: null
   disqualification: null
@@ -4397,6 +4417,26 @@
   victim: Woman (40s)
   victim-dob: null
   victim-vehicle: white Mini Cooper car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 24 Nov 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9465e9b
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2020/november/the-family-of-a-man-who-died-following-a-collision-in-bolton-have-paid-tribute-to-him2/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: null
+  tags: null
+  victim: Paul Rostron (34)
+  victim-dob: null
+  victim-vehicle: black car driver
 -
   comment: null
   community-order: null
