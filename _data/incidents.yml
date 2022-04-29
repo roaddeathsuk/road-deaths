@@ -1138,13 +1138,15 @@
   identifier: e76d16a
   imprisonment: null
   killer-vehicle: red Fiat Punto car
-  links: https://www.newsshopper.co.uk/news/19451339.bromley-driver-arrested-boy-riding-e-scooter-dies/
+  links:
+  - https://www.newsshopper.co.uk/news/19451339.bromley-driver-arrested-boy-riding-e-scooter-dies/
+  - https://www.thesun.co.uk/news/15649723/wonderful-boy-e-scooter-crash/
   offender-/-driver: Man (20)
   plea: null
   police-area: null
   police-code: 775/18JUL
-  tags: alcohol
-  victim: Boy (16)
+  tags: alcohol hit-and-run
+  victim: Junior Shay Alexander (16)
   victim-dob: null
   victim-vehicle: e-scooter
 -
