@@ -10864,7 +10864,7 @@
   offender-/-driver: null
   plea: null
   police-area: Surrey
-  police-code: 20161657
+  police-code: PR/20161657
   tags: null
   victim: Man (40s)
   victim-dob: null
@@ -14685,6 +14685,30 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 20 Nov 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  graph:
+  - driver: Man (28)
+    vehicle: black Ford Ranger car
+  - "Abdelkader Dhrif (70) \u274C"
+  identifier: fe3e1c7
+  imprisonment: null
+  killer-vehicle: black Ford Ranger car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2019/november/family-tribute-to-a-man-who-died-following-a-collision-in-worsley2/
+  offender-/-driver: Man (28)
+  plea: null
+  police-area: Greater Manchester
+  police-code: 1563 of 20/11/2019
+  tags: null
+  victim: Abdelkader Dhrif (70)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 14 Nov 2019
   date-of-sentence: null
   disqualification: null
@@ -15723,6 +15747,31 @@
   victim: Paul Wood (23)
   victim-dob: null
   victim-vehicle: white Kawasaki motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 1 May 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  graph:
+  - driver: "Abbie Hudson Harmes (23) \u274C"
+    vehicle: silver Ford Fiesta car
+  - vehicle: Volvo lorry
+  - vehicle: blue Hyundai Ioniq car
+  identifier: 5be791c
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.sussexexpress.co.uk/news/tributes-paid-to-young-woman-who-died-in-m23-crash-975604
+  offender-/-driver: null
+  plea: null
+  police-area: Sussex
+  police-code: Operation Stonewall
+  tags: null
+  victim: Abbie Hudson Harmes (23)
+  victim-dob: null
+  victim-vehicle: silver Ford Fiesta car
 -
   comment: null
   community-order: null
