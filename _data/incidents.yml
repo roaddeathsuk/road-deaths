@@ -2505,6 +2505,31 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 2 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  graph:
+  - driver: Man (66)
+    vehicle: Car
+  - rider: "Charlie Lewis (56) \u274C"
+    vehicle: Bicycle
+  identifier: 19cad8b
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/may/family-pay-tribute-to-man-who-died-in-a-collision-in-gorton/
+  offender-/-driver: Man (66)
+  plea: null
+  police-area: Greater Manchester
+  police-code: 219 of 02/06/2021
+  tags: null
+  victim: Charlie Lewis (56)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 1 Jun 2021
   date-of-sentence: null
   disqualification: null
@@ -2751,6 +2776,29 @@
   victim: Woman (18)
   victim-dob: null
   victim-vehicle: white Volkswagen Polo car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 18 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  graph:
+  - vehicle: Car
+  - "Anthony McKenzie (37) \u274C"
+  identifier: 38c4c9f
+  imprisonment: null
+  killer-vehicle: Car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/may/family-pay-tribute-to-man-who-died-in-a-collision-in-bury/
+  offender-/-driver: null
+  plea: null
+  police-area: Greater Manchester
+  police-code: 2323 of 18/05/2021
+  tags: null
+  victim: Anthony McKenzie (37)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -3439,13 +3487,14 @@
   killer-vehicle: black Range Rover car
   links:
   - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/march/cyclist-dies-following-collision-in-oldham/
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/march/the-family-of-a-woman-who-died-in-a-collision-in-oldham-have-paid-tribute/
   - https://www.manchestereveningnews.co.uk/news/greater-manchester-news/breaking-woman-dies-after-crash-20257288.amp
   offender-/-driver: null
   plea: null
   police-area: Greater Manchester
   police-code: 1381 of 24/03/2021
   tags: null
-  victim: Woman (43)
+  victim: Louise Harrott (43)
   victim-dob: null
   victim-vehicle: Bicycle
 -
@@ -3770,17 +3819,23 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  graph:
+  - driver: Man (33)
+    vehicle: lorry
+  - driver: "Shirley-Ann Dumbuya (38) \u274C"
+    vehicle: Kia Ceed car
   identifier: a3c6457
   imprisonment: null
   killer-vehicle: Lorry
   links:
+  - https://www.gmp.police.uk/news/greater-manchester/news/appeals/2021/january/police-are-appealing-for-information-after-a-woman-sadly-died-following-a-collision-on-the-m60/
   - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/january/a-man-has-been-charged-following-a-fatal-collision-on-the-m60/
   - https://www.gmp.police.uk/news/greater-manchester/news/news/2021/january/the-family-of-a-woman-who-died-in-a-collision-on-the-m60-yesterday-have-paid-tribute-to-her/
   offender-/-driver: John Bowers (33)
   offender-/-driver-dob: 12/07/1987
   plea: null
   police-area: Greater Manchester
-  police-code: null
+  police-code: 628 of 21/01/2021
   tags: null
   victim: Shirley-Ann Dumbuya (38)
   victim-dob: null
@@ -3887,6 +3942,30 @@
   victim: Man
   victim-dob: null
   victim-vehicle: car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 8 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  graph:
+  - driver: Boy (14)
+    vehicle: silver Mercedes car
+  - "Mohammed Islam (53) \u274C"
+  identifier: eac14e9
+  imprisonment: null
+  killer-vehicle: silver Mercedes car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2021/january/the-family-of-a-man-who-died-after-being-hit-by-his-own-car-during-a-robbery-in-stockport-has-paid-tribute-to-him/
+  offender-/-driver: Boy (14)
+  plea: null
+  police-area: Greater Manchester
+  police-code: null
+  tags: robbery
+  victim: Mohammed Islam (53)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -4177,6 +4256,31 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  graph:
+  - driver: Woman (44)
+    passengers:
+    - "Marukh Aslam (35) \u274C"
+    vehicle: black Audi A1 car
+  identifier: c9c4b30
+  imprisonment: null
+  killer-vehicle: black Audi A1 car
+  links: https://www.gmp.police.uk/news/greater-manchester/news/news/2020/december/the-family-of-a-woman-who-died-following-a-collision-in-bury-have-paid-tribute-to-her/
+  offender-/-driver: Woman (44)
+  plea: null
+  police-area: Greater Manchester
+  police-code: 144 of 02/12/20
+  tags: null
+  victim: Marukh Aslam (35)
+  victim-dob: null
+  victim-vehicle: Passenger
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 2 Dec 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: df86f5f
   imprisonment: null
   killer-vehicle: red Honda Jazz car
@@ -4310,7 +4414,7 @@
   offender-/-driver: Man (31)
   plea: null
   police-area: Greater Manchester
-  police-code: null
+  police-code: 460 of 28/11/2020
   tags: null
   victim: Antonia St Louis (27)
   victim-dob: null
