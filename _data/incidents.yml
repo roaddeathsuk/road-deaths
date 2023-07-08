@@ -192,6 +192,50 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 6 Jul 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 68b9ee8
+  imprisonment: null
+  killer-vehicle: Land Rover
+  links:
+  - https://news.met.police.uk/news/serious-collision-in-wimbledon-469570
+  - https://news.met.police.uk/news/update-fatal-collision-in-wimbledon-469659
+  - https://news.met.police.uk/news/update-girl-dies-following-collision-in-wimbledon-469589
+  - https://www.bbc.co.uk/news/uk-england-london-66140022
+  offender-/-driver: Woman (46)
+  plea: null
+  police-area: Metropolitan
+  police-code: CAD 2200/06Jul
+  tags: null
+  victim: Selena Lau (8)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 3 Jul 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a453097
+  imprisonment: null
+  killer-vehicle: Scooter
+  links: https://news.met.police.uk/news/investigation-launched-following-death-of-male-in-haringey-469414
+  offender-/-driver: Male (18)
+  plea: null
+  police-area: Metropolitan
+  police-code: CAD 5678/3 Jul
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 15 Apr 2022
   date-of-sentence: null
   disqualification: null
