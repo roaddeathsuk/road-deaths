@@ -236,6 +236,32 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 13 May 2023
+  date-of-sentence: null
+  disqualification: 13 years
+  editor-notes: null
+  identifier: 9dc9f8a
+  imprisonment: 12 years
+  killer-vehicle: null
+  links:
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2023/july/manchester-man-jailed-to-12-years-after-fatal-collision-on-the-m66-earlier-this-year/
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2023/may/gmps-serious-collision-investigation-unit-continue-to-appeal-for-information-after-38-year-old-woman-sadly-dies-in-car-crash-on-m66-in-bury/
+  - https://www.gmp.police.uk/news/greater-manchester/news/news/2023/may/police-appeal-for-information-following-a-serious-collision-on-the-m66/
+  - https://www.manchestereveningnews.co.uk/news/greater-manchester-news/wannabe-big-man-boy-racer-27354496
+  offender-/-driver: Adil Iqbal (22)
+  plea: pleaded guilty to causing death by dangerous driving
+  police-area: Greater Manchester
+  police-code: 2254 of 13/05/2023
+  tags: 123/70 phone
+  victim:
+  - Frankie Hough (38)
+  - unborn daughter (17w)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 15 Apr 2022
   date-of-sentence: null
   disqualification: null
