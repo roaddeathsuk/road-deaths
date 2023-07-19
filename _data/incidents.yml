@@ -216,33 +216,13 @@
   comment: null
   community-order: null
   court: null
-  date-of-incident: Mon, 3 Jul 2023
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: a453097
-  imprisonment: null
-  killer-vehicle: Scooter
-  links: https://news.met.police.uk/news/investigation-launched-following-death-of-male-in-haringey-469414
-  offender-/-driver: Male (18)
-  plea: null
-  police-area: Metropolitan
-  police-code: CAD 5678/3 Jul
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
   date-of-incident: Sat, 13 May 2023
   date-of-sentence: null
   disqualification: 13 years
   editor-notes: null
   identifier: 9dc9f8a
   imprisonment: 12 years
-  killer-vehicle: null
+  killer-vehicle: BMW
   links:
   - https://www.gmp.police.uk/news/greater-manchester/news/news/2023/july/manchester-man-jailed-to-12-years-after-fatal-collision-on-the-m66-earlier-this-year/
   - https://www.gmp.police.uk/news/greater-manchester/news/news/2023/may/gmps-serious-collision-investigation-unit-continue-to-appeal-for-information-after-38-year-old-woman-sadly-dies-in-car-crash-on-m66-in-bury/
