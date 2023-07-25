@@ -241,6 +241,30 @@
 -
   comment: null
   community-order: null
+  court: Cardiff Crown Court
+  date-of-incident: Tue, 19 Jul 2022
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6a58694
+  imprisonment: 30 weeks, suspended for 15 months
+  killer-vehicle: Ford Ranger
+  links:
+  - https://www.bbc.co.uk/news/uk-wales-62337370
+  - https://www.bbc.co.uk/news/uk-wales-66293953
+  offender-/-driver: Rhys Miles (22)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim:
+  - Denise Hughes (79)
+  - Justine Hughes (30)
+  victim-dob: null
+  victim-vehicle: blue Citroen C3
+-
+  comment: null
+  community-order: null
   court: null
   date-of-incident: Fri, 15 Apr 2022
   date-of-sentence: null
