@@ -192,24 +192,159 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 21 Jan 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a833072
+  imprisonment: null
+  killer-vehicle: Range Rover Evoque suv
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/further-arrests-following-fatal-road-traffic-incident-in-bishopstoke/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2024/january/family-pay-tribute-to-man-who-died-in-bishopstoke/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2024/january/investigation-update-following-fatal-road-traffic-incident-in-bishopstoke/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240032079
+  tags: null
+  victim: Lukasz Wojenkowski (35)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 15 Jan 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6922a01
+  imprisonment: null
+  killer-vehicle:
+  - supermarket delivery van
+  - Toyota Proace van
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/appeal-following-fatal-collision-in-petersfield/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240021306
+  tags: drugs
+  victim: Woman (76)
+  victim-dob: null
+  victim-vehicle: Ford KA car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 8 Jan 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 087d99d
+  imprisonment: null
+  killer-vehicle: Bridge
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/appeal-following-fatal-collision-in-liphook/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/tribute-paid-to-man-who-died-following-collision-in-liphook/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240010197
+  tags: null
+  victim: Phillip Bower (45)
+  victim-dob: null
+  victim-vehicle: silver Mercedes
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 5 Jan 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d425a78
+  imprisonment: null
+  killer-vehicle: grey Ford Focus car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/police-appeal-for-witnesses-following-fatal-collision-on-the-m27/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/police-appeal-for-witnesses-following-fatal-collision-on-the-m27/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/tribute-paid-to-man-who-died-in-m27-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240006859
+  tags: null
+  victim: Stephen Lee (60)
+  victim-dob: null
+  victim-vehicle: blue Nissan Juke car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 26 Dec 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6d6a201
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2023/december/appeal-for-witnesses-following-fatal-collision-in-fareham/
+  offender-/-driver: Man (90)
+  plea: null
+  police-area: Hampshire
+  police-code: 44230525856
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: blue Peugeot 208 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 19 Dec 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5bcf3b1
+  imprisonment: null
+  killer-vehicle: Ford Ranger suv
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/tribute-paid-following-fatal-collision/
+  offender-/-driver: Man (43)
+  plea: null
+  police-area: Hampshire
+  police-code: 44230516645
+  tags: null
+  victim: Damien Walton (33)
+  victim-dob: null
+  victim-vehicle: Lexmoto Diablo motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 6 Jul 2023
   date-of-sentence: null
   disqualification: null
   editor-notes: null
   identifier: 68b9ee8
   imprisonment: null
-  killer-vehicle: Land Rover
+  killer-vehicle: Land Rover suv
   links:
   - https://news.met.police.uk/news/serious-collision-in-wimbledon-469570
   - https://news.met.police.uk/news/update-fatal-collision-in-wimbledon-469659
   - https://news.met.police.uk/news/update-girl-dies-following-collision-in-wimbledon-469589
+  - https://www.bbc.co.uk/news/articles/cy9eq89n714o
+  - https://www.bbc.co.uk/news/uk-66150234
   - https://www.bbc.co.uk/news/uk-england-london-66140022
+  - https://www.express.co.uk/news/uk/1850651/schoolgirl-death-crash-school
   offender-/-driver: Woman (46)
   plea: null
   police-area: Metropolitan
   police-code: CAD 2200/06Jul
   tags: null
-  victim: Selena Lau (8)
+  victim:
+  - Selena Lau (8)
+  - Nuria Sajjad (8)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
@@ -384,6 +519,32 @@
   victim: Roger Parris (63)
   victim-dob: null
   victim-vehicle: bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 30 Nov 2021
+  date-of-sentence: null
+  disqualification: 9 years 10 mouths
+  editor-notes: null
+  identifier: b6305ba
+  imprisonment: 7 years 4 months
+  killer-vehicle: Audi A3
+  links:
+  - https://twitter.com/gazza_d/status/1751253693289160815
+  - https://www.bbc.co.uk/news/uk-england-merseyside-59487348
+  - https://www.bbc.co.uk/news/uk-england-merseyside-59509549
+  - https://www.bbc.co.uk/news/uk-england-merseyside-68112771
+  offender-/-driver: Glyn Jones (68)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: null
+  victim:
+  - Marie Cunningham (79)
+  - Grace Foulds (85)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null

@@ -374,11 +374,14 @@
   covered: 515
   total: 1472
 2021:
-  covered: 183
-  total: null
+  covered: 185
+  total: 1558
 2022:
   covered: 7
-  total: null
+  total: 1695
 2023:
-  covered: 3
+  covered: 5
+  total: null
+2024:
+  covered: 4
   total: null
