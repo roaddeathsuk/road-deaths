@@ -203,6 +203,7 @@
   - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/january/further-arrests-following-fatal-road-traffic-incident-in-bishopstoke/
   - https://www.hampshire.police.uk/news/hampshire/news/news/2024/january/family-pay-tribute-to-man-who-died-in-bishopstoke/
   - https://www.hampshire.police.uk/news/hampshire/news/news/2024/january/investigation-update-following-fatal-road-traffic-incident-in-bishopstoke/
+  - https://www.itv.com/news/meridian/2024-01-24/man-dies-after-being-struck-by-vehicle-at-car-wash
   offender-/-driver: null
   plea: null
   police-area: Hampshire
@@ -345,6 +346,26 @@
   victim:
   - Selena Lau (8)
   - Nuria Sajjad (8)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: Bournemouth Crown Court
+  date-of-incident: Fri, 30 Jun 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: fe08068
+  imprisonment: 11 years
+  killer-vehicle: Honda Civic
+  links: https://www.itv.com/news/meridian/2024-01-27/speeding-drink-driver-jailed-for-killing-teenager-in-crash
+  offender-/-driver: Tyrone Franklin (25)
+  plea: null
+  police-area: Dorset
+  police-code: null
+  tags: 80/40 alcohol
+  victim: Billy Lardner (16)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
