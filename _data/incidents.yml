@@ -242,6 +242,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: c58cfc2
+  imprisonment: null
+  killer-vehicle: black Citroen Berlingo van
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2024/01-january/fatal-collision-on-the-a19-south-of-easingwold/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12240004384
+  tags: null
+  victim: Woman
+  victim-dob: null
+  victim-vehicle: dark-coloured Ford C-MAX MPV car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 8 Jan 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 087d99d
   imprisonment: null
   killer-vehicle: Bridge
@@ -343,6 +363,46 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 5 Dec 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: cd22cc9
+  imprisonment: null
+  killer-vehicle: blue DAF horse box lorry
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2023/12-december/york-fatal-collision-appeal--witnesses-and-motorists-with-relevant-dashcam-urged-to-come-forward/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12230230786
+  tags: null
+  victim: Man (60s)
+  victim-dob: null
+  victim-vehicle: blue Mazda 2 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 3 Dec 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8f3c091
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2023/12-december/serious-collision-near-snainton--a170-closed/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12230229689
+  tags: null
+  victim: Man (33)
+  victim-dob: null
+  victim-vehicle: grey Peugeot car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 1 Dec 2023
   date-of-sentence: null
   disqualification: null
@@ -439,6 +499,26 @@
   victim: Tom Collins (26)
   victim-dob: null
   victim-vehicle: black Seat Leon car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 21 Oct 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: eb29e34
+  imprisonment: null
+  killer-vehicle: Bridge
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2023/10-october/witness-appeal-following-fatal-collision-near-skipton/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12230200190
+  tags: null
+  victim: Man (70s)
+  victim-dob: null
+  victim-vehicle: dark red Vauxhall Grandland car
 -
   comment: null
   community-order: null
