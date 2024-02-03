@@ -745,6 +745,29 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 18 Dec 2021
+  date-of-sentence: 26 January 2024
+  disqualification: 4 years + extended retest
+  editor-notes: null
+  identifier: af79dec
+  imprisonment: 4 years
+  killer-vehicle: BMW car
+  links:
+  - https://road.cc/content/news/speeding-driver-who-killed-cyclist-jailed-four-years-306557
+  - https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/hull-driver-speeding-new-bmw-9063252
+  - https://www.humberside.police.uk/news/humberside/news/news/2024/february/reckless-driver-sentenced-to-four-years/
+  offender-/-driver: Aaron Metcalfe (35)
+  plea: null
+  police-area: Humberside
+  police-code: null
+  tags: 54/30
+  victim: Mariusz Zak (42)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 30 Nov 2021
   date-of-sentence: null
   disqualification: 9 years 10 mouths
