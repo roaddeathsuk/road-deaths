@@ -15557,6 +15557,27 @@
 -
   comment: null
   community-order: null
+  court: null
+  date-of-incident: Mon, 30 Sep 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 630aedb
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/october-2019/appeal-after-fatal-collision-in-southampton/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44190349894'
+  tags: null
+  victim: Man (30s)
+  victim-dob: null
+  victim-vehicle: black BMW 520 car
+-
+  comment: null
+  community-order: null
   court: Leicester Crown Court
   date-of-incident: Thu, 26 Sep 2019
   date-of-sentence: 17 April 2020
@@ -28330,27 +28351,6 @@
   victim: Janusz Wojciechowski (85)
   victim-dob: null
   victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 630aedb
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/october-2019/appeal-after-fatal-collision-in-southampton/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190349894'
-  tags: car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
 -
   comment: null
   community-order: null
