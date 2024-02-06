@@ -772,7 +772,7 @@
   date-of-sentence: null
   disqualification: 9 years 10 mouths
   editor-notes: null
-  identifier: b6305ba
+  identifier: '21000831536'
   imprisonment: 7 years 4 months
   killer-vehicle: Audi A3
   links:
@@ -780,10 +780,12 @@
   - https://www.bbc.co.uk/news/uk-england-merseyside-59487348
   - https://www.bbc.co.uk/news/uk-england-merseyside-59509549
   - https://www.bbc.co.uk/news/uk-england-merseyside-68112771
+  - https://www.merseyside.police.uk/news/merseyside/news/2021/november/victims-of-collision-in-birkdale-formally-identified/
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/january/man-jailed-for-seven-years-and-four-months-following-fatal-road-traffic-collision/
   offender-/-driver: Glyn Jones (68)
   plea: null
-  police-area: null
-  police-code: null
+  police-area: Merseyside
+  police-code: '21000831536'
   tags: null
   victim:
   - Marie Cunningham (79)
