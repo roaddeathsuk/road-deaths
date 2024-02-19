@@ -151,6 +151,7 @@ bus: F5B6
 bus?: null
 c: null
 c-max: null
+c1: null
 c180: null
 c2000: null
 c220: null
@@ -162,6 +163,7 @@ campervan: F0D1
 cannabis: F595
 car: F5E4
 car?: null
+careless: null
 case: null
 cattle: null
 cb1000: null
@@ -171,6 +173,7 @@ ceed: F5E4
 cement: null
 chevrolet: null
 citigo: null
+citoren: null
 citreon: null
 citroen: null
 civic: F5E4

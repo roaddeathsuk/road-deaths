@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 16 Feb 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1e05a5d
+  imprisonment: null
+  killer-vehicle: red Audi A1 car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/appeal-for-witnesses-after-man-dies-following-collision-in-petersfield/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240070030
+  tags: null
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 21 Jan 2024
   date-of-sentence: null
   disqualification: null
@@ -234,6 +254,26 @@
   victim: Woman (76)
   victim-dob: null
   victim-vehicle: Ford KA car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 10 Jan 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '24000047886'
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.merseyside.police.uk/news/merseyside/news/2024/january/appeal-for-information-following-fatal-road-collision-in-bromborough/
+  offender-/-driver: null
+  plea: null
+  police-area: Merseyside
+  police-code: 24000047886
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -339,6 +379,26 @@
   victim: Damien Walton (33)
   victim-dob: null
   victim-vehicle: Lexmoto Diablo motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 18 Dec 2023
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8d021dd
+  imprisonment: null
+  killer-vehicle: Vauxhall Corsa car
+  links: https://www.merseyside.police.uk/news/merseyside/news/2024/january/family-of-audrey-manby-pay-tribute-following-fatal-road-collision-in-woolton/
+  offender-/-driver: Man (52)
+  plea: null
+  police-area: Merseyside
+  police-code: null
+  tags: null
+  victim: Audrey Manby (91)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -641,6 +701,29 @@
   - Lewis Meeson (21)
   victim-dob: null
   victim-vehicle: yellow Suzuki off-road motorbike
+-
+  comment: null
+  community-order: null
+  court: Southampton Crown Court
+  date-of-incident: Thu, 24 Mar 2022
+  date-of-sentence: null
+  disqualification: 4 years after release
+  editor-notes: death by careless driving, causing death while driving uninsured and
+    causing death while driving unlicensed
+  identifier: aaf39d3
+  imprisonment: 27 months
+  killer-vehicle: Citoren C1 car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/20222/april-2022/tribute-paid-to-woman-who-died-following-collision-as-two-potential-witnesses-sought/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2024/february/man-sentenced-following-fatal-new-milton-collision/
+  offender-/-driver: Lewis Griffiths Bungard (26)
+  plea: null
+  police-area: Hampshire
+  police-code: 44220117365
+  tags: careless uninsured unlicenced
+  victim: Jill Bearsley Stevens (75)
+  victim-dob: null
+  victim-vehicle: pedestrian
 -
   comment: null
   community-order: null
