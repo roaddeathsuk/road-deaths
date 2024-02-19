@@ -1305,6 +1305,27 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 15 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 11e2292
+  imprisonment: null
+  killer-vehicle: Vauxhall Astra car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/august/family-of-man-who-died-in-collision-near-barton-stacey-pays-tribute-to-him/
+  offender-/-driver: Woman (21)
+  plea: null
+  police-area: Hampshire
+  police-code: '44210325082'
+  tags: arrested careless uninsured unlicensed
+  victim: Oliver Gadney (45)
+  victim-dob: null
+  victim-vehicle: cyclist
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 13 Aug 2021
   date-of-sentence: null
   disqualification: null
@@ -4313,6 +4334,27 @@
   victim: Man
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 28 Jan 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6d43157
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/february/tribute-paid-to-man-who-died-in-a303-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210032680'
+  tags: van
+  victim: Andrew Shanahan (29)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -15104,6 +15146,28 @@
   victim: Man (51)
   victim-dob: null
   victim-vehicle: black Suzuki motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 5 Dec 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 499d089
+  imprisonment: null
+  killer-vehicle: silver Toyota Aygo car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/december/appeal-for-witnesses-after-fatal-collision-in-hamble/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/december/tribute-paid-to-woman-who-died-in-single-vehicle-collision-in-hamble/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44190438205'
+  tags: car
+  victim: Abbie O'Rourke (18)
+  victim-dob: null
+  victim-vehicle: passenger
 -
   comment: null
   community-order: null
@@ -28436,70 +28500,6 @@
   victim: Janusz Wojciechowski (85)
   victim-dob: null
   victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 499d089
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/december/appeal-for-witnesses-after-fatal-collision-in-hamble/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/december/tribute-paid-to-woman-who-died-in-single-vehicle-collision-in-hamble/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190438205'
-  tags: car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 6d43157
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/february/tribute-paid-to-man-who-died-in-a303-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210032680'
-  tags: van
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 11e2292
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/august/family-of-man-who-died-in-collision-near-barton-stacey-pays-tribute-to-him/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210325082'
-  tags: arrested car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
 -
   comment: null
   community-order: null
