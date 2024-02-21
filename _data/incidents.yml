@@ -192,6 +192,31 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 21 Feb 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ac42a28
+  imprisonment: null
+  killer-vehicle:
+  - Nissan Juke car
+  - Volkswagen Polo
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/witness-appeal-following-fatal-collision-on-m27/
+  offender-/-driver:
+  - Man (32)
+  - Man (37)
+  - Woman (40)
+  plea: null
+  police-area: Hampshire
+  police-code: 44240076451
+  tags: dangerous
+  victim: Man (30s)
+  victim-dob: null
+  victim-vehicle: Mercedes lorry
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 16 Feb 2024
   date-of-sentence: null
   disqualification: null
