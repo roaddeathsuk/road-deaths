@@ -201,7 +201,9 @@
   killer-vehicle:
   - Nissan Juke car
   - Volkswagen Polo
-  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/witness-appeal-following-fatal-collision-on-m27/
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/renewed-appeal-following-fatal-m27-collision/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/witness-appeal-following-fatal-collision-on-m27/
   offender-/-driver:
   - Man (32)
   - Man (37)
