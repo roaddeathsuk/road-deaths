@@ -13909,6 +13909,28 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 1 Mar 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 3c48fd8
+  imprisonment: null
+  killer-vehicle: blue Subaru Impreza car
+  links:
+  - https://www.dailyecho.co.uk/news/18282558.tributes-bayley-bligdon-died-crash-near-eastleigh/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/march/appeal-for-witnesses-after-man-dies-following-collision-in-eastleigh/
+  offender-/-driver: Man (34)
+  plea: null
+  police-area: Hampshire
+  police-code: '44200078958'
+  tags: arrested car drugs
+  victim: Bayley Bligdon (18)
+  victim-dob: null
+  victim-vehicle: blue Ford Fiesta car
+-
   comment: Boy, 8, dies after serious crash on the M60 motorway - a BMW driver has
     been arrested on suspicion of drug driving
   community-order: null
@@ -14714,6 +14736,27 @@
   victim: Robert George Soper (81)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 10 Jan 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f3329d2
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-woman-dies-in-single-vehicle-collision-on-isle-of-wight/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200012614'
+  tags: car
+  victim: Michaela Logan (19)
+  victim-dob: null
+  victim-vehicle: black Ford Fiesta car
 -
   comment: null
   community-order: null
@@ -29151,48 +29194,6 @@
   plea: null
   police-area: Hampshire
   police-code: '44210312832'
-  tags: car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 3c48fd8
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/march/appeal-for-witnesses-after-man-dies-following-collision-in-eastleigh/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200078958'
-  tags: arrested car drugs
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: f3329d2
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-woman-dies-in-single-vehicle-collision-on-isle-of-wight/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200012614'
   tags: car
   victim: null
   victim-dob: null
