@@ -243,6 +243,7 @@
   - Volkswagen Polo
   links:
   - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/renewed-appeal-following-fatal-m27-collision/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/tribute-paid-to-man-who-died-in-m27-collision/
   - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/witness-appeal-following-fatal-collision-on-m27/
   offender-/-driver:
   - Man (32)
@@ -252,7 +253,7 @@
   police-area: Hampshire
   police-code: 44240076451
   tags: dangerous
-  victim: Man (30s)
+  victim: Michal Kaminski (36)
   victim-dob: null
   victim-vehicle: Mercedes lorry
 -
@@ -11655,6 +11656,28 @@
   victim-dob: null
   victim-vehicle: null
 -
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 10 Jul 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1a7489d
+  imprisonment: null
+  killer-vehicle: Lamppost
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/july/witness-appeal-made-following-fatal-collision-in-havant/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/july/family-of-man-who-died-in-collision-in-havant-last-friday-pay-tribute/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200255290'
+  tags: van
+  victim: Andrew Biddlecombe (70)
+  victim-dob: null
+  victim-vehicle: grey Morgan Plus Four car
+-
   comment: The pedestrian, a man in his 60s, died at the scene.
   community-order: null
   court: null
@@ -13459,6 +13482,27 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 10 Apr 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d893453
+  imprisonment: null
+  killer-vehicle: lorry
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/april/appeal-for-witnesses-following-fatal-m27-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200127453'
+  tags: car lorry pedestrian
+  victim: Female (40)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 9 Apr 2020
   date-of-sentence: null
   disqualification: null
@@ -13843,6 +13887,27 @@
   victim: Female (16-24)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 1 Mar 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 25ea43f
+  imprisonment: null
+  killer-vehicle: white DAF lorry
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/march/appeal-after-pedestrian-dies-in-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200078914'
+  tags: pedestrian
+  victim: Man (20s)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: Boy, 8, dies after serious crash on the M60 motorway - a BMW driver has
     been arrested on suspicion of drug driving
@@ -15429,6 +15494,27 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 19 Nov 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d8694ee
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/november/tribute-paid-to-man-killed-in-collision-with-lorry-on-a34-near-kingsworthy/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44190415301'
+  tags: car lorry pedestrian
+  victim: Oliver Washington (19)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 14 Nov 2019
   date-of-sentence: null
   disqualification: null
@@ -15528,6 +15614,27 @@
   victim: Male (40s)
   victim-dob: null
   victim-vehicle: silver Nissan Qashqai car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 6 Nov 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 75ef2c4
+  imprisonment: null
+  killer-vehicle: Ford Focus car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/november/tribute-paid-to-woman-who-died-in-southampton-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200430388'
+  tags: pedestrian
+  victim: Paula White (92)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -29087,112 +29194,6 @@
   police-area: Hampshire
   police-code: '44200012614'
   tags: car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 1a7489d
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/july/witness-appeal-made-following-fatal-collision-in-havant/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/july/family-of-man-who-died-in-collision-in-havant-last-friday-pay-tribute/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200255290'
-  tags: van
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: d893453
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/april/appeal-for-witnesses-following-fatal-m27-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200127453'
-  tags: car lorry pedestrian
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 25ea43f
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/march/appeal-after-pedestrian-dies-in-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200078914'
-  tags: pedestrian
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 75ef2c4
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/november/tribute-paid-to-woman-who-died-in-southampton-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200430388'
-  tags: pedestrian
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: d8694ee
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/november/tribute-paid-to-man-killed-in-collision-with-lorry-on-a34-near-kingsworthy/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190415301'
-  tags: car lorry pedestrian
   victim: null
   victim-dob: null
   victim-vehicle: null
