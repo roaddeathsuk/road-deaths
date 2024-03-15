@@ -1521,6 +1521,29 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 6 Aug 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f38022f
+  imprisonment: null
+  killer-vehicle: Tree
+  links:
+  - https://www.getsurrey.co.uk/news/hampshire-news/charismatic-surrey-police-officer-named-21302919
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/august/appeal-for-witnesses-following-fatal-road-traffic-collision-in-aldershot/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/august/family-pay-tribute-to-man-who-died-in-collision-in-aldershot/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210312832'
+  tags: car
+  victim: Liam Horley (21)
+  victim-dob: null
+  victim-vehicle: red Peugeot 308 car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 3 Aug 2021
   date-of-sentence: null
   disqualification: null
@@ -28675,29 +28698,6 @@
   victim: Bridget Driscoll (44)
   victim-dob: null
   victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: f38022f
-  imprisonment: null
-  killer-vehicle: Tree
-  links:
-  - https://www.getsurrey.co.uk/news/hampshire-news/charismatic-surrey-police-officer-named-21302919
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/august/appeal-for-witnesses-following-fatal-road-traffic-collision-in-aldershot/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/august/family-pay-tribute-to-man-who-died-in-collision-in-aldershot/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210312832'
-  tags: car
-  victim: Liam Horley (21)
-  victim-dob: null
-  victim-vehicle: red Peugeot 308 car
 -
   comment: null
   community-order: null
