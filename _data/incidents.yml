@@ -16410,6 +16410,30 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 28 Jul 2019
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 18c05a8
+  imprisonment: null
+  killer-vehicle: Mitsubishi car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/july/appeal-for-witnesses-after-two-people-died-in-waterlooville-collision/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/august/family-pay-tribute-to-couple-following-waterlooville-collision/
+  offender-/-driver: Man (36)
+  plea: null
+  police-area: Hampshire
+  police-code: '44190265394'
+  tags: null
+  victim:
+  - Henry Durow (89)
+  - Shirley Durow (84)
+  victim-dob: null
+  victim-vehicle: Toyota Yaris car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 26 Jul 2019
   date-of-sentence: null
   disqualification: null
@@ -29180,28 +29204,6 @@
   police-area: Hampshire
   police-code: '44190332625'
   tags: arrested car fail-to-stop motorbike
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 18c05a8
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/july/appeal-for-witnesses-after-two-people-died-in-waterlooville-collision/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/august/family-pay-tribute-to-couple-following-waterlooville-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190265394'
-  tags: null
   victim: null
   victim-dob: null
   victim-vehicle: null
