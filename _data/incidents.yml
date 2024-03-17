@@ -1701,6 +1701,29 @@
 -
   comment: null
   community-order: null
+  court: Southampton Crown Court
+  date-of-incident: Fri, 23 Jul 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: b2271d3
+  imprisonment: 21 months
+  killer-vehicle: BMW car
+  links:
+  - https://www.dailymail.co.uk/news/article-11084779/Speeding-drug-driver-25-killed-newly-married-cyclist-jailed-just-21-months.html
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/july/appeal-for-witnesses-following-road-traffic-incident-in-southampton/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/family-pays-tribute-to-man-who-died-in-southampton-collision/
+  offender-/-driver: Kornel Marcinek (25)
+  plea: null
+  police-area: Hampshire
+  police-code: '44210292622'
+  tags: 37/30 arrested car drugs marijuana phone
+  victim: Joe Burton (33)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
   court: null
   date-of-incident: Fri, 23 Jul 2021
   date-of-sentence: null
@@ -3049,6 +3072,31 @@
   victim: Patrick Keohane (71)
   victim-dob: null
   victim-vehicle: black Suzuki motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 9 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: b315c62
+  imprisonment: null
+  killer-vehicle:
+  - Citreon Relay car
+  - Fiat Panda car
+  - Volkswagen Polo car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/june-2021/appeal-for-witnesses-after-fatal-collision-on-b3035/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/tributes-paid-to-man-who-died-in-b3035-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210224948'
+  tags: motorbike
+  victim: Patrick Keohane (71)
+  victim-dob: null
+  victim-vehicle: Suzuki motorcycle
 -
   comment: null
   community-order: null
@@ -29154,50 +29202,6 @@
   police-area: Hampshire
   police-code: '44190265394'
   tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: b315c62
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/june-2021/appeal-for-witnesses-after-fatal-collision-on-b3035/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/tributes-paid-to-man-who-died-in-b3035-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210224948'
-  tags: motorbike
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: b2271d3
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/july/appeal-for-witnesses-following-road-traffic-incident-in-southampton/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/family-pays-tribute-to-man-who-died-in-southampton-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210292622'
-  tags: arrested car drugs
   victim: null
   victim-dob: null
   victim-vehicle: null
