@@ -12354,6 +12354,29 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 25 Jun 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c93b7b8
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/further-appeal-for-witnesses-after-fatal-collision-in-fareham/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/july/tribute-paid-to-woman-who-died-in-collision-on-down-end-road/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/june/appeal-for-witnesses-following-fatal-collision-in-fareham/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200230693'
+  tags: car van
+  victim: Erica Ward (21)
+  victim-dob: null
+  victim-vehicle: passenger Ford Fiesta car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Wed, 24 Jun 2020
   date-of-sentence: null
   disqualification: null
@@ -12692,6 +12715,27 @@
   police-code: null
   tags: null
   victim: Tony Gillette (43)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 12 Jun 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0aff852
+  imprisonment: null
+  killer-vehicle: lorry
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/fatal-collision-on-the-a33-terminus-terrace-in-southampton/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200211336'
+  tags: null
+  victim: Man (43)
   victim-dob: null
   victim-vehicle: Bicycle
 -
@@ -14488,6 +14532,27 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 5 Feb 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 4c9dea3
+  imprisonment: null
+  killer-vehicle: motorcycle
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/february-2020/tribute-paid-to-cyclist-who-died-after-collision-in-portsmouth-on-tuesday/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200044485'
+  tags: car motorbike
+  victim: Brett Michael Thorne (39)
+  victim-dob: null
+  victim-vehicle: bicycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 2 Feb 2020
   date-of-sentence: null
   disqualification: null
@@ -14575,6 +14640,30 @@
   victim: Ella Cooper (37)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 30 Jan 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '3816850'
+  imprisonment: null
+  killer-vehicle: white Audi car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-two-men-die-in-collision-in-winchester/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/february-2020/tributes-paid-to-men-who-died-in-collision-on-a272-near-winchester-last-month/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200037998'
+  tags: null
+  victim:
+  - Anthony Leech (70)
+  - Stephen Skilton (61)
+  victim-dob: null
+  victim-vehicle: passengers black Ford Fiesta car
 -
   comment: null
   community-order: null
@@ -29041,93 +29130,6 @@
   police-area: Hampshire
   police-code: '44210196667'
   tags: car hgv lorry motorbike
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 4c9dea3
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/february-2020/tribute-paid-to-cyclist-who-died-after-collision-in-portsmouth-on-tuesday/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200044485'
-  tags: car motorbike
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: '3816850'
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-for-witnesses-after-two-men-die-in-collision-in-winchester/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/february-2020/tributes-paid-to-men-who-died-in-collision-on-a272-near-winchester-last-month/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200037998'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: c93b7b8
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/further-appeal-for-witnesses-after-fatal-collision-in-fareham/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/july/tribute-paid-to-woman-who-died-in-collision-on-down-end-road/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/june/appeal-for-witnesses-following-fatal-collision-in-fareham/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200230693'
-  tags: car van
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 0aff852
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/fatal-collision-on-the-a33-terminus-terrace-in-southampton/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200211336'
-  tags: lorry
   victim: null
   victim-dob: null
   victim-vehicle: null
