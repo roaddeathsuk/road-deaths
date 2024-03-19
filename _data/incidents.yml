@@ -3814,8 +3814,12 @@
   editor-notes: null
   identifier: dc95c83
   imprisonment: null
-  killer-vehicle: car
-  links: https://www.hampshire.police.uk/news/hampshire/news/news/2021/april-2021/tribute-paid-to-man-who-died-in-collision-on-a3m/
+  killer-vehicle:
+  - lorry
+  - car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/april/witness-appeal-following-fatal-collision-on-a3m/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/april-2021/tribute-paid-to-man-who-died-in-collision-on-a3m/
   offender-/-driver: null
   plea: null
   police-area: Hampshire
@@ -29143,49 +29147,6 @@
   police-area: Hampshire
   police-code: '44210233054'
   tags: motorbike van
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 59ec98d
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/april/witness-appeal-following-fatal-collision-on-a3m/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/april-2021/tribute-paid-to-man-who-died-in-collision-on-a3m/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210149298'
-  tags: car lorry
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 2f2b8ff
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/january/appeal-after-items-thrown-from-bridge-onto-busy-a27-in-portsmouth/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200024268'
-  tags: car hgv
   victim: null
   victim-dob: null
   victim-vehicle: null
