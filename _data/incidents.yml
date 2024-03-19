@@ -4804,6 +4804,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 29 Dec 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: bb0f8b5
+  imprisonment: null
+  killer-vehicle: Mini Cooper car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/december/appeal-for-witnesses-after-man-dies-following-collision-in-portsmouth/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/january/tribute-paid-to-man-who-died-in-collision-in-portsmouth/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200499342'
+  tags: null
+  victim: Benjamin Ringe (30)
+  victim-dob: null
+  victim-vehicle: Vespa Piaggio scooter
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Wed, 23 Dec 2020
   date-of-sentence: null
   disqualification: null
@@ -11426,8 +11448,12 @@
   identifier: 4db839a
   imprisonment: null
   killer-vehicle: Van
-  links: https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/tribute-paid-to-man-who-died-following-a-collision-in-southampton/
-  offender-/-driver: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/appeal-for-new-information-in-the-investigation-into-the-death-of-daniel-blakeman-from-southampton/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/murder-investigation-launched-after-man-dies-following-collision-between-bicycle-and-a-van-in-southampton/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/murder-investigation-update-detectives-appeal-for-dash-cam-footage/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/tribute-paid-to-man-who-died-following-a-collision-in-southampton/
+  offender-/-driver: Man (33)
   plea: null
   police-area: Hampshire
   police-code: 44200266371
@@ -12634,6 +12660,28 @@
   victim: Paul Prince (61)
   victim-dob: null
   victim-vehicle: black and white Lexmoto Milano motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 11 Jun 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 00dd1d5
+  imprisonment: null
+  killer-vehicle: traffic lights
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/motorcyclist-dies-following-shirley-road-collision/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/june/tribute-paid-to-man-who-died-in-single-vehicle-collision-in-southampton/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200209847'
+  tags: motorbike
+  victim: Paul Prince (61)
+  victim-dob: null
+  victim-vehicle: black & white Lexmoto Milano motorbike
 -
   comment: null
   community-order: null
@@ -16074,6 +16122,29 @@
   victim: Male (50s)
   victim-dob: null
   victim-vehicle: black motorcycle
+-
+  comment: null
+  community-order: null
+  court: Winchester Crown Court
+  date-of-incident: Tue, 17 Sep 2019
+  date-of-sentence: 1 April 2021
+  disqualification: 6 years + extended re-test
+  editor-notes: null
+  identifier: 5c2cb98
+  imprisonment: 4 years
+  killer-vehicle: silver Toyota Supra car
+  links:
+  - https://planetradio.co.uk/greatest-hits/berkshire-north-hampshire/news/man-from-reading-jailed-for-dangerous-driving/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/september/appeal-following-fail-to-stop-collision-near-hook/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/september/police-release-identity-of-motorcyclist-who-died-in-collision-near-Hook/
+  offender-/-driver: Luke John (25)
+  plea: null
+  police-area: Hampshire
+  police-code: '44190332625'
+  tags: arrested car fail-to-stop motorbike
+  victim: Tenny Turner Snr (53)
+  victim-dob: null
+  victim-vehicle: Harley Davidson motorcycle
 -
   comment: null
   community-order: null
@@ -29115,95 +29186,6 @@
   police-area: Hampshire
   police-code: '44200024268'
   tags: car hgv
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 00dd1d5
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/motorcyclist-dies-following-shirley-road-collision/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/june/tribute-paid-to-man-who-died-in-single-vehicle-collision-in-southampton/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200209847'
-  tags: motorbike
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: bb0f8b5
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/december/appeal-for-witnesses-after-man-dies-following-collision-in-portsmouth/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/january/tribute-paid-to-man-who-died-in-collision-in-portsmouth/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200499342'
-  tags: null
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: c2ecfbb
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/appeal-for-new-information-in-the-investigation-into-the-death-of-daniel-blakeman-from-southampton/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/murder-investigation-launched-after-man-dies-following-collision-between-bicycle-and-a-van-in-southampton/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/august/murder-investigation-update-detectives-appeal-for-dash-cam-footage/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200266371'
-  tags: arrested drugs van
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 5c2cb98
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2019/september/appeal-following-fail-to-stop-collision-near-hook/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2019/september/police-release-identity-of-motorcyclist-who-died-in-collision-near-Hook/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44190332625'
-  tags: arrested car fail-to-stop motorbike
   victim: null
   victim-dob: null
   victim-vehicle: null

@@ -1,3 +1,4 @@
+'&': null
 (blue: null
 (digger?): null
 (fixed: null
@@ -313,6 +314,7 @@ leon: null
 lexmoto: null
 lexus: null
 light: null
+lights: null
 limit: null
 load: null
 loader: null
@@ -479,6 +481,7 @@ subaru: null
 suicide: F567
 sun: F8DD
 supermarket: null
+supra: null
 suv: F63C
 suzuki: null
 swift: null
@@ -522,6 +525,7 @@ vauxhall: null
 vectra: null
 vehicle: F5E4
 verso: null
+vespa: null
 vfr800: null
 vitara: null
 vitasra: null
