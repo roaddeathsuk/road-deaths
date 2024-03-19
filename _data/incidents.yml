@@ -1854,6 +1854,29 @@
 -
   comment: null
   community-order: null
+  court: Southampton Crown Court
+  date-of-incident: Sat, 17 Jul 2021
+  date-of-sentence: null
+  disqualification: 9 years 3 months
+  editor-notes: null
+  identifier: 8ee075e
+  imprisonment: 8 years 6 months
+  killer-vehicle: black Audi A3 car
+  links:
+  - https://www.dailyecho.co.uk/news/23607338.driver-caused-death-mia-wort-a27-kanes-hill-crash-jailed/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/appeal-for-witnesses-following-fatal-collision-on-a27-kanes-hill/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/family-pays-tribute-to-woman-who-died-in-a27-kanes-hill-collision/
+  offender-/-driver: Craig Procter (38)
+  plea: null
+  police-area: Hampshire
+  police-code: '44210281745'
+  tags: 68/40 alcohol arrested careless cocaine dangerous disqualified failing-to-stop
+  victim: Mia Wort (18)
+  victim-dob: null
+  victim-vehicle: passenger of the Ford Focus car
+-
+  comment: null
+  community-order: null
   court: null
   date-of-incident: Thu, 15 Jul 2021
   date-of-sentence: null
@@ -3117,6 +3140,29 @@
   victim: David Davenport (59)
   victim-dob: null
   victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 8 Jun 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 26b79d4
+  imprisonment: null
+  killer-vehicle: blue Mini Cooper car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/police-identify-man-who-died-in-sparsholt-collision/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/renewed-appeal-for-witnesses-and-dash-cam-footage-following-fatal-collision-in-sparsholt/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210223675'
+  tags: car
+  victim: David Davenport (59)
+  victim-death: 16 June 2021
+  victim-dob: null
+  victim-vehicle: bicycle
 -
   belligerents:
   - onboard:
@@ -8196,6 +8242,28 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: bba1b1b
+  imprisonment: null
+  killer-vehicle: black Ford Ranger car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/september/appeal-for-witnesses-after-86-year-old-man-dies-following-collision-in-petersfield/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/september/family-of-man-who-died-following-collision-in-petersfield-pay-tribute-to-him/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200360924'
+  tags: car
+  victim: Reginald John Kemp (86)
+  victim-dob: null
+  victim-vehicle: blue Nissan Micra car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 17 Sep 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 04062e5
   imprisonment: null
   killer-vehicle: null
@@ -12479,6 +12547,28 @@
   victim: Malcolm Reynolds (82)
   victim-dob: null
   victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 19 Jun 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5c93693
+  imprisonment: null
+  killer-vehicle: red Vauxhall Astra car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/appeal-for-witnesses-and-dash-cam-footage-following-fatal-road-traffic-collision-in-breamore-near-fordingbridge/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/june/tribute-paid-to-man-who-died-in-collision-on-a338/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200222443'
+  tags: ''
+  victim: Malcolm Reynolds (82)
+  victim-dob: null
+  victim-vehicle: white Toyota Aygo car
 -
   comment: null
   community-order: null
@@ -29038,115 +29128,6 @@
   police-area: Hampshire
   police-code: '44200211336'
   tags: lorry
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: bba1b1b
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/september/appeal-for-witnesses-after-86-year-old-man-dies-following-collision-in-petersfield/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/september/family-of-man-who-died-following-collision-in-petersfield-pay-tribute-to-him/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200360924'
-  tags: car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 5c93693
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/june/appeal-for-witnesses-and-dash-cam-footage-following-fatal-road-traffic-collision-in-breamore-near-fordingbridge/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/june/tribute-paid-to-man-who-died-in-collision-on-a338/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200222443'
-  tags: ''
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 26b79d4
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/police-identify-man-who-died-in-sparsholt-collision/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/renewed-appeal-for-witnesses-and-dash-cam-footage-following-fatal-collision-in-sparsholt/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210223675'
-  tags: car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 8ee075e
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/appeal-for-witnesses-following-fatal-collision-on-a27-kanes-hill/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/family-pays-tribute-to-woman-who-died-in-a27-kanes-hill-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210281745'
-  tags: arrested car
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: a22747a
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/appeal-for-witnesses-following-fatal-a339-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210233054'
-  tags: motorbike van
   victim: null
   victim-dob: null
   victim-vehicle: null

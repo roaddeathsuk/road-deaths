@@ -71,6 +71,7 @@
 '6': null
 60/20: F48B
 60/30: F48B
+68/40: null
 '690': null
 70/30: F48B
 72/30: F48B
@@ -228,6 +229,7 @@ evoque: null
 expert: null
 fabia: F5E4
 fail-to-stop: null
+failing-to-stop: null
 fence: F277
 fiat: null
 fiesta: F5E4
@@ -375,6 +377,7 @@ nissan: null
 no-charges: null
 note: null
 nx: null
+of: null
 off-road: null
 'on': null
 orange: null
