@@ -269,13 +269,15 @@
   identifier: 1e05a5d
   imprisonment: null
   killer-vehicle: red Audi A1 car
-  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/appeal-for-witnesses-after-man-dies-following-collision-in-petersfield/
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/appeal-for-witnesses-after-man-dies-following-collision-in-petersfield/
+  - https://www.portsmouth.co.uk/news/crime/horsham-man-james-langlands-remembered-as-kind-generous-funny-after-death-in-petersfield-crash-4559251
   offender-/-driver: null
   plea: null
   police-area: Hampshire
   police-code: 44240070030
   tags: null
-  victim: Man (40s)
+  victim: James Langlands (43)
   victim-dob: null
   victim-vehicle: pedestrian
 -
