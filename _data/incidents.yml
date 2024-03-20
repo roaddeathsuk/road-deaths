@@ -3517,6 +3517,28 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: cb685d8
+  imprisonment: null
+  killer-vehicle: white Volvo HGV lorry
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/may/appeal-for-witnesses-following-fatal-collision-on-m3/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/family-pays-tribute-to-southampton-man-who-died-in-m3-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44210196667'
+  tags: car hgv lorry motorbike
+  victim: Michael James (40)
+  victim-dob: null
+  victim-vehicle: black Harley Davidson motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 21 May 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 76079e9
   imprisonment: null
   killer-vehicle: Shogun suv
@@ -13983,6 +14005,28 @@
   victim: Man (30s)
   victim-dob: null
   victim-vehicle: black Ford Focus car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 23 Mar 2020
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5e1f5e4
+  imprisonment: null
+  killer-vehicle: Volkswagen Tiguan car
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/march/appeal-for-witnesses-after-74-year-old-woman-dies-following-collision-in-totton/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/march/tribute-paid-to-woman-who-died-following-collision-in-totton-last-week/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: '44200108245'
+  tags: car pedestrian
+  victim: Sheila Watson (74)
+  victim-dob: null
+  victim-vehicle: Pedestrian
 -
   comment: null
   community-order: null
@@ -29054,7 +29098,7 @@
   court: Newcastle Crown Court
   date-of-incident: null
   date-of-sentence: null
-  disqualification: null
+  disqualification: 12 months
   editor-notes: null
   identifier: 38b01a1
   imprisonment: null
@@ -29068,68 +29112,3 @@
   victim: Janusz Wojciechowski (85)
   victim-dob: null
   victim-vehicle: Pedestrian
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: e6f8db3
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/december/appeal-for-witnesses-after-van-collision-with-donkeys-in-the-new-forest/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200478908'
-  tags: van
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 5e1f5e4
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2020/march/appeal-for-witnesses-after-74-year-old-woman-dies-following-collision-in-totton/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2020/march/tribute-paid-to-woman-who-died-following-collision-in-totton-last-week/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44200108245'
-  tags: car pedestrian
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: null
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: cb685d8
-  imprisonment: null
-  killer-vehicle: null
-  links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/may/appeal-for-witnesses-following-fatal-collision-on-m3/
-  - https://www.hampshire.police.uk/news/hampshire/news/news/2021/june/family-pays-tribute-to-southampton-man-who-died-in-m3-collision/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: '44210196667'
-  tags: car hgv lorry motorbike
-  victim: null
-  victim-dob: null
-  victim-vehicle: null
