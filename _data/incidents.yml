@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 25 Mar 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 44d511d
+  imprisonment: null
+  killer-vehicle: black Volkswagen Golf car
+  links: https://www.hampshire.police.uk/news/hampshire/news/news/2024/march-2024/a27-in-fareham-closed-as-police-deal-with-fatal-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 1790 of 25 March 2024
+  tags: null
+  victim: Man (80s)
+  victim-dob: null
+  victim-vehicle: grey Nissan Qashqai car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 26 Feb 2024
   date-of-sentence: null
   disqualification: null
@@ -271,6 +291,7 @@
   killer-vehicle: red Audi A1 car
   links:
   - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/appeal-for-witnesses-after-man-dies-following-collision-in-petersfield/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2024/march-2024/tribute-paid-to-man-who-died-following-collision-in-petersfield/
   - https://www.portsmouth.co.uk/news/crime/horsham-man-james-langlands-remembered-as-kind-generous-funny-after-death-in-petersfield-crash-4559251
   offender-/-driver: null
   plea: null
