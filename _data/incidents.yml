@@ -192,6 +192,46 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 12 Apr 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 33a00f7
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/april/appeal-for-witnesses-following-fatal-incident-on-a3090-in-romsey/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240152484
+  tags: hit-and-run
+  victim: Man (20s)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 7 Apr 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 769cd35
+  imprisonment: null
+  killer-vehicle: Tree
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/april/appeal-following-fatal-collision-on-the-isle-of-wight/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240146250
+  tags: null
+  victim: Man (42)
+  victim-dob: null
+  victim-vehicle: blue Mazda 6 car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 28 Mar 2024
   date-of-sentence: null
   disqualification: null
