@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 14 Apr 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: acdb69c
+  imprisonment: null
+  killer-vehicle: Tree
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/april/appeal-following-fatal-collision-in-chandlers-ford/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240156514
+  tags: null
+  victim: Man (21)
+  victim-dob: null
+  victim-vehicle: silver Toyota Celica car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 12 Apr 2024
   date-of-sentence: null
   disqualification: null
@@ -219,15 +239,37 @@
   identifier: 769cd35
   imprisonment: null
   killer-vehicle: Tree
-  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/april/appeal-following-fatal-collision-on-the-isle-of-wight/
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/april/appeal-following-fatal-collision-on-the-isle-of-wight/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/april/tribute-paid-following-fatal-isle-of-wight-collision/
   offender-/-driver: null
   plea: null
   police-area: Hampshire
   police-code: 44240146250
   tags: null
-  victim: Man (42)
+  victim: Paul Hart (42)
   victim-dob: null
   victim-vehicle: blue Mazda 6 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 4 Apr 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e43bce7
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/march-2024/appeal-following-fatal-collision-near-andover/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240141659
+  tags: null
+  victim: Woman (80) passenger
+  victim-dob: null
+  victim-vehicle: blue Volkswagen Polo car
 -
   comment: null
   community-order: null
