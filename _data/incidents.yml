@@ -192,6 +192,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 23 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a77bbde
+  imprisonment: null
+  killer-vehicle: BMW 5 Series car
+  links:
+  - https://www.chroniclelive.co.uk/news/north-east-news/cyclist-dies-following-collision-bmw-30654472
+  - https://www.durham.police.uk/news/durham/news2/2024/december/cyclist-dies-following-a688-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Durham
+  police-code: null
+  tags: null
+  victim: Man (30s)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 8 Jun 2024
   date-of-sentence: null
   disqualification: null
@@ -210,6 +232,30 @@
   victim: Miranda Mellor (77)
   victim-dob: null
   victim-vehicle: silver Hyundai i40 car passenger
+-
+  comment: null
+  community-order: null
+  court: Durham Crown Court
+  date-of-incident: Fri, 31 May 2024
+  date-of-sentence: null
+  disqualification: 21.5 years
+  editor-notes: null
+  identifier: 728d92a
+  imprisonment: 17 years
+  killer-vehicle: Audi Q5 car
+  links:
+  - https://news.sky.com/story/zackary-blades-woman-whose-son-and-sister-were-killed-by-drunk-driver-darryl-anderson-watches-as-hes-jailed-13175544
+  - https://www.durham.police.uk/news/durham/news2/2024/04.-june/eight-month-old-baby-and-his-auntie-die-in-fatal-a1m-collision/
+  offender-/-driver: Darryl Anderson (38)
+  plea: null
+  police-area: Durham
+  police-code: null
+  tags: 141/70 alcohol dangerous phone
+  victim:
+  - Karlene Warner (30)
+  - Zackary Blades (8 months)
+  victim-dob: null
+  victim-vehicle: Peugeot 308 car
 -
   comment: null
   community-order: null
