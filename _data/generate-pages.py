@@ -1,4 +1,6 @@
-
+import sys
+import os
+sys.path.append(os.path.dirname(__file__)+'/lib')
 import yaml
 from datetime import datetime
 from dateutil.parser import parse
