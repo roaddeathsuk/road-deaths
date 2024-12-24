@@ -236,6 +236,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 19 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 860cabf
+  imprisonment: null
+  killer-vehicle: Motorcycle
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/december-2024/appeal-for-witnesses-following-fatal-collision-in-newport/
+  offender-/-driver: Man (30s)
+  plea: null
+  police-area: Hampshire
+  police-code: 44240550816
+  tags: null
+  victim: Man (50s)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 8 Jun 2024
   date-of-sentence: null
   disqualification: null
@@ -487,14 +507,16 @@
   - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/renewed-appeal-following-fatal-m27-collision/
   - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/tribute-paid-to-man-who-died-in-m27-collision/
   - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/february/witness-appeal-following-fatal-collision-on-m27/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2024/december/man-pleads-guilty-to-causing-fatal-collision-on-m27/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2024/october/man-charged-following-fatal-m27-collision/
   offender-/-driver:
   - Man (32)
-  - Man (37)
-  - Woman (40)
+  - Ross Alex Neiland (37)
+  - Kerry Ann Pearce (40)
   plea: null
   police-area: Hampshire
   police-code: 44240076451
-  tags: dangerous
+  tags: dangerous drugs uninsured unlicenced
   victim: Michal Kaminski (36)
   victim-dob: null
   victim-vehicle: Mercedes lorry
