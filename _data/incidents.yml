@@ -256,6 +256,68 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 30 Nov 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 891fae3
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/december-2024/witness-appeal-following-fatal-incident-on-the-isle-of-wight/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240522671
+  tags: null
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: Ford Mondeo car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 23 Nov 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8dfd6bd
+  imprisonment: null
+  killer-vehicle: Tree
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/november/witness-appeal-following-fatal-road-traffic-incident-on-a34/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240510454
+  tags: null
+  victim: Man (60s)
+  victim-dob: null
+  victim-vehicle: black Mercedes E350
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 17 Oct 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 642f8c3
+  imprisonment: null
+  killer-vehicle: House
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2024/october-2024/appeal-following-fatal-collision-in-gosport/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2024/november/tribute-paid-following-fatal-collision-in-gosport/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44240451466
+  tags: null
+  victim: Dean Burton (30)
+  victim-dob: null
+  victim-vehicle: silver Jaguar XKR car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 8 Jun 2024
   date-of-sentence: null
   disqualification: null
