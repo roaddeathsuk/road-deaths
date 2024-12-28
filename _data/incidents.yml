@@ -256,6 +256,29 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 12 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6d6af1e
+  imprisonment: null
+  killer-vehicle: blue Ford Focus car
+  links:
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/december/appeal-for-information-following-fatal-rtc-in-bootle/
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/december/continued-appeal-for-information-following-fatal-collision-in-bootlekirkdale/
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/december/family-tribute-to-lin-donnelly/
+  offender-/-driver: Man (46)
+  plea: null
+  police-area: Merseyside
+  police-code: 24001045596
+  tags: careless
+  victim: Lin Donnelly (72)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 30 Nov 2024
   date-of-sentence: null
   disqualification: null
@@ -296,6 +319,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 29 Oct 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e82a97d
+  imprisonment: null
+  killer-vehicle: HGV
+  links:
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/november/man-in-fatal-collision-in-seacombe-formally-named-as-brandon-valentine/
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/october/appeal-following-fatal-road-traffic-collision-in-seacombe/
+  offender-/-driver: Man (36)
+  plea: null
+  police-area: Merseyside
+  police-code: 24000917960
+  tags: careless
+  victim: Brandon Valentine (25)
+  victim-dob: null
+  victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 17 Oct 2024
   date-of-sentence: null
   disqualification: null
@@ -314,6 +359,28 @@
   victim: Dean Burton (30)
   victim-dob: null
   victim-vehicle: silver Jaguar XKR car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 19 Jul 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9b5fe39
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/july/appeal-for-witnesses-following-death-of-man-in-road-traffic-collision-in-speke/
+  - https://www.merseyside.police.uk/news/merseyside/news/2024/july/man-who-died-in-road-traffic-collision-in-speke-named-as-family-pay-tribute/
+  offender-/-driver: null
+  plea: null
+  police-area: Merseyside
+  police-code: 24000631233
+  tags: null
+  victim: Brandern Holly (20)
+  victim-dob: null
+  victim-vehicle: Suzuki SV650 motorbike
 -
   comment: null
   community-order: null
