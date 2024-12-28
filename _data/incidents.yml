@@ -317,6 +317,29 @@
 -
   comment: null
   community-order: null
+  court: Chester Crown Court
+  date-of-incident: Thu, 18 Jul 2024
+  date-of-sentence: 25 October 2024
+  disqualification: null
+  editor-notes: null
+  identifier: a9ccaaf
+  imprisonment: 12 years
+  killer-vehicle: Ford Focus car
+  links:
+  - https://metro.co.uk/2024/10/28/hungover-driver-killed-man-16-times-limit-using-phone-21876944/
+  - https://www.bbc.co.uk/news/articles/clyx84jmg18o
+  - https://www.change.org/p/tim-s-law-remand-dangerous-drivers
+  offender-/-driver: Joshua Eldred (31)
+  plea: null
+  police-area: null
+  police-code: null
+  tags: alcohol drugs
+  victim: Tim Burgess (48)
+  victim-dob: null
+  victim-vehicle: Suzuki Celerio car
+-
+  comment: null
+  community-order: null
   court: null
   date-of-incident: Sat, 8 Jun 2024
   date-of-sentence: null
