@@ -18253,6 +18253,71 @@
   victim-vehicle: Bicycle
 -
   comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 29 Dec 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d4f0b8e
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.mylondon.news/news/south-london-news/truck-driver-arrested-after-elderly-15613429
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (80s)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Sat, 29 Dec 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 638cb02
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 27 Dec 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0b87647
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.clipix.com/9/share-8PvAVMPx
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Tracey Wilson (55)
+  victim-dob: null
+  victim-picture: https://s3.amazonaws.com/static.clipix.com/Users/ids210k/216160/ClipImages/303030373532363934312d3131-631358946.jpg
+  victim-vehicle: null
+-
+  comment: null
   community-order: 250 hours
   court: Birmingham Crown Court
   date-of-incident: Sat, 22 Dec 2018
@@ -18293,6 +18358,26 @@
   victim: Anthony Satterthwaite
   victim-dob: null
   victim-vehicle: Bicycle
+-
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Thu, 20 Dec 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0304c82
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -18383,6 +18468,51 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 2 Dec 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 71ce143
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.newsshopper.co.uk/news/15988207.pensioner-hit-by-car-in-plumstead-common-road/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (80)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 28 Nov 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 7fa0dd3
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/crime/tributes-to-larger-than-life-builder-killed-in-hitandrun-near-his-home-in-enfield-a4010096.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Steven Howard (52)
+  victim-dob: null
+  victim-picture: https://doc-04-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/lm7ro759jnrph7q1ipal3bbls8/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALq_B-AAwkhEHF7i6PvKQt21XlfR2WdobT1McSvY3hgPV_ZzcitAzeIYF0Zm4Dra6VZLSxp30ePhQgKN4bshJClXMAWw8k3ptKphRa_UlBDRk4FSqjjjNelswCk4dou939LaK1gLkhNFJHWK3u-9m_eHCSAEXFO3DCr0fNNlkbRVdlC2fBtsErgn_Q4mc91UHimrJY2zaYkjpUWkYYFegxC19UMlw-acE6MmvybFqBwhb1kjXK0YxeNFRRDmYlpMlcJBFmVKKN0AsKNx5uJ-XGO72vfHig?session=0&fife
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 26 Nov 2018
   date-of-sentence: null
   disqualification: null
@@ -18420,6 +18550,26 @@
   victim-dob: null
   victim-vehicle: Pedestrian?
 -
+  comment: Met Police
+  community-order: null
+  court: null
+  date-of-incident: Sat, 24 Nov 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2866a91
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (76)
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: null
   community-order: null
   court: Newcastle Crown Court
@@ -18441,6 +18591,48 @@
   victim: Emma Guilbert (18)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Tue, 13 Nov 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c086875
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 12 Nov 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1f67926
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.newsshopper.co.uk/news/17293247.man-dies-after-being-hit-by-a-car-in-woolwich/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (52)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -18472,7 +18664,9 @@
   identifier: 103d85b
   imprisonment: 5 years 6 months
   killer-vehicle: Peugeot 207 car
-  links: https://news.met.police.uk/news/man-jailed-following-fatal-collision-in-hampton-court-414670
+  links:
+  - https://news.met.police.uk/news/man-jailed-following-fatal-collision-in-hampton-court-414670
+  - https://www.standard.co.uk/news/london/hampton-court-warder-hit-by-car-yards-from-palace-an-ultimate-officer-and-gentleman-a3991151.html
   offender-/-driver: Kenneth Mark Beckett (38)
   plea: null
   police-area: Metropolitan
@@ -18511,6 +18705,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 7 Nov 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a46111e
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://resource.co/article/man-dies-following-collision-veolia-bin-lorry-croydon-12739
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Steven Cooper (63)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 5 Nov 2018
   date-of-sentence: null
   disqualification: null
@@ -18528,6 +18744,28 @@
   victim: John Slater (55)
   victim-dob: null
   victim-vehicle: BMW 320 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 4 Nov 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: aade5f7
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/crime/cricklewood-crash-police-hunt-after-grandfather-to-19-dies-in-hitandrun-a3815731.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Colin Corker (67)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -18551,6 +18789,26 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Thu, 11 Oct 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 49b368a
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: null
   community-order: null
   court: Exeter Crown Court
@@ -18573,6 +18831,26 @@
   victim-dob: null
   victim-vehicle: Passenger
 -
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Tue, 9 Oct 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 300ce65
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: driven on to the pavement as she walked home from school.
   community-order: null
   court: null
@@ -18594,6 +18872,29 @@
   victim: Marianne Haboc (11)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 29 Sep 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c692d43
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/london/father-of-three-60-thrown-into-air-and-killed-in-hitandrun-at-fruit-and-vegetable-stall-a3953301.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (60)
+  victim-dob: null
+  victim-picture: https://doc-0s-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/9ddbusspes9vu92terid128b68/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALp-louIP2ju8ASNPhDHzHfFx9h8E8vgZVAjd70z1gExMe-Kefe4ShTeYRG5YxRpYzWXUXbX0r7GBON7VhT865wBc9ZtKECpnBjM9qKbgE5E-n_clvs1PShLEf4oDbhuAcsTxmZajag81OB_AKJh2PPZ6BfF8iC8Az1LBwn7VG1cGviy6vnNfceTCFyyXrT-o9BYFF1fVbCLJ50nn72_OolTrwWY6456tTz4u67uCj25VvelkJyrd_1tZj1Zp6FBwicM30d2L9YWxsIPme7OWfw1XRpzYg?session=0&fife
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -18653,6 +18954,29 @@
   tags: null
   victim: Maria Bitner-Glindzicz
   victim-dob: 26 June 1963
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 16 Sep 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 557b997
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/london/tribute-to-loving-speech-therapist-hit-and-killed-by-bus-in-south-london-a3947181.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Julia Luxmore Peto (27)
+  victim-dob: null
+  victim-picture: https://doc-0c-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/reb29fl72q2bp1gm1lkdsj3tvs/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALrzsnXSXjpGV1zPP5PxDVVaHJ_EFjELg6gJeDEzcRmOaadkYoS8pFU9q9kfM8YrFBobqitplKn91F67zTSSrNjoHmoiVaAEQhDvqR7Y1ULqDcGrRhE6YC1EQTJztj79ee3tNhkR5LPL5UEXXi7xEiuf48xzeRZdgTRZasNc7zSWI2HL8qmABfkCm5-D_Ww1celZgIgB9JmItBG2biDoefIxSoMOPgxANe9m3GPJIeC74Oej6x3vDABjES8vtFelOLc18WQg9LhQ81Ph0JmYn0xVIj6oyw?session=0&fife
   victim-vehicle: null
 -
   comment: null
@@ -18749,7 +19073,9 @@
   identifier: 3f60f7d
   imprisonment: null
   killer-vehicle: Bicycle
-  links: https://www.telegraph.co.uk/news/2020/02/26/cyclist-mowed-killed-pedestrian-speeding-30mph-first-suspected/
+  links:
+  - https://www.standard.co.uk/news/london/dalston-crash-woman-56-dies-after-collision-with-cyclist-in-east-london-a3933736.html
+  - https://www.telegraph.co.uk/news/2020/02/26/cyclist-mowed-killed-pedestrian-speeding-30mph-first-suspected/
   offender-/-driver: Thomas Hanlon (32)
   plea: null
   police-area: null
@@ -18781,6 +19107,28 @@
   victim: Karly Heweson (21)
   victim-dob: null
   victim-vehicle: Passenger
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 23 Aug 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0dc1fbb
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - http://www.hamhigh.co.uk/news/crime-court/kentish-town-hit-and-run-camden-man-dies-after-leighton-road-crash-1-5683392
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Richard Dougherty (77)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -18828,6 +19176,26 @@
   victim-dob: null
   victim-vehicle: Citroen Xsara Picasso  Car
 -
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Thu, 16 Aug 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 4e695ac
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: Police said no arrests have been made and the lorry driver, who stopped
     at the scene, is helping with their investigation.
   community-order: null
@@ -18867,6 +19235,72 @@
   tags: null
   victim: Peter Antony Goodwin Fisher
   victim-dob: 2 September 1950
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 14 Aug 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e33c6ec
+  imprisonment: null
+  killer-vehicle: null
+  links: Clocs https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (70s)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 13 Aug 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 24393f1
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/uk/woman-21-dies-after-being-struck-by-car-in-southwest-london-a3912821.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Charlotte Staplehurst (21)
+  victim-dob: null
+  victim-picture: https://doc-0g-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/onc1qic1lq7iponmiucose3vck/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALo_7aaa0fOjzQkb1zXYbs-WEqx_ImOn3C4cls5rPA29yju19p9TLLxTvcoPMqxx1GlzR-ofCKIJXm8sRyebcnpbgVCZ2WxoDMk6SscSPcaQk-ii3BQjhV8olI0cO-BFzvD69uNkbWTexMGBhzyCXrx7ZpIU8MhiTLrolCA_diWfGU8krUcD_LGvo2hn7xLFQYguTef4oUgvTQKjrPJl2MDVnluxxkiBgitnv8O86Gk3n10paBN2zn3lSvGaBQptf_S22PYN80Hjtj9AaCagU3MN3pIdZQ?session=0&fife
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 8 Aug 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a19ac88
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/london/leyton-crash-young-man-21-dies-after-being-struck-by-bus-in-east-london-a3907076.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (21)
+  victim-dob: null
+  victim-picture: https://doc-0g-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/6sqvqdud302qp41q9323ahfjt4/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALptzXkYyF68-tixrIfdc6o_FaKwh-qotCERssZQPBARQWUH2YPRwcl7skyY_Ns-MNM1r4Wm1ZMCflX1I3eoTfyZiaHBEM19VweZGpNys-EZxYHE_jWBs1T1q-k1bfH6FZ5Raa7Q_cjaCHePguJgB-wlBDOJwvyk4B6q0yn_fOIjPZwonmGHu1Kg6ssdXK4hgNn3lP1vdlR2GAQXS2IbfstWncVMRF7DYy2xcWHAz1mTaCN-ui8MADD62GI_z73dU2Se7MShdoEMXi_0vWgKQc4x5Gbrcg?session=0&fife
   victim-vehicle: null
 -
   comment: null
@@ -18941,6 +19375,48 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Fri, 27 Jul 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 4f33303
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 23 Jul 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9a595c4
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.croydonadvertiser.co.uk/news/local-news/south-london-pedestrian-hit-killed-1818379
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (45)
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: null
   community-order: '-'
   court: '-'
@@ -18960,6 +19436,94 @@
   victim: Luke Ogden (27)
   victim-dob: null
   victim-vehicle: Motorbike
+-
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Fri, 13 Jul 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 66df02c
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 11 Jul 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 403d8ef
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.getwestlondon.co.uk/news/west-london-news/putney-station-high-street-death-15383133
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Roy Stegall (82)
+  victim-dob: null
+  victim-picture: https://doc-04-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/bg2649brhkuo9d1ps17i6154ec/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALqj8ij3RSWa4Eb2iQGkbkoYxXccQUXmph8l7IqpLS4tGtUT_J0mZJ63oBZ8yfTSbNSy9EoOQWxE-UBY58p6ygiuGN9DU2H5ds75bpHTKAgRTiKsOM8OU2QqjCGvbnSZCrj_ySH7v_1VMtrcx6Bg4c7ug86ASOrfjFIw-9XyA8V8HQj4h5y-RL4BWhEB5gDxTgUy9W6R8K9XqH-TZwB4eFKmJGYvyt_54twWEuNf1ZQ-uZp-Z7tRq3b1qClHpZJMwU3_x0e1YNkBRXzIvkfqat7c_CNt8w?session=0&fife
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 10 Jul 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ee8af30
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.yourlocalguardian.co.uk/news/16979985.police-name-86-year-old-man-killed-in-morden-crash/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Lesley South (86)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 5 Jul 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1584aba
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.essexlive.news/news/essex-news/much-loved-daughter-killed-after-1549747
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Catherine Colebourne
+  victim-dob: null
+  victim-picture: https://doc-0o-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/5b8jkk983apajk4dhqp00chl2o/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALqWDyKghueCM91qA3LFO2emRviWp4TGgFGSiKdsZBTZou2CQn4vECk5vtj3EAshIu_eFihGGk85I7IPk3UZz-pqMelOBx5ZHullzUXJ87DZe22wK1TMxPRVQ2t7mnlk7NgWwC0o8Lf1_vsdIF0ymIXb11dMrYd89d4hA9neNvOxfP-w-HOEyKUutrOo8VghwSKpl8K37YQUZmfNV2YqppQT8OQ8F0FyYhwfz8BiWMVreZFQ3LnNWq9DJvR4QF414VTjvYrH-LXhSdcePHJbKXz3w5xhXA?session=0&fife
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -18983,6 +19547,29 @@
   victim: Vincent Cavaliere (58)
   victim-dob: null
   victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 20 Jun 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 934ceef
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/london/woman-dies-after-being-hit-by-doubledecker-bus-in-east-london-a3867941.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (60s)
+  victim-dob: null
+  victim-picture: https://doc-00-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/l6kmjttuvrd0gm7f6b8trrbcgc/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALo3DiIeg8TOvZo7u7ybx9OMWcLcjr11HeUftj5sb1AvLwbG2JCcRTnzR2zI6QzkOTkosYQBFxi8fc5hArGG8X69R6kklQiomRM9HXhf32RbC9P_1ktC3UkGMwVRIcq1EeJA2FtJUuJPVPuMWEE0vLQN5rr9eizuoOjkzgqQRDZDdiYcFpG5XB-PVjnUMxDReuw09SNdXgiw_QbQpMOC08sV_9dVAQ_IvH17sJIThL2ocufdN7IUXZTxKzjZfesofoNRAJy_45-vTMGrssbKtZy_MyTDiw?session=0&fife
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -19032,6 +19619,48 @@
   victim-dob: null
   victim-vehicle: null
 -
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Fri, 8 Jun 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 7a4ad32
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 8 Jun 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5315b0e
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.getwestlondon.co.uk/news/west-london-news/man-pronounced-dead-after-being-14995209
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: null
   community-order: null
   court: null
@@ -19055,6 +19684,29 @@
   victim: Sze-Ming Cheung (44)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 30 May 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5f5cf26
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/uk/pedestrian-dies-after-being-hit-by-lorry-in-west-london-a3851566.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-picture: https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/05/30/18/crash-1.jpg?width=990&auto=webp&quality=75&crop=968%3A645%2Csmart
+  victim-vehicle: null
 -
   comment: PC Jamie Holloway, 49, of West Mercia Police, is charged in connection
     with a crash on the A449 in Hartlebury, Worcestershire, on 28 May 2018.
@@ -19166,6 +19818,48 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: d52089e
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.croydonadvertiser.co.uk/news/local-news/elderly-man-dies-hospital-following-1593654
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (83)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Tue, 15 May 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 11d577a
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 15 May 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: b920069
   imprisonment: null
   killer-vehicle: null
@@ -19177,6 +19871,28 @@
   tags: null
   victim: Jlloyd Tafari Samuel
   victim-dob: 29 March 1981
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 12 May 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0376e55
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.harrowtimes.co.uk/news/17277585.man-dies-after-being-hit-by-bus-in-harrow/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (30)
+  victim-dob: null
   victim-vehicle: null
 -
   comment: null
@@ -19244,6 +19960,29 @@
   victim-dob: null
   victim-vehicle: Passenger
 -
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 8 May 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0bb887c
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/crime/stockwell-hitandrun-woman-in-her-20s-dies-after-suffering-critical-injuries-a3904006.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Yolanda Moore (22)
+  victim-dob: null
+  victim-picture: https://doc-0g-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/pp8k1n497khjg5vau37qg1c8e8/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALo2jvoC8eg9f9pfOG3S_xJz9xnsLHUdk0ICQsa47IJL37gITsFCJyilcekFaYXHqo-FdUQYZ4b9s0uFXecMLvtKBzHce2qKxqjQQCz59sGD21QMnls0mvcZB1NMaxfn5uE1GQsgh3BjkFhsLIYpPBSQRMYeN_j4CUJEEJZdSdXjlQWdGcrYCuNa6LRKIeYMOzWKUu7NQeJr2Bmq0pmz_fokpAkC1ZMR_AshHwsrNi0dxG6Jvy29Dhx8my2t4w9m1Oa_bQemxWzcUZ58I2rTTwpPhYGQhg?session=0&fife
+  victim-vehicle: null
+-
   comment: St Cuthbert's Way, Darlington (A167)
   community-order: null
   court: null
@@ -19298,7 +20037,9 @@
   identifier: '7426587'
   imprisonment: 2 years 6 months
   killer-vehicle: Ford Focus RS car
-  links: https://news.met.police.uk/news/man-sentenced-following-fatal-collision-in-hounslow-406640
+  links:
+  - https://news.met.police.uk/news/man-sentenced-following-fatal-collision-in-hounslow-406640
+  - https://www.getwestlondon.co.uk/news/west-london-news/drug-driving-arrest-after-pedestrian-14593597
   offender-/-driver: Harry Hopkins (27)
   plea: Guilty - death by dangerous driving
   police-area: Metropolitan
@@ -19306,6 +20047,7 @@
   tags: null
   victim: Mina Limbu (44)
   victim-dob: null
+  victim-picture: https://i2-prod.mylondon.news/incoming/article18508199.ece/ALTERNATES/s810/0_T334-18Limbu.jpg
   victim-vehicle: Pedestrian
 -
   comment: null
@@ -19441,6 +20183,69 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Fri, 13 Apr 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: cf65662
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: Met Police
+  community-order: null
+  court: null
+  date-of-incident: Thu, 12 Apr 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f3e9063
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (74)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 12 Apr 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: b6e765b
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/uk/northolt-crash-binman-dies-after-collision-with-refuse-lorry-in-west-london-a4008221.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Paul John Abbott (59)
+  victim-dob: null
+  victim-picture: https://doc-0g-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/e5b4n798f55cmduv72flpv5o44/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALqg_-VYpsVrqilvNks-TGCElzr1ZekIeYJlUZ6-emPolik2OzFnRWUYHOb5q99ovqLcsuj9HQ0YgWVHAcLAwb9Hq9K4xzAJ9nP7q4pfsKLrR0IvVqtJ0hCbeMrJ36ly_G1puDXu9byIlmIYTOjfmWlq8y_IaGHbByl272MkycRKyudibpQJRLQcP_ZATl6mTSHoPCa76RrUz3wLculhQSHp-ETqZApYnsAKJ3n4duHTlHszQ7pKQjPfa2bIKETEwsQkTCsw6pKjERygfYUq4x2jywgAFQ?session=0&fife
+  victim-vehicle: null
+-
   comment: null
   community-order: null
   court: Warwick Crown Court
@@ -19498,11 +20303,12 @@
   - https://metro.co.uk/2019/02/25/drug-driver-killed-graduate-high-jailed-four-years-8736576/
   - https://twitter.com/ormondroyd/status/1086222755668873216
   - https://twitter.com/ormondroyd/status/1116292600116535296
+  - https://www.standard.co.uk/news/crime/cambridge-graduate-hit-and-killed-near-southeast-london-home-by-driver-on-cannabis-a4041391.html
   offender-/-driver: Malachi Wheatle (25)
   plea: null
   police-area: null
   police-code: null
-  tags: null
+  tags: drugs
   victim: Kevin Chang (25)
   victim-dob: null
   victim-vehicle: Pedestrian
@@ -19530,6 +20336,51 @@
   - Nigel Eley (41)
   victim-dob: null
   victim-vehicle: black Lexus car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 1 Apr 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c9efb37
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.newhamrecorder.co.uk/news/http-www-newhamrecorder-co-uk-news-serious-collision-in-east-ham-closes-part-of-barking-road-1-5342990-1-5342990
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (67)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 1 Apr 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5f66667
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/crime/twickenham-crash-woman-dies-days-after-being-hit-by-car-while-standing-at-bus-stop-a3734481.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Toiria Ouhoud (47)
+  victim-dob: null
+  victim-picture: https://doc-0o-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/s5pskoukct61gnu4hd3uhgrejo/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALr6aDVcWKSz5u81X_tBSsjpDXjj-fLsY8DP29j1coUSbPvEVULmcy5GMo2WJaP7sy0nQeup41kOO9Qvv-ndtl0DD4BHny9ievmDZ45Gqr3EnTYcqPGn03kA84TnN-Lrr_-VIKOT5DDQAxNzOo6mBMWxENrMPFgc88z04YBqn9LifeoTK_5uyrCr7xM1JKoDsrpEPx3JN6sjo6FvMiKELR794Dui0JZ2LJXy8Pcmw37rlft06ePg47r-eWcvvAsyj3_oKRrMyEg0wg2cY6_pb7j22Y2kLw?session=0&fife
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -19618,6 +20469,28 @@
   victim-dob: null
   victim-vehicle: null
 -
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 13 Mar 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 14ec2ad
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.newsshopper.co.uk/news/16096989.man-arrested-in-erith-after-death-of-61-year-old-in-belvedere-hit-and-run/
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Gbolahan Akinlolu Odulate (61)
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: a wheel came off a passing car and struck her.
   community-order: null
   court: null
@@ -19637,6 +20510,28 @@
   victim: Amelia Wood (11)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 3 Mar 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ab482ed
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.getwestlondon.co.uk/news/west-london-news/harmondsworth-fatal-crash-elderly-man-14365426
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (80s)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: 12-month community order with a four-month night time curfew and
@@ -19681,6 +20576,26 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Mon, 26 Feb 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d712967
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: null
   community-order: null
   court: null
@@ -19705,6 +20620,26 @@
   - Corey Platt-May (6)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: Met Police report
+  community-order: null
+  court: null
+  date-of-incident: Mon, 19 Feb 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 83857e0
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: Three people killed in Dingley car crash named
   community-order: null
@@ -19771,6 +20706,187 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 10 Feb 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 04eb514
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/london/ealing-crash-tributes-paid-to-pub-landlady-60-who-died-after-being-struck-by-car-in-west-london-a3956841.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Mary Forde (60)
+  victim-dob: null
+  victim-picture: https://doc-14-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/subv5ic2gtimenrtt8fm4gnpgc/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALoZ6sTBu4LeoYzhqZqsr6-o48PSN7tqK81VniYHOllZVPGsT3AU0O1togcZ4JwlIKH_aAYrDCmMb-fIG28bT1gAONH8qvo_S29LZsknRcSIBUwF0kF8vSjQR0IPQKuKa1w0Xki_nvcd26sIFz0c-3HjeJjpcogijIrN7nyFL2RXlLv4UunFamOemP1rjfQbJ4QUuO0zkfg40ILx4EhVQX9Mk5tSYGlyuXdX-G4SIW_BgC3GI0mSlozjRq6J61RWllo45VIzjL0HLEb-P2apTw2LXkos9A?session=0&fife
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 26 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e290d0d
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.getwestlondon.co.uk/news/west-london-news/ladbroke-grove-crash-elderly-man-14292274
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (86)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 26 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d5ea145
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/crime/hayes-crash-three-teenagers-killed-after-audi-ploughs-bus-stop-in-west-london-a3751136.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim:
+  - Harry Rice
+  - George Wilkinson
+  - Josh Kennedy
+  victim-dob: null
+  victim-picture: https://doc-08-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/0bdj3if79a0tipifme11aahlpk/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALprrJw5K6S5d3ZgDR-v3zKiNBfUpGYiKggZ5eN0pnevbMY9sXYa2lMEMkfN0Wuiv6eH-JnNo6JIFncsaCIHeRxrVWsupbrfqVhepHQiWvWuGZZMZQRbD1_lhaK2pHtgyfY8him3o6_-2P68UnEoyGQcSIq7sDZMnpgF3b8OpGQQvy0xgfpumPoKDgAvklSNv1VgDRzltUFxB7FVR8F-lhrLyR3woKncVGSnXPiBfx9ft3VXyO7ea9QQn72pXl72cWZAIvWm5mPR_AgiVCR9etnJJZlw9Q?session=0&fife
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 25 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c4f3197
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/london/fulham-crash-elderly-man-87-killed-after-being-struck-by-car-in-busy-in-west-london-street-a3751051.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (87)
+  victim-dob: null
+  victim-picture: https://doc-00-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/9r138li2l4e1d4e9vior61vkrs/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALoeYLkI08GeBgaSkfLUv4uOepvsdM7KFB9vWUQnav37J3m0dyW23qFkJENJ418jDM8O113z9easiB5pkpbO2odUBIAPV2VTg08PM6VIAPoqV_W8cvORD5olDF6YT1WZ807TrhXzM_tYcP5BvKW_esKjSBFe_5aWkmDhtwQMo4kUfoQYIh1ckj3N7FyznV4LCwalvchB8RiqNOLO80MQRpEKZClW0cLxDRiIHqZ2YL32TQ9UljAjcftyKinvr68SpwylqIcpNU4TwFtmKOoQ7jUPpMETSQ?session=0&fife
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 22 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9428f23
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.croydonadvertiser.co.uk/news/croydon-news/police-release-more-details-man-1104158
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown (80s)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 20 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d3b0c23
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.hertfordshiremercury.co.uk/news/hertfordshire-news/man-rushed-hospital-after-being-1094011
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 18 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 001805c
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/london/brompton-road-crash-woman-dies-after-being-hit-by-lorry-on-major-west-london-road-a3744016.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Daniela Raczkowska (83)
+  victim-dob: null
+  victim-picture: https://doc-0c-6k-mymaps.googleusercontent.com/untrusted/hostedimage/herqkf3j9rmjfcddh1e6mehq1g/629h6i1chkdmsddnehr21gn9uc/1578074400000/kr3719XumeWlgW2wzdTe3PV8UqfPbx4d/03825132310531044108/1AF2TALqO_wzHoWYWuwU9NYhR9aBKALBHrsJ3LaPorF_0TKeGtKVF32llPCh5491FQEwdl_ys3_KM1vuZMDmoHarJIWhIkA2p3SCO4cv5ASDNJlZ22SpBIS-epZuuNKugmLSvIF0H5vs07-BX1ZeMB3zzr5QFQbsjzw4B3M350XbAxbqaQIr-lK7aGWXa4VHsG4klYnNCWHdmGjCxYt1UCJINfwaQYKnGp8q__ImeIrmK_a9uvqgRyWVzYCdxnDnCbFFDe-K7lfEBnftNhDcQ1CxFQTz79nPTgQ?session=0&fife
+  victim-vehicle: null
+-
+  comment: TfL list
+  community-order: null
+  court: null
+  date-of-incident: Sun, 14 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ebf3d2d
+  imprisonment: null
+  killer-vehicle: null
+  links: null
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Unknown
+  victim-dob: null
+  victim-vehicle: null
+-
   comment: "Ms Ouhoud had alighted a bus at a stop on St Margaret\u2019s Road and\
     \ was walking away at the junction of Sandycoombe Road when she was struck by\
     \ the car.  Witnesses described the Audi driving at a reasonable, slow speed before\
@@ -19795,6 +20911,28 @@
   police-code: null
   tags: null
   victim: Toiria Ouhoid (47)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 2 Jan 2018
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8ced720
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/crime/car-crash-thamesmead-murder-charge-b902335.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Monzir Mohammed (26)
   victim-dob: null
   victim-vehicle: null
 -
@@ -20466,6 +21604,28 @@
   victim: Phyllis Fielding (88)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 4 Sep 2017
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e25f207
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://visionzerolondon.wordpress.com/latest-pedestrians-and-cyclists-deaths-in-london/
+  - https://www.standard.co.uk/news/crime/oxford-street-crash-man-killed-after-being-hit-by-bus-in-early-hours-of-the-morning-a3510901.html
+  offender-/-driver: null
+  plea: null
+  police-area: Metropolitan
+  police-code: null
+  tags: null
+  victim: Chesmal Siriwardhana (38)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
