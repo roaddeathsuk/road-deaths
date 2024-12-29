@@ -3,3 +3,4 @@ _data/cache
 _data/__pycache__
 .DS_Store
 _data/lib
+.jekyll-cache

@@ -243,7 +243,10 @@ index_page = """<!DOCTYPE html>
   <head>
     <link rel="stylesheet" href="assets/index.css">
 
-    <link rel="icon" href="assets/favicon.svg" sizes="any" type="image/svg+xml">
+    <link rel="icon" type="image/png" href="/favicon.png">
+        
+    <link rel="icon" type="image/png" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
+
 
     <!-- HTML Meta Tags -->
     <title>Road Deaths</title>
