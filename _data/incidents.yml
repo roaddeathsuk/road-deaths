@@ -258,6 +258,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 16 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: dc329de
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.gwent.police.uk/news/gwent/news/news/2024/december/witness-appeal-following-a-collision-on-the-a465/
+  offender-/-driver: null
+  plea: null
+  police-area: Gwent
+  police-code: 2400415317
+  tags: null
+  victim: Jean Campbell (79)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 12 Dec 2024
   date-of-sentence: null
   disqualification: null
@@ -381,6 +401,26 @@
   victim: Lee Michael Anderson (51)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 7 Aug 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 536e72a
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.gwent.police.uk/news/gwent/news/news/2024/august/tribute-our-little-angels-smile-lit-up-the-room/
+  offender-/-driver: null
+  plea: null
+  police-area: Gwent
+  police-code: 2400263107
+  tags: null
+  victim: Olivia Louise Lewis (24)
+  victim-dob: null
+  victim-vehicle: black Skoda Kamiq Hatchback car
 -
   comment: null
   community-order: null
