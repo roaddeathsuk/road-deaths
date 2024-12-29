@@ -253,19 +253,19 @@ index_page = """<!DOCTYPE html>
     <meta name="description" content="Traffic crash deaths the United Kingdom of Great Britain and Northern Ireland since 1896.">
 
     <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://jjrscott.github.io/road-deaths/">
+    <meta property="og:url" content="https://roaddeaths.uk/">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Road Deaths">
     <meta property="og:description" content="Traffic crash deaths the United Kingdom of Great Britain and Northern Ireland since 1896.">
-    <meta property="og:image" content="https://jjrscott.github.io/road-deaths/assets/og-image.png">
+    <meta property="og:image" content="https://roaddeaths.uk/assets/og-image.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="jjrscott.github.io">
-    <meta property="twitter:url" content="https://jjrscott.github.io/road-deaths/">
+    <meta property="twitter:domain" content="roaddeaths.uk">
+    <meta property="twitter:url" content="https://roaddeaths.uk/">
     <meta name="twitter:title" content="Road Deaths">
     <meta name="twitter:description" content="Traffic crash deaths the United Kingdom of Great Britain and Northern Ireland since 1896.">
-    <meta name="twitter:image" content="https://jjrscott.github.io/road-deaths/assets/og-image.png">
+    <meta name="twitter:image" content="https://roaddeaths.uk/assets/og-image.png">
 
     <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
@@ -279,7 +279,7 @@ index_page = """<!DOCTYPE html>
 <a href="https://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom of Great Britain and Northern Ireland" target="_blank">United Kingdom of Great Britain and Northern Ireland</a> since {first_year}.
 </p>
 
-<p>This page is generated from <a href="https://github.com/jjrscott/road-deaths/blob/main/_data/incidents.yml">incidents.yml</a>.</p>
+<p>This page is generated from <a href="https://github.com/roaddeathsuk/road-deaths/blob/main/_data/incidents.yml">incidents.yml</a>.</p>
 
     <h2 id="victims">Victims</h2>
 
