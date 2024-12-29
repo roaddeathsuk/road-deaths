@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 25 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 3c69432
+  imprisonment: null
+  killer-vehicle: black Volkswagen Tiguan
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2024/12-december/appeal-for-witnesses-and-dashcam-footage-following-fatal-collision-on-christmas-day/
+  offender-/-driver: Man (20s)
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12240235160
+  tags: dangerous passenger
+  victim: Woman (80s)
+  victim-dob: null
+  victim-vehicle: white Ford Fiesta car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 23 Dec 2024
   date-of-sentence: null
   disqualification: null
@@ -317,6 +337,28 @@
   victim: Man (40s)
   victim-dob: null
   victim-vehicle: Ford Mondeo car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 25 Nov 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c477172
+  imprisonment: null
+  killer-vehicle:
+  - black Audi car
+  - grey Volvo car
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2024/11-november/appeal-for-dashcam-and-witnesses-following-fatal-collision/
+  offender-/-driver: Woman (70s)
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12240215692
+  tags: null
+  victim: Man (30s)
+  victim-dob: null
+  victim-vehicle: black Suzuki motorcycle
 -
   comment: null
   community-order: null
@@ -1267,6 +1309,46 @@
 -
   comment: null
   community-order: null
+  court: York Crown Court
+  date-of-incident: Thu, 9 Mar 2023
+  date-of-sentence: 3 December 2024
+  disqualification: 15 months
+  editor-notes: null
+  identifier: f730db5
+  imprisonment: 8 months
+  killer-vehicle: Citroen C2 car
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/court-results/2024/12-december/motorist-sentenced-for-death-by-careless-driving-after-a-fatal-road-collision-in-northallerton/
+  offender-/-driver: Anne Marie Stevens (34)
+  plea: null
+  police-area: North Yorkshire
+  police-code: null
+  tags: null
+  victim: Stephen Young (68)
+  victim-dob: null
+  victim-vehicle: mobility-scooter
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 26 Jul 2022
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 36d781d
+  imprisonment: null
+  killer-vehicle: black Volvo XC40 car
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/court-results/2024/11-november/north-yorkshire-barrister-jailed-following-fatal-road-traffic-collision/
+  offender-/-driver: Hamish Hickey (40)
+  plea: null
+  police-area: North Yorkshire
+  police-code: null
+  tags: 65/60
+  victim: Michael Lupton (85)
+  victim-dob: null
+  victim-vehicle: silver-coloured Ford Ka car
+-
+  comment: null
+  community-order: null
   court: Cardiff Crown Court
   date-of-incident: Tue, 19 Jul 2022
   date-of-sentence: null
@@ -1969,6 +2051,26 @@
   victim: Man (18)
   victim-dob: null
   victim-vehicle: red Citroen C3 car
+-
+  comment: null
+  community-order: null
+  court: York Crown Court
+  date-of-incident: Fri, 13 Aug 2021
+  date-of-sentence: 31 October 2024
+  disqualification: 45 months extended driving test
+  editor-notes: null
+  identifier: ff46719
+  imprisonment: null
+  killer-vehicle: red Citroen car
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2024/10-october/tribute-paid-to-teenager-with-the-kindest-heart-and-an-absolute-joy-as-man-sentenced-for-causing-his-death/
+  offender-/-driver: Jack Tomlinson (18)
+  plea: null
+  police-area: North Yorkshire
+  police-code: null
+  tags: null
+  victim: Harry Coopland (18)
+  victim-dob: null
+  victim-vehicle: Passenger
 -
   comment: null
   community-order: null
@@ -2899,7 +3001,7 @@
   tags: null
   victim: null
   victim-dob: Woman (80s)
-  victim-vehicle: mobility scooter
+  victim-vehicle: mobility-scooter
 -
   comment: null
   community-order: null

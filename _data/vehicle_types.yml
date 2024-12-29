@@ -73,6 +73,7 @@
 '6': null
 60/20: F48B
 60/30: F48B
+65/60: null
 68/40: null
 '690': null
 70/30: F48B
@@ -158,6 +159,7 @@ c: null
 c-max: null
 c1: null
 c180: null
+c2: null
 c2000: null
 c220: null
 c3: null
@@ -363,7 +365,6 @@ minivan: null
 mito: null
 mitsubishi: null
 mixer: null
-mobility: null
 mobility-scooter: F8DB
 modified: null
 mokka: null
@@ -474,6 +475,7 @@ series: null
 sgf: null
 shogun: null
 silver: null
+silver-coloured: null
 single: null
 skip: null
 skoda: null
@@ -556,6 +558,7 @@ x-trail: null
 x-type: null
 x1: null
 x5: null
+xc40: null
 xc60: null
 xc90: null
 xf: null
