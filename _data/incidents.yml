@@ -1918,12 +1918,13 @@
   killer-vehicle: car
   links:
   - https://www.merseyside.police.uk/news/merseyside/news/2021/august/appeal-for-information-following-fatal-collision-on-east-lancs-road/
+    https://www.liverpoolecho.co.uk/news/liverpool-news/family-man-39-killed-east-21392295
   offender-/-driver: null
   plea: null
   police-area: Merseyside
   police-code: '21000587770'
   tags: car pedestrian
-  victim: Man (30s)
+  victim: Gareth Powell (39)
   victim-dob: null
   victim-vehicle: Pedestrian
 -
