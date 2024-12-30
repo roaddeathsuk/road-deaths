@@ -212,6 +212,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 25 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2f97948
+  imprisonment: null
+  killer-vehicle: red Audi A7 car
+  links: https://www.scotland.police.uk/what-s-happening/news/2024/december/appeal-for-information-following-fatal-crash-on-a811-near-leckie/
+  offender-/-driver: Man (72)
+  plea: null
+  police-area: Scotland
+  police-code: 1209 of 25 December, 2024
+  tags: null
+  victim: Man (60)
+  victim-dob: null
+  victim-vehicle: grey Moto Guzzi V100 motorcycle
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 23 Dec 2024
   date-of-sentence: null
   disqualification: null
@@ -232,6 +252,28 @@
   victim: Anthony Brian Milburn (34)
   victim-dob: null
   victim-vehicle: Bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 22 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0181d64
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/fatal-road-crash-m74-junction-2-near-rutherglen/
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/fatal-road-crash-m74-junction-2-near-rutherglen/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 2609 of 22 December 2024
+  tags: null
+  victim: Man (65)
+  victim-dob: null
+  victim-vehicle: Porsche Boxster car
 -
   comment: null
   community-order: null
@@ -258,6 +300,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 20 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 720866c
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/woman-died-following-crash-on-a9-near-inshes-inverness-on-friday-20-december-2024/
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/woman-named-following-fatal-road-crash-on-the-a9-near-inshes-inverness/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 232 of 20 December 2024
+  tags: null
+  victim: Ashleigh Watson (31)
+  victim-dob: null
+  victim-vehicle: Citroen DS3 car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 19 Dec 2024
   date-of-sentence: null
   disqualification: null
@@ -274,6 +338,48 @@
   victim: Man (50s)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 17 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d74bd07
+  imprisonment: null
+  killer-vehicle: white Ford Transit van
+  links: https://www.scotland.police.uk/what-s-happening/news/2024/december/man-who-died-in-fatal-crash-on-a75-at-gretna-named/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 1097 of 16 December
+  tags: null
+  victim: Jackson Pringle (83)
+  victim-dob: null
+  victim-vehicle: black Peugeot 3008 car
+-
+  comment: unoccupied Peugeot car
+  community-order: null
+  court: null
+  date-of-incident: Mon, 16 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: b04fbf1
+  imprisonment: null
+  killer-vehicle: Volkswagen Golf car (driver)
+  links:
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/appeal-following-fatal-road-crash-on-clune-brae-port-glasgow/
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/man-who-died-in-port-glasgow-crash-named/
+  offender-/-driver: Woman (50)
+  plea: null
+  police-area: Scotland
+  police-code: 3838 of 16 December 2024
+  tags: null
+  victim: Scott McFadden (38)
+  victim-dob: null
+  victim-vehicle: Volkswagen Golf car (passenger)
 -
   comment: null
   community-order: null
@@ -298,6 +404,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 13 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0538fed
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/appeal-following-fatal-crash-on-b6357-near-annan/
+  - https://www.scotland.police.uk/what-s-happening/news/2024/december/man-who-died-in-fatal-crash-near-annan-has-been-named/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 3502 of 13 December 2024
+  tags: null
+  victim: Lewis Chapman (22)
+  victim-dob: null
+  victim-vehicle: null
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 12 Dec 2024
   date-of-sentence: null
   disqualification: null
@@ -315,6 +443,46 @@
   police-code: 24001045596
   tags: careless
   victim: Lin Donnelly (72)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 9 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8f6e6ef
+  imprisonment: null
+  killer-vehicle: blue Ford Focus car
+  links: https://www.scotland.police.uk/what-s-happening/news/2024/december/woman-has-died-after-crash-on-a92-near-gourdon-aberdeenshire/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 1110 of 9 December 2024
+  tags: null
+  victim: Wilma Porter (79)
+  victim-dob: null
+  victim-vehicle: black Kia Ceed car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 6 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 69a3e3b
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.scotland.police.uk/what-s-happening/news/2024/december/woman-who-died-in-aberdeen-crash-on-whinhill-road-named/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 1126 6 December 2024
+  tags: null
+  victim: Maureen Davidson (83)
   victim-dob: null
   victim-vehicle: Pedestrian
 -

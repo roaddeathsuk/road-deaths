@@ -1,6 +1,7 @@
 '&': null
 (blue: null
 (digger?): null
+(driver): null
 (fixed: null
 (lollipop: null
 (on: null
@@ -19,7 +20,7 @@
 125cc: null
 1275gt: null
 '1300': null
-141/70: null
+141/70: F48B
 18-foot: null
 19.2-tonne: null
 '2': null
@@ -45,7 +46,7 @@
 330d: null
 '335': null
 335d: null
-37/30: null
+37/30: F48B
 38/20: F48B
 '390': null
 3se: null
@@ -66,22 +67,22 @@
 520d: null
 '525': null
 '535': null
-54/30: null
+54/30: F48B
 55/40: F48B
 58/20: F48B
 59/40: F48B
 '6': null
 60/20: F48B
 60/30: F48B
-65/60: null
-68/40: null
+65/60: F48B
+68/40: F48B
 '690': null
 70/30: F48B
 72/30: F48B
 73/70: F48B
 '75': null
 '750': null
-80/40: null
+80/40: F48B
 '807': null
 900cc: null
 91/50: F48B
@@ -266,6 +267,7 @@ gsx: null
 gsxr: null
 gti: null
 gunmetal: null
+guzzi: null
 harley: null
 hatchback: null
 hay-bale: 25CB
@@ -371,6 +373,7 @@ mokka: null
 mondeo: null
 moped: F8F5
 morgan: null
+moto: null
 motor: null
 motorbike: F21C
 motorcycle: F21C
@@ -535,6 +538,7 @@ uninsured: F56C
 unlicenced: null
 unlicensed: F2C2
 up: null
+v100: null
 v60: null
 v70: null
 van: F0D1
