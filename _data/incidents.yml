@@ -581,6 +581,8 @@
   killer-vehicle: lorry
   links: https://www.avonandsomerset.police.uk/news/2024/11/witness-appeal-after-fatal-collision-in-keynsham/
   offender-/-driver: null
+  pages:
+    https://www.avonandsomerset.police.uk/news/2024/11/witness-appeal-after-fatal-collision-in-keynsham/: "We\u2019re appealing for witnesses after a man died in a collision on the A4 Bath Road in Keynsham this morning (25 November).\n\nShortly before 8.30am, between the Hicks Gate and Broadmead roundabouts, a lorry and a motorcycle collided.\n\nThe motorcyclist, a 33-year-old man, suffered serious injuries. Sadly, despite the best efforts of paramedics, he died at the scene. Our thoughts are with his family and they are being supported by a specially trained officer.\n\nThe road was closed in both directions between the two roundabouts to allow collision investigators to examine the area but has since reopened.\n\nIf you witnessed the collision or have any dashcam footage, or information, which could help our investigation, please call 101 and give the call handler the reference number 5224310078."
   plea: null
   police-area: Avon and Somerset
   police-code: 5224310078
@@ -603,6 +605,9 @@
   - grey Volvo car
   links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2024/11-november/appeal-for-dashcam-and-witnesses-following-fatal-collision/
   offender-/-driver: Woman (70s)
+  pages:
+    ? https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2024/11-november/appeal-for-dashcam-and-witnesses-following-fatal-collision/
+    : "Were you driving along the A168 in the Knaresborough / Boroughbridge area on Monday evening?\n \nCan you help our appeal after a motorcyclist died in a collision on the A168 at the junction of Marton Lane, (near Harrogate Caravan Storage)?\n \nIt happened at around 5pm on Monday 25 November and involved a black Suzuki motorcycle, a black Audi car and a grey Volvo car.\n \nThe rider of the motorcycle, a man aged in his 30s from the York area sadly died at the scene despite the efforts of officers and the ambulance service.\n \nWe are working to establish the full circumstances of the incident and are appealing for witnesses and dashcam footage of any of the vehicles involved in the collision both before the collision and of the collision itself.\n \nIf you have any information or footage that could assist our investigation, please email mcit@northyorkshire.police.uk\n\nPlease quote reference number 12240215692 when passing on any information.\n\nA woman in her 70s has been interviewed under caution in connection with the collision."
   plea: null
   police-area: North Yorkshire
   police-code: 12240215692
@@ -653,8 +658,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: He was the driver of a black BMW 5 series which was in collision with a
-    tree after failing to stop for a marked police vehicle.
+  comment: He was the driver of a black BMW 5 series which was in collision with a tree after failing to stop for a marked police vehicle.
   community-order: null
   court: null
   date-of-incident: Wed, 6 Nov 2024
@@ -1685,9 +1689,7 @@
   victim-dob: null
   victim-vehicle: blue Citroen C3
 -
-  comment: "The court heard Charlton had driven through a red light while over the\
-    \ speed limit before the collision between his Ford Fiesta and Daniel\u2019s moped\
-    \ at the A4174 Wraxall Road roundabout in April 2022."
+  comment: "The court heard Charlton had driven through a red light while over the speed limit before the collision between his Ford Fiesta and Daniel\u2019s moped at the A4174 Wraxall Road roundabout in April 2022."
   community-order: null
   court: Bristol Crown Court
   date-of-incident: Sun, 17 Apr 2022
@@ -1735,8 +1737,7 @@
   date-of-incident: Thu, 24 Mar 2022
   date-of-sentence: null
   disqualification: 4 years after release
-  editor-notes: death by careless driving, causing death while driving uninsured and
-    causing death while driving unlicensed
+  editor-notes: death by careless driving, causing death while driving uninsured and causing death while driving unlicensed
   identifier: aaf39d3
   imprisonment: 27 months
   killer-vehicle: Citoren C1 car
@@ -2253,8 +2254,7 @@
   imprisonment: null
   killer-vehicle: car
   links:
-  - https://www.merseyside.police.uk/news/merseyside/news/2021/august/appeal-for-information-following-fatal-collision-on-east-lancs-road/
-    https://www.liverpoolecho.co.uk/news/liverpool-news/family-man-39-killed-east-21392295
+  - https://www.merseyside.police.uk/news/merseyside/news/2021/august/appeal-for-information-following-fatal-collision-on-east-lancs-road/ https://www.liverpoolecho.co.uk/news/liverpool-news/family-man-39-killed-east-21392295
   offender-/-driver: null
   plea: null
   police-area: Merseyside
@@ -2864,8 +2864,7 @@
   imprisonment: null
   killer-vehicle: car
   links:
-  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/july/appeal-for-witnesses-after-fatal-collision-in-newport/
-    https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/tribute-paid-to-motorcyclist-killed-in-newport/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/july/appeal-for-witnesses-after-fatal-collision-in-newport/ https://www.hampshire.police.uk/news/hampshire/news/news/2021/july/tribute-paid-to-motorcyclist-killed-in-newport/
   offender-/-driver: null
   plea: null
   police-area: Hampshire
@@ -9529,10 +9528,7 @@
   victim-dob: null
   victim-vehicle: silver Citroen C4 car
 -
-  comment: The driver of the van suffered minor injuries. The 32-year-old man from
-    Lincoln failed a roadside drugs wipe and was subsequently arrested on suspicion
-    of two counts of causing death by dangerous driving, and driving whilst unfit
-    through drink or drugs.
+  comment: The driver of the van suffered minor injuries. The 32-year-old man from Lincoln failed a roadside drugs wipe and was subsequently arrested on suspicion of two counts of causing death by dangerous driving, and driving whilst unfit through drink or drugs.
   community-order: null
   court: null
   date-of-incident: Thu, 3 Sep 2020
@@ -9727,8 +9723,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: A 62-year-old died following the serious road crash involving a lorry and
-    a motorbike
+  comment: A 62-year-old died following the serious road crash involving a lorry and a motorbike
   community-order: null
   court: null
   date-of-incident: Sat, 29 Aug 2020
@@ -10023,8 +10018,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: collision involving three vehicles; a Kia Ceed, a Saab 9-3 and a Volkswagen
-    Golf.
+  comment: collision involving three vehicles; a Kia Ceed, a Saab 9-3 and a Volkswagen Golf.
   community-order: null
   court: null
   date-of-incident: Wed, 26 Aug 2020
@@ -10086,8 +10080,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: The collision occurred in St Albans Road, just before 5pm, and involved
-    a white Fiat 500, a silver BMW and a white Toyota.
+  comment: The collision occurred in St Albans Road, just before 5pm, and involved a white Fiat 500, a silver BMW and a white Toyota.
   community-order: null
   court: null
   date-of-incident: Tue, 25 Aug 2020
@@ -10149,9 +10142,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: The driver, a man aged 51, was arrested at the scene of the second collision
-    on suspicion of causing death by dangerous driving and serious injury by dangerous
-    driving.
+  comment: The driver, a man aged 51, was arrested at the scene of the second collision on suspicion of causing death by dangerous driving and serious injury by dangerous driving.
   community-order: null
   court: null
   date-of-incident: Sun, 23 Aug 2020
@@ -10193,8 +10184,7 @@
   victim-dob: null
   victim-vehicle: Orange Yamaha Motorbike
 -
-  comment: His silver Nissan Almera is believed to have hit the back of a van and
-    lamppost before flipping onto its roof in Walsall Road.
+  comment: His silver Nissan Almera is believed to have hit the back of a van and lamppost before flipping onto its roof in Walsall Road.
   community-order: null
   court: null
   date-of-incident: Sun, 23 Aug 2020
@@ -10275,8 +10265,7 @@
   victim-dob: null
   victim-vehicle: Kia Picanto Car
 -
-  comment: A MAN has died after a car went over the Greyhound roundabout in Leigh
-    before crashing into trees last night, Saturday.
+  comment: A MAN has died after a car went over the Greyhound roundabout in Leigh before crashing into trees last night, Saturday.
   community-order: null
   court: Bolton Crown Court
   date-of-incident: Sat, 22 Aug 2020
@@ -10298,8 +10287,7 @@
   victim-dob: null
   victim-vehicle: Mercedes A200 car
 -
-  comment: Man dies after horror lorry smash on Scots road as seriously injured passenger
-    hospitalised
+  comment: Man dies after horror lorry smash on Scots road as seriously injured passenger hospitalised
   community-order: null
   court: null
   date-of-incident: Sat, 22 Aug 2020
@@ -10383,8 +10371,7 @@
   victim-dob: null
   victim-vehicle: black Volkswagen Polo car
 -
-  comment: A woman in her 30s has died following a two-vehicle head-on crash on the
-    A141 between Chatteris and Warboys.
+  comment: A woman in her 30s has died following a two-vehicle head-on crash on the A141 between Chatteris and Warboys.
   community-order: null
   court: null
   date-of-incident: Thu, 20 Aug 2020
@@ -10446,8 +10433,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: A MAN who died after being hit by a car in the middle of the night on the
-    A78 at Inverkip has been named as Robert Clark.
+  comment: A MAN who died after being hit by a car in the middle of the night on the A78 at Inverkip has been named as Robert Clark.
   community-order: null
   court: null
   date-of-incident: Wed, 19 Aug 2020
@@ -10533,8 +10519,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: Police have named the 48-year-old man who died after being struck by a
-    car on the A96.
+  comment: Police have named the 48-year-old man who died after being struck by a car on the A96.
   community-order: null
   court: null
   date-of-incident: Mon, 17 Aug 2020
@@ -10767,8 +10752,7 @@
   victim-dob: null
   victim-vehicle: blue and white Suzuki motorcycle
 -
-  comment: A 48-year-old woman has died following a single-vehicle collision on the
-    A442 near Waters Upton.
+  comment: A 48-year-old woman has died following a single-vehicle collision on the A442 near Waters Upton.
   community-order: null
   court: null
   date-of-incident: Tue, 11 Aug 2020
@@ -10851,8 +10835,7 @@
   victim-dob: null
   victim-vehicle: Motorbike
 -
-  comment: A 29-year-old man has been arrested on suspicion of causing death by dangerous
-    driving
+  comment: A 29-year-old man has been arrested on suspicion of causing death by dangerous driving
   community-order: null
   court: null
   date-of-incident: Tue, 11 Aug 2020
@@ -10920,8 +10903,7 @@
   victim-dob: null
   victim-vehicle: a Suzuki motorcycle
 -
-  comment: The driver fled the scene but a 35-year-old man was arrested after contacting
-    police a short time later.
+  comment: The driver fled the scene but a 35-year-old man was arrested after contacting police a short time later.
   community-order: null
   court: null
   date-of-incident: Mon, 10 Aug 2020
@@ -10962,8 +10944,7 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
-  comment: Bill Roache, 72, was killed when he was knocked down while crossing the
-    road in Chatham after spending the evening with friends in the pub on Monday.
+  comment: Bill Roache, 72, was killed when he was knocked down while crossing the road in Chatham after spending the evening with friends in the pub on Monday.
   community-order: null
   court: null
   date-of-incident: Mon, 10 Aug 2020
@@ -11003,8 +10984,7 @@
   victim-dob: null
   victim-vehicle: motorbike
 -
-  comment: A 32-year-old woman has been arrested on suspicion of causing death by
-    careless driving.
+  comment: A 32-year-old woman has been arrested on suspicion of causing death by careless driving.
   community-order: null
   court: null
   date-of-incident: Sun, 9 Aug 2020
@@ -11047,8 +11027,7 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
-  comment: A man has been charged with murder and attempted murder after two pedestrians
-    were hit by a car.
+  comment: A man has been charged with murder and attempted murder after two pedestrians were hit by a car.
   community-order: null
   court: null
   date-of-incident: Sat, 8 Aug 2020
@@ -11088,8 +11067,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: 'A man, aged in his 30s, died after the car he was driving crashed into
-    a bus shelter on Sandyfields Road '
+  comment: 'A man, aged in his 30s, died after the car he was driving crashed into a bus shelter on Sandyfields Road '
   community-order: null
   court: null
   date-of-incident: Fri, 7 Aug 2020
@@ -11131,9 +11109,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: Cyclist who died after Oldham crash named. A 35-year-old man who was arrested
-    at the scene on suspicion of driving whilst unfit through drink or drugs has been
-    released 'under investigation'
+  comment: Cyclist who died after Oldham crash named. A 35-year-old man who was arrested at the scene on suspicion of driving whilst unfit through drink or drugs has been released 'under investigation'
   community-order: null
   court: null
   date-of-incident: Thu, 6 Aug 2020
@@ -11213,8 +11189,7 @@
   victim-dob: null
   victim-vehicle: blue Renault Megane car
 -
-  comment: The collision happened shortly before 11pm on the westbound carriageway
-    of the A55 near junction 3 of the Valley offslip.
+  comment: The collision happened shortly before 11pm on the westbound carriageway of the A55 near junction 3 of the Valley offslip.
   community-order: null
   court: null
   date-of-incident: Thu, 6 Aug 2020
@@ -11234,8 +11209,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: A dog walker died after a vehicle "left the road and collided with him"
-    less than a mile away from his home, an inquest heard.
+  comment: A dog walker died after a vehicle "left the road and collided with him" less than a mile away from his home, an inquest heard.
   community-order: null
   court: null
   date-of-incident: Thu, 6 Aug 2020
@@ -11362,8 +11336,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: It involved a blue Toyota Yaris and a black BMW 320D. The sole occupant
-    of the Toyota, a 34-year-old man from Rochester, died at the scene.
+  comment: It involved a blue Toyota Yaris and a black BMW 320D. The sole occupant of the Toyota, a 34-year-old man from Rochester, died at the scene.
   community-order: null
   court: null
   date-of-incident: Mon, 3 Aug 2020
@@ -11426,8 +11399,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: A man has died in a road accident in Earls Colne this morning and a teenager
-    is in critical condition with life threatening injuries.
+  comment: A man has died in a road accident in Earls Colne this morning and a teenager is in critical condition with life threatening injuries.
   community-order: null
   court: null
   date-of-incident: Sun, 2 Aug 2020
@@ -11509,8 +11481,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: "A 19-year-old man has died following a serious crash on the A120 at Coggeshall\
-    \ today \u2013 the second teenager killed on local roads in less than 24 hours."
+  comment: "A 19-year-old man has died following a serious crash on the A120 at Coggeshall today \u2013 the second teenager killed on local roads in less than 24 hours."
   community-order: null
   court: null
   date-of-incident: Sat, 1 Aug 2020
@@ -11550,8 +11521,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: Cyclist dies in collision at A603 roundabout near Grantchester. The driver
-    of the car was uninjured and stopped at the scene.
+  comment: Cyclist dies in collision at A603 roundabout near Grantchester. The driver of the car was uninjured and stopped at the scene.
   community-order: null
   court: null
   date-of-incident: Fri, 31 Jul 2020
@@ -11594,9 +11564,7 @@
   victim-dob: null
   victim-vehicle: Yamaha YBR motorcycle
 -
-  comment: The crash follows another accident in Kirby Cross, where a 17-year-old
-    boy died after his motorbike collided with a lamppost around 9.30pm on Friday
-    night.
+  comment: The crash follows another accident in Kirby Cross, where a 17-year-old boy died after his motorbike collided with a lamppost around 9.30pm on Friday night.
   community-order: null
   court: null
   date-of-incident: Fri, 31 Jul 2020
@@ -11664,9 +11632,7 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
-  comment: Two cyclists and a car were involved in the smash on the B5476 in Coton,
-    between Wem and Whitchurch, soon before 11.30pm last night. The car failed to
-    stop and police are asking the driver to get in touch.
+  comment: Two cyclists and a car were involved in the smash on the B5476 in Coton, between Wem and Whitchurch, soon before 11.30pm last night. The car failed to stop and police are asking the driver to get in touch.
   community-order: null
   court: null
   date-of-incident: Thu, 30 Jul 2020
@@ -11811,8 +11777,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: A female pedestrian has died after a crash involving a car on the A380
-    South Devon Highway, police have said.
+  comment: A female pedestrian has died after a crash involving a car on the A380 South Devon Highway, police have said.
   community-order: null
   court: null
   date-of-incident: Mon, 27 Jul 2020
@@ -11964,9 +11929,7 @@
   victim-dob: null
   victim-vehicle: black and white motorbike
 -
-  comment: In a separate update, police named a 21-year-old man who died from his
-    injuries sustained in a single vehicle crash on the Ballygawley Road in Dungannon
-    at the weekend as Patrick McGinn.
+  comment: In a separate update, police named a 21-year-old man who died from his injuries sustained in a single vehicle crash on the Ballygawley Road in Dungannon at the weekend as Patrick McGinn.
   community-order: null
   court: null
   date-of-incident: Sat, 25 Jul 2020
@@ -12213,8 +12176,7 @@
   - https://www.thesun.co.uk/news/12210979/boy-hit-car-manchester-man-arrested/
   - https://www.thesun.co.uk/news/uknews/12222724
   offender-/-driver: Male (33)
-  plea: '- causing death by dangerous driving  - driving otherwise in accordance with
-    a driving licence  - not having third party insurance in place.'
+  plea: '- causing death by dangerous driving  - driving otherwise in accordance with a driving licence  - not having third party insurance in place.'
   police-area: Greater Manchester
   police-code: 2597/23JUL2020
   tags: null
@@ -12741,9 +12703,7 @@
   victim-dob: null
   victim-vehicle: Motorbike
 -
-  comment: The 36-year-old driver of the car did not stop at the scene but was arrested
-    a short time later on suspicion of causing death by dangerous driving and failing
-    to stop at the scene of an accident.
+  comment: The 36-year-old driver of the car did not stop at the scene but was arrested a short time later on suspicion of causing death by dangerous driving and failing to stop at the scene of an accident.
   community-order: null
   court: null
   date-of-incident: Sat, 11 Jul 2020
@@ -12785,8 +12745,7 @@
   victim-dob: null
   victim-vehicle: Yamaha YBR 125 motorcycle
 -
-  comment: A PEDESTRIAN who died in hospital after a collision with a car in Highcliffe
-    earlier this month has been named.
+  comment: A PEDESTRIAN who died in hospital after a collision with a car in Highcliffe earlier this month has been named.
   community-order: null
   court: null
   date-of-incident: Fri, 10 Jul 2020
@@ -12891,8 +12850,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: A 35-year-old man was arrested at the scene on suspicion of driving whilst
-    unfit through drink or drugs.
+  comment: A 35-year-old man was arrested at the scene on suspicion of driving whilst unfit through drink or drugs.
   community-order: null
   court: null
   date-of-incident: Tue, 7 Jul 2020
@@ -12935,8 +12893,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: Gary Harrison was the only person in the silver Renault Clio and no other
-    vehicles were involved in the incident.
+  comment: Gary Harrison was the only person in the silver Renault Clio and no other vehicles were involved in the incident.
   community-order: '-'
   court: '-'
   date-of-incident: Mon, 6 Jul 2020
@@ -13037,9 +12994,7 @@
   victim-dob: null
   victim-vehicle: silver Suzuki Swift car
 -
-  comment: hit-and-run. A 28-year-old man was arrested on suspicion of manslaughter
-    and wanton and furious driving after he attended a police station in the early
-    hours of today (July 28).
+  comment: hit-and-run. A 28-year-old man was arrested on suspicion of manslaughter and wanton and furious driving after he attended a police station in the early hours of today (July 28).
   community-order: null
   court: null
   date-of-incident: Fri, 3 Jul 2020
@@ -13167,10 +13122,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: The 41-year-old driver of the car stopped at the scene. She was arrested
-    on suspicion of causing death by dangerous driving and taken to a north London
-    police station.   The woman was subsequently charged with causing death by dangerous
-    driving.
+  comment: The 41-year-old driver of the car stopped at the scene. She was arrested on suspicion of causing death by dangerous driving and taken to a north London police station.   The woman was subsequently charged with causing death by dangerous driving.
   community-order: null
   court: null
   date-of-incident: Mon, 29 Jun 2020
@@ -13415,9 +13367,7 @@
   victim-dob: null
   victim-vehicle: green Ford Mondeo car
 -
-  comment: A black Vauxhall Astra travelling away from Bradford collided with a parked
-    Ford Focus near to the junction with Parkin Lane. Isma, who was the only occupant
-    of the Astra, died at the scene.
+  comment: A black Vauxhall Astra travelling away from Bradford collided with a parked Ford Focus near to the junction with Parkin Lane. Isma, who was the only occupant of the Astra, died at the scene.
   community-order: null
   court: null
   date-of-incident: Tue, 23 Jun 2020
@@ -13479,10 +13429,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: "The family were reportedly taking their Yorkshire terrier Troy out for\
-    \ a walk when they were hit by a Peugeot 206 on Abbey Road in Dalton-in-Furness,\
-    \ Cumbria. Logan\u2019s car allegedly mounted the pavement and struck them before\
-    \ hitting a tree"
+  comment: "The family were reportedly taking their Yorkshire terrier Troy out for a walk when they were hit by a Peugeot 206 on Abbey Road in Dalton-in-Furness, Cumbria. Logan\u2019s car allegedly mounted the pavement and struck them before hitting a tree"
   community-order: null
   court: null
   date-of-incident: Sun, 21 Jun 2020
@@ -13879,8 +13826,7 @@
   - https://www.wakefieldexpress.co.uk/news/crime/man-killed-after-being-hit-car-being-chased-police-2879724
   - https://www.westyorkshire.police.uk/news-appeals/man-charged-over-fatal-crash-leeds-road-outwood
   offender-/-driver: Adam Badkin (22)
-  plea: admitted causing death by dangerous driving and death by dangerous driving
-    while unlicensed and uninsured.
+  plea: admitted causing death by dangerous driving and death by dangerous driving while unlicensed and uninsured.
   police-area: West Yorkshire
   police-code: 1253/9Jun2020
   tags: null
@@ -13931,8 +13877,7 @@
   victim-dob: null
   victim-vehicle: silver Nissan Qashqai car
 -
-  comment: "Road in Ramsey could be closed or have safety barriers installed after\
-    \ \u2018a number of fatalities\u2019, coroner says"
+  comment: "Road in Ramsey could be closed or have safety barriers installed after \u2018a number of fatalities\u2019, coroner says"
   community-order: null
   court: null
   date-of-incident: Sun, 7 Jun 2020
@@ -14324,8 +14269,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: A man who died following a two-vehicle collision on the A10, Waterbeach
-    last week has been named.
+  comment: A man who died following a two-vehicle collision on the A10, Waterbeach last week has been named.
   community-order: null
   court: null
   date-of-incident: Thu, 14 May 2020
@@ -15100,8 +15044,7 @@
   killer-vehicle: null
   links: https://www.wiltshiretimes.co.uk/news/18622556.woman-overtook-school-bus-collision-killed-devizes-mechanic/
   offender-/-driver: Sarah Mann (37)
-  plea: Guilty - causing death by dangerous driving Guilty - causing serious injury
-    by dangerous driving
+  plea: Guilty - causing death by dangerous driving Guilty - causing serious injury by dangerous driving
   police-area: null
   police-code: null
   tags: null
@@ -15213,8 +15156,7 @@
   victim-dob: null
   victim-vehicle: blue Ford Fiesta car
 -
-  comment: Boy, 8, dies after serious crash on the M60 motorway - a BMW driver has
-    been arrested on suspicion of drug driving
+  comment: Boy, 8, dies after serious crash on the M60 motorway - a BMW driver has been arrested on suspicion of drug driving
   community-order: null
   court: null
   date-of-incident: Fri, 28 Feb 2020
@@ -15365,8 +15307,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: Quincy Anyiam hit Anisha Vidal-Garner on Brixton Hill, south London, after
-    accelerating away from officers who had signalled for him to stop.
+  comment: Quincy Anyiam hit Anisha Vidal-Garner on Brixton Hill, south London, after accelerating away from officers who had signalled for him to stop.
   community-order: null
   court: null
   date-of-incident: Wed, 19 Feb 2020
@@ -16465,8 +16406,7 @@
   victim-dob: null
   victim-vehicle: white Ford transit van
 -
-  comment: Car driver James Lavine killed pedestrian Max Simmons as he drove along
-    a country road.
+  comment: Car driver James Lavine killed pedestrian Max Simmons as he drove along a country road.
   community-order: null
   court: null
   date-of-incident: Sat, 21 Dec 2019
@@ -16816,8 +16756,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: she was hit by a Fiat Punto Grande which police believe deliberately mounted
-    the pavement
+  comment: she was hit by a Fiat Punto Grande which police believe deliberately mounted the pavement
   community-order: null
   court: null
   date-of-incident: Thu, 21 Nov 2019
@@ -17127,8 +17066,7 @@
   victim-dob: null
   victim-vehicle: vehicle
 -
-  comment: The Ford Fiesta was driving along High Cross Road and turned right on to
-    the A5 where the collision occurred.
+  comment: The Ford Fiesta was driving along High Cross Road and turned right on to the A5 where the collision occurred.
   community-order: null
   court: null
   date-of-incident: Tue, 22 Oct 2019
@@ -17792,8 +17730,7 @@
   victim-dob: null
   victim-vehicle: kick-scooter
 -
-  comment: Car driver Shaun Gatti killed pedestrian Robyn Fryar as he sped (~47/30)
-    on the wrong side of the road.
+  comment: Car driver Shaun Gatti killed pedestrian Robyn Fryar as he sped (~47/30) on the wrong side of the road.
   community-order: null
   court: null
   date-of-incident: Sun, 7 Jul 2019
@@ -17880,9 +17817,7 @@
   victim-dob: null
   victim-vehicle: motorcycle
 -
-  comment: 'Mrs Justice May told Agca: "You drove at him, in effect using your car
-    as a weapon, causing him to suffer the injuries that led to his death, all in
-    the sight of his family."'
+  comment: 'Mrs Justice May told Agca: "You drove at him, in effect using your car as a weapon, causing him to suffer the injuries that led to his death, all in the sight of his family."'
   community-order: null
   court: null
   date-of-incident: Sun, 23 Jun 2019
@@ -18115,8 +18050,7 @@
   killer-vehicle: null
   links: https://www.hampshire.police.uk/news/hampshire/news/news/2020/july/mini-cooper-driver-jailed-following-fatal-collision-on-isle-of-wight/
   offender-/-driver: Yaashmi Ravikumar (20)
-  plea: admitted causing death by dangerous driving, and four counts of causing serious
-    injury by dangerous driving
+  plea: admitted causing death by dangerous driving, and four counts of causing serious injury by dangerous driving
   police-area: Hampshire
   police-code: null
   tags: null
@@ -18334,9 +18268,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: Marcel Balan, 57, stopped the lorry he was driving on an unlit stretch
-    of the A19 near Sunderland. John Terence Robinson was traveling behind in his
-    Ford Fusion which collided with the back of the stationary HGV.
+  comment: Marcel Balan, 57, stopped the lorry he was driving on an unlit stretch of the A19 near Sunderland. John Terence Robinson was traveling behind in his Ford Fusion which collided with the back of the stationary HGV.
   community-order: null
   court: null
   date-of-incident: Wed, 13 Mar 2019
@@ -18358,8 +18290,7 @@
   victim-dob: null
   victim-vehicle: Ford Fusion car
 -
-  comment: Pensioner told not to drive due to failing eyesight jailed after killing
-    cyclist
+  comment: Pensioner told not to drive due to failing eyesight jailed after killing cyclist
   community-order: null
   court: High Court in Edinburgh
   date-of-incident: Mon, 4 Mar 2019
@@ -18608,8 +18539,7 @@
   victim-vehicle: null
 -
   comment: null
-  community-order: 200 hours unpaid work, complete 20 days rehabilitation and must
-    adhere to a four month curfew from 8pm until 6am.
+  community-order: 200 hours unpaid work, complete 20 days rehabilitation and must adhere to a four month curfew from 8pm until 6am.
   court: null
   date-of-incident: Mon, 4 Feb 2019
   date-of-sentence: null
@@ -19756,8 +19686,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: Police said no arrests have been made and the lorry driver, who stopped
-    at the scene, is helping with their investigation.
+  comment: Police said no arrests have been made and the lorry driver, who stopped at the scene, is helping with their investigation.
   community-order: null
   court: null
   date-of-incident: Wed, 15 Aug 2018
@@ -19911,11 +19840,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: A motorist killed a six-year-old girl on a pedestrian crossing after driving
-    through a red traffic light, a jury heard. She failed to see the red traffic light
-    and drove into the girl. Her driving fell well below the standard expected and,
-    as a result, the child died. Andjele Vranjes, was found not guilty of causing
-    death by careless driving.
+  comment: A motorist killed a six-year-old girl on a pedestrian crossing after driving through a red traffic light, a jury heard. She failed to see the red traffic light and drove into the girl. Her driving fell well below the standard expected and, as a result, the child died. Andjele Vranjes, was found not guilty of causing death by careless driving.
   community-order: null
   court: null
   date-of-incident: Sat, 28 Jul 2018
@@ -20268,8 +20193,7 @@
   victim-picture: https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/05/30/18/crash-1.jpg?width=990&auto=webp&quality=75&crop=968%3A645%2Csmart
   victim-vehicle: null
 -
-  comment: PC Jamie Holloway, 49, of West Mercia Police, is charged in connection
-    with a crash on the A449 in Hartlebury, Worcestershire, on 28 May 2018.
+  comment: PC Jamie Holloway, 49, of West Mercia Police, is charged in connection with a crash on the A449 in Hartlebury, Worcestershire, on 28 May 2018.
   community-order: null
   court: null
   date-of-incident: Mon, 28 May 2018
@@ -20719,9 +20643,7 @@
   victim-dob: null
   victim-vehicle: House
 -
-  comment: Mrs Grewal died following a three-vehicle crash, two other pedestrians
-    suffered non life-threatening injuries in the incident. All three drivers were
-    uninjured.
+  comment: Mrs Grewal died following a three-vehicle crash, two other pedestrians suffered non life-threatening injuries in the incident. All three drivers were uninjured.
   community-order: null
   court: 'Newcastle Crown Court '
   date-of-incident: Mon, 16 Apr 2018
@@ -21000,8 +20922,7 @@
   killer-vehicle: blue BMW 335D car
   links: https://news.met.police.uk/news/driver-sentenced-following-fatal-collision-in-rainham-409087
   offender-/-driver: Mohammed Ali (18)
-  plea: pleaded guilty - causing death by dangerous driving pleaded guilty - causing
-    death by driving a vehicle whilst uninsured
+  plea: pleaded guilty - causing death by dangerous driving pleaded guilty - causing death by driving a vehicle whilst uninsured
   police-area: Metropolitan
   police-code: null
   tags: null
@@ -21094,8 +21015,7 @@
   victim-vehicle: null
 -
   comment: null
-  community-order: 12-month community order with a four-month night time curfew and
-    ordered to carry out 100 hours of unpaid work.
+  community-order: 12-month community order with a four-month night time curfew and ordered to carry out 100 hours of unpaid work.
   court: Bodmin Magistrates Court
   date-of-incident: Thu, 1 Mar 2018
   date-of-sentence: null
@@ -21447,12 +21367,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: "Ms Ouhoud had alighted a bus at a stop on St Margaret\u2019s Road and\
-    \ was walking away at the junction of Sandycoombe Road when she was struck by\
-    \ the car.  Witnesses described the Audi driving at a reasonable, slow speed before\
-    \ accelerating and mounting the curb in the tragic accident.  \"His driving did\
-    \ not fall below safety standards. He has suffered an unexpected medical episode\
-    \ which has resulted in collision with Ms Ouhoud which has proven fatal.\""
+  comment: "Ms Ouhoud had alighted a bus at a stop on St Margaret\u2019s Road and was walking away at the junction of Sandycoombe Road when she was struck by the car.  Witnesses described the Audi driving at a reasonable, slow speed before accelerating and mounting the curb in the tragic accident.  \"His driving did not fall below safety standards. He has suffered an unexpected medical episode which has resulted in collision with Ms Ouhoud which has proven fatal.\""
   community-order: null
   court: null
   date-of-incident: Thu, 4 Jan 2018
@@ -21647,8 +21562,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: During a training exercise PC Dixon's motorbike struck the side of her
-    Toyota as she turned right.
+  comment: During a training exercise PC Dixon's motorbike struck the side of her Toyota as she turned right.
   community-order: null
   court: null
   date-of-incident: Tue, 5 Dec 2017
@@ -21946,8 +21860,7 @@
   victim-dob: null
   victim-vehicle: Car
 -
-  comment: Cyclist doctor died after being hit by HGV driver whose 'view obstructed
-    by dashboard ornaments'
+  comment: Cyclist doctor died after being hit by HGV driver whose 'view obstructed by dashboard ornaments'
   community-order: null
   court: Birmingham Crown Court
   date-of-incident: Mon, 9 Oct 2017
@@ -22308,8 +22221,7 @@
   killer-vehicle: null
   links: https://www.bbc.co.uk/news/uk-england-cornwall-41859051
   offender-/-driver: Jonathan Kane (52)
-  plea: pleaded guilty to causing death by careless driving, causing death by driving
-    whilst unlicensed or uninsured, and one count of dangerous driving
+  plea: pleaded guilty to causing death by careless driving, causing death by driving whilst unlicensed or uninsured, and one count of dangerous driving
   police-area: null
   police-code: null
   tags: hit-and-run
@@ -22385,8 +22297,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: He was with his mum and sister when the car hit him. The driver stopped
-    at the scene but was not arrested.
+  comment: He was with his mum and sister when the car hit him. The driver stopped at the scene but was not arrested.
   community-order: null
   court: null
   date-of-incident: Mon, 3 Jul 2017
@@ -22484,8 +22395,7 @@
   killer-vehicle: null
   links: https://www.bbc.co.uk/news/uk-england-cambridgeshire-41586153
   offender-/-driver: Andzejus Traskinas (20)
-  plea: admitting two counts of death by careless driving. admitted two counts of
-    causing death by driving a vehicle unlicensed and uninsured.
+  plea: admitting two counts of death by careless driving. admitted two counts of causing death by driving a vehicle unlicensed and uninsured.
   police-area: null
   police-code: null
   tags: null
@@ -22716,8 +22626,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: Motorists simply have to accept that, and it is not open to them to decide
-    when and where they may ignore that rule.
+  comment: Motorists simply have to accept that, and it is not open to them to decide when and where they may ignore that rule.
   community-order: null
   court: Woolwich crown court
   date-of-incident: Mon, 6 Feb 2017
@@ -22844,9 +22753,7 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
-  comment: Gallagher, who was driving a black Volkswagen Golf, approached the group
-    from behind and mounted the kerb. Mr Meekins died at the scene from extensive
-    head injuries.
+  comment: Gallagher, who was driving a black Volkswagen Golf, approached the group from behind and mounted the kerb. Mr Meekins died at the scene from extensive head injuries.
   community-order: null
   court: null
   date-of-incident: Tue, 24 Jan 2017
@@ -22977,12 +22884,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: "The pair had been walking along the B1091 out of Yaxley towards Farcet\
-    \ when they were hit from behind by Frost\u2019s vehicle which had crossed onto\
-    \ the wrong side of the road.  Richard Frost, 39, from Chelmsford, was driving\
-    \ his BMW at speeds of more than 100mph when it left the road, mounted a grass\
-    \ verge and killed Thomas Fletcher, 19, and Thomas Northam, 22, in January last\
-    \ year."
+  comment: "The pair had been walking along the B1091 out of Yaxley towards Farcet when they were hit from behind by Frost\u2019s vehicle which had crossed onto the wrong side of the road.  Richard Frost, 39, from Chelmsford, was driving his BMW at speeds of more than 100mph when it left the road, mounted a grass verge and killed Thomas Fletcher, 19, and Thomas Northam, 22, in January last year."
   community-order: null
   court: null
   date-of-incident: Tue, 3 Jan 2017
@@ -23113,9 +23015,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: The mother of a teenage moped rider who died in a hit-and-run crash told
-    of her disgust today after the joyrider who killed him was sent to prison for
-    just 12 months.
+  comment: The mother of a teenage moped rider who died in a hit-and-run crash told of her disgust today after the joyrider who killed him was sent to prison for just 12 months.
   community-order: null
   court: Wood Green crown court
   date-of-incident: Thu, 17 Nov 2016
@@ -23606,8 +23506,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: The court heard Balu had also gone through a red light before hitting Ms
-    Shapiro on Birmingham Road, West Midlands Police said.
+  comment: The court heard Balu had also gone through a red light before hitting Ms Shapiro on Birmingham Road, West Midlands Police said.
   community-order: null
   court: null
   date-of-incident: Wed, 24 Feb 2016
@@ -23629,8 +23528,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: The boy emerged into the road between parked vehicles and was hit by a
-    white Scania Tipper truck.
+  comment: The boy emerged into the road between parked vehicles and was hit by a white Scania Tipper truck.
   community-order: null
   court: null
   date-of-incident: Tue, 23 Feb 2016
@@ -23778,9 +23676,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: Recording a narrative verdict, Ms Pinder said the taxi driver's defective
-    demister, low visibility in the area and a lack of any signal from Mr Theuri contributed
-    to his death from serious head injuries.
+  comment: Recording a narrative verdict, Ms Pinder said the taxi driver's defective demister, low visibility in the area and a lack of any signal from Mr Theuri contributed to his death from serious head injuries.
   community-order: null
   court: null
   date-of-incident: Mon, 31 Aug 2015
@@ -23945,8 +23841,7 @@
   victim-dob: null
   victim-vehicle: Pedestrian
 -
-  comment: A celebrated musician may have been killed when her husband mistook the
-    accelerator for a brake in his BMW, an inquest has been told.
+  comment: A celebrated musician may have been killed when her husband mistook the accelerator for a brake in his BMW, an inquest has been told.
   community-order: null
   court: null
   date-of-incident: Sat, 9 May 2015
@@ -24030,8 +23925,7 @@
   victim-dob: null
   victim-vehicle: yellow Fiat Panda car
 -
-  comment: Car driver Sakhawat Ali killed passenger in the same car Xana Borg when
-    he flipped the car.
+  comment: Car driver Sakhawat Ali killed passenger in the same car Xana Borg when he flipped the car.
   community-order: null
   court: null
   date-of-incident: Fri, 9 Jan 2015
@@ -24265,9 +24159,7 @@
   victim-dob: 14 November 1958
   victim-vehicle: null
 -
-  comment: Ms Purcell has been unable to offer any explanation as to why she failed
-    to see Mr Mason as he cycled along Regent Street, illuminated by his bicycle lights
-    and the surrounding street lights.
+  comment: Ms Purcell has been unable to offer any explanation as to why she failed to see Mr Mason as he cycled along Regent Street, illuminated by his bicycle lights and the surrounding street lights.
   community-order: null
   court: null
   date-of-incident: Tue, 25 Feb 2014
@@ -24287,8 +24179,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: A 19-year-old man who was killed in a crash involving three vehicles on
-    Teesside, has been named.
+  comment: A 19-year-old man who was killed in a crash involving three vehicles on Teesside, has been named.
   community-order: null
   court: null
   date-of-incident: Fri, 7 Feb 2014
@@ -24398,8 +24289,7 @@
   victim-dob: null
   victim-vehicle: moped
 -
-  comment: Two drivers who were killed when their cars collided in Hampshire have
-    been named.
+  comment: Two drivers who were killed when their cars collided in Hampshire have been named.
   community-order: null
   court: null
   date-of-incident: Mon, 28 Jan 2013
@@ -24441,9 +24331,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: "Deputy coroner Gordon Denson said: \u201CThis is just one of those instances\
-    \ where you cannot comprehend what the future will hold when you wake up that\
-    \ morning.\u201D"
+  comment: "Deputy coroner Gordon Denson said: \u201CThis is just one of those instances where you cannot comprehend what the future will hold when you wake up that morning.\u201D"
   community-order: null
   court: null
   date-of-incident: Mon, 17 Dec 2012
@@ -24778,8 +24666,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: Washington.  Unlicensed driver overtaking cyclist. Collision agreed not
-    to be caused by poor driving.
+  comment: Washington.  Unlicensed driver overtaking cyclist. Collision agreed not to be caused by poor driving.
   community-order: 100 hours
   court: Mags
   date-of-incident: Wed, 25 Jan 2012
@@ -25125,8 +25012,7 @@
   victim-dob: 22 May 1983
   victim-vehicle: null
 -
-  comment: He had had the windows of his car coated with a dark plastic film which
-    reduced visibility in and out of the car to 17%
+  comment: He had had the windows of his car coated with a dark plastic film which reduced visibility in and out of the car to 17%
   community-order: '-'
   court: Old Bailey
   date-of-incident: Sat, 6 Aug 2011
@@ -25229,8 +25115,7 @@
   victim-dob: null
   victim-vehicle: Bicycle
 -
-  comment: Engaged in race with boyfriend (whose sentence of 7 years was not appealed).
-    Boyfriend struck two cyclists on segregated cycle track.
+  comment: Engaged in race with boyfriend (whose sentence of 7 years was not appealed). Boyfriend struck two cyclists on segregated cycle track.
   community-order: null
   court: Court of Appeal
   date-of-incident: Wed, 15 Jun 2011
@@ -25350,8 +25235,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: Dalston.  Left turning lorry who reportedly breached ASL and had defective
-    mirrors.
+  comment: Dalston.  Left turning lorry who reportedly breached ASL and had defective mirrors.
   community-order: null
   court: Inquest only.
   date-of-incident: Wed, 2 Feb 2011
@@ -25503,8 +25387,7 @@
   disqualification: null
   editor-notes: null
   identifier: 526f726
-  imprisonment: Not Guilty - Death by dangerous driving  Not Guilty - Death by Careless
-    driving
+  imprisonment: Not Guilty - Death by dangerous driving  Not Guilty - Death by Careless driving
   killer-vehicle: null
   links: null
   offender-/-driver: Wightman (42)
@@ -25762,8 +25645,7 @@
   victim-dob: '1970'
   victim-vehicle: null
 -
-  comment: Teenager dies after being struck by car and thrown onto an oncoming police
-    vehicle
+  comment: Teenager dies after being struck by car and thrown onto an oncoming police vehicle
   community-order: null
   court: null
   date-of-incident: Thu, 23 Oct 2008
@@ -26471,8 +26353,7 @@
   victim-dob: 28 October 1929
   victim-vehicle: null
 -
-  comment: An inquest determined he was travelling at around 120 miles per hour (190
-    km/h) at the time of the incident, and was twice the legal drink-drive limit.
+  comment: An inquest determined he was travelling at around 120 miles per hour (190 km/h) at the time of the incident, and was twice the legal drink-drive limit.
   community-order: null
   court: null
   date-of-incident: Sat, 9 Aug 2003
@@ -26512,9 +26393,7 @@
   victim-dob: 1 November 1966
   victim-vehicle: Bicycle
 -
-  comment: The inquest recorded a verdict of accidental death, noting that he was
-    intoxicated and had possibly fallen asleep at the wheel while driving well in
-    excess of the speed limit
+  comment: The inquest recorded a verdict of accidental death, noting that he was intoxicated and had possibly fallen asleep at the wheel while driving well in excess of the speed limit
   community-order: null
   court: null
   date-of-incident: Sun, 21 Jul 2002
@@ -26616,8 +26495,7 @@
   victim-dob: 18 May 1944
   victim-vehicle: null
 -
-  comment: died as a result of a fractured skull, and his blood alcohol level was
-    nearly three times over the legal limit
+  comment: died as a result of a fractured skull, and his blood alcohol level was nearly three times over the legal limit
   community-order: null
   court: null
   date-of-incident: Sun, 5 Aug 2001
@@ -27896,8 +27774,7 @@
   victim-dob: 25 May 1904
   victim-vehicle: Pedestrian
 -
-  comment: a hit-and-run car accident near his London home in Leyton. The driver was
-    never found.
+  comment: a hit-and-run car accident near his London home in Leyton. The driver was never found.
   community-order: null
   court: null
   date-of-incident: Sun, 13 Dec 1981
@@ -31166,8 +31043,7 @@
   victim-dob: null
   victim-vehicle: null
 -
-  comment: The first recorded motor accident in Great Britain involving the death
-    of the driver
+  comment: The first recorded motor accident in Great Britain involving the death of the driver
   community-order: null
   court: null
   date-of-incident: Sat, 25 Feb 1899
