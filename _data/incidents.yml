@@ -192,6 +192,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 31 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: f4f3e6e
+  imprisonment: null
+  killer-vehicle: white car
+  links:
+  - https://www.scotland.police.uk/what-s-happening/news/2025/january/woman-dies-after-crash-involving-car-which-failed-to-stop-in-paisley/
+  - https://www.scotland.police.uk/what-s-happening/news/2025/january/woman-who-died-in-paisley-crash-named/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 2566 of 31 December
+  tags: hit-and-run
+  victim: Elizabeth Kenned (70)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Wed, 25 Dec 2024
   date-of-sentence: null
   disqualification: null
