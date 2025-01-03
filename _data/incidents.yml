@@ -232,6 +232,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 24 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: a3e9e1b
+  imprisonment: null
+  killer-vehicle: red Peugeot car
+  links:
+  - https://www.avonandsomerset.police.uk/news/2024/11/m5-closed-following-fatal-collision/
+  - https://www.avonandsomerset.police.uk/news/2024/12/witnesses-sought-after-pedestrians-death-in-bristol/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5224407651
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 23 Dec 2024
   date-of-sentence: null
   disqualification: null
@@ -431,6 +453,26 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: 5a2c94e
+  imprisonment: null
+  killer-vehicle: Volkswagen Polo car
+  links: https://www.avonandsomerset.police.uk/news/2024/12/appeal-after-fatal-collision-in-avonmouth/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5224325502
+  tags: null
+  victim: Man (30s)
+  victim-dob: null
+  victim-vehicle: motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 12 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 6d6af1e
   imprisonment: null
   killer-vehicle: blue Ford Focus car
@@ -490,6 +532,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Tue, 3 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9099f93
+  imprisonment: null
+  killer-vehicle: Hyundai car
+  links: https://www.avonandsomerset.police.uk/news/2024/12/man-dies-following-collision-in-somerset/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5224318042
+  tags: null
+  victim: null
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 30 Nov 2024
   date-of-sentence: null
   disqualification: null
@@ -506,6 +568,26 @@
   victim: Man (40s)
   victim-dob: null
   victim-vehicle: Ford Mondeo car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 25 Nov 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 09c97ca
+  imprisonment: null
+  killer-vehicle: lorry
+  links: https://www.avonandsomerset.police.uk/news/2024/11/witness-appeal-after-fatal-collision-in-keynsham/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5224310078
+  tags: null
+  victim: Man (33)
+  victim-dob: null
+  victim-vehicle: motorcycle
 -
   comment: null
   community-order: null
@@ -548,6 +630,49 @@
   victim: Man (60s)
   victim-dob: null
   victim-vehicle: black Mercedes E350
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 11 Nov 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c2e2021
+  imprisonment: null
+  killer-vehicle: vehicle
+  links:
+  - https://www.avonandsomerset.police.uk/news/2024/11/girl-who-died-in-m5-collision-formally-identified/
+  - https://www.avonandsomerset.police.uk/news/2024/11/update-following-m5-fatal-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: null
+  tags: null
+  victim: Tamzin Hall (17)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: He was the driver of a black BMW 5 series which was in collision with a
+    tree after failing to stop for a marked police vehicle.
+  community-order: null
+  court: null
+  date-of-incident: Wed, 6 Nov 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: d7d6391
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.avonandsomerset.police.uk/news/2024/11/man-dies-following-collision-on-the-a370/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5224292270
+  tags: null
+  victim: Man
+  victim-dob: null
+  victim-vehicle: black BMW 5 series car
 -
   comment: null
   community-order: null
@@ -612,6 +737,26 @@
   victim: Lee Michael Anderson (51)
   victim-dob: null
   victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 30 Aug 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 446a973
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.avonandsomerset.police.uk/news/2024/08/renewed-appeal-after-man-dies-following-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5224229444
+  tags: null
+  victim: Man (56)
+  victim-dob: null
+  victim-vehicle: e-scooter
 -
   comment: null
   community-order: null
@@ -1539,6 +1684,28 @@
   - Justine Hughes (30)
   victim-dob: null
   victim-vehicle: blue Citroen C3
+-
+  comment: "The court heard Charlton had driven through a red light while over the\
+    \ speed limit before the collision between his Ford Fiesta and Daniel\u2019s moped\
+    \ at the A4174 Wraxall Road roundabout in April 2022."
+  community-order: null
+  court: Bristol Crown Court
+  date-of-incident: Sun, 17 Apr 2022
+  date-of-sentence: 21 October 2024
+  disqualification: 2 years and extended re-test
+  editor-notes: null
+  identifier: 0bd4bef
+  imprisonment: 5 years
+  killer-vehicle: Ford Fiesta car
+  links: https://www.avonandsomerset.police.uk/news/2024/10/drug-driver-jailed-after-fatal-a4174-collision-killed-teenager/
+  offender-/-driver: Harry Charlton (29)
+  plea: null
+  police-area: Avon and Somerset
+  police-code: null
+  tags: cannabis
+  victim: Daniel Davies (16)
+  victim-dob: null
+  victim-vehicle: moped
 -
   comment: null
   community-order: null
