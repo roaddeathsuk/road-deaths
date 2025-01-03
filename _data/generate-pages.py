@@ -324,7 +324,7 @@ with open('index.html', "w") as text_file:
     text_file.write(index_page)
 
 with open('_data/incidents.yml', "w") as text_file:
-    text = yaml.dump(incidents)
+    text = yaml.dump(incidents, width=float("inf"))
     text = re.sub(r'(\A|\n)- ', '\\1-\n  ', text)
     text = ("""-
   comment:
