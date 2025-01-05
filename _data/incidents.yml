@@ -1910,7 +1910,11 @@
   - red Golf car
   - red Audi A3 car
   - Audi A8 car
-  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/december/20-12-2021/appeal-for-witnesses-following-collisions--bicester/
+  links:
+  - https://www.banburyguardian.co.uk/news/transport/regional-multi-vehicle-collision-near-bicester-claims-life-of-man-in-his-90s-3507378
+  - https://www.buckinghamshirelive.com/news/buckinghamshire-news/man-seriously-injured-collision-near-6404976
+  - https://www.oxfordmail.co.uk/news/19808794.man-90s-dies-three-car-crash-near-bicester/
+  - https://www.thamesvalley.police.uk/news/thames-valley/news/2021/december/20-12-2021/appeal-for-witnesses-following-collisions--bicester/
   offender-/-driver: null
   plea: null
   police-area: Thames Valley
