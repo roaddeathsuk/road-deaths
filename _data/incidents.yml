@@ -1858,6 +1858,91 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 26 Dec 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5d65507
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/december-2021/appeal-for-information-after-fatal-collision-in-winchester/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44210516070
+  tags: null
+  victim: Boy (11)
+  victim-dob: null
+  victim-vehicle: red Nissan Qashqai car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Fri, 24 Dec 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 776eae9
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2021/december-2021/appeal-for-witnesses-following-fatal-collision-on-the-a34/
+  - https://www.hampshirechronicle.co.uk/news/19831363.a34-fatal-crash-family-pay-tribute-raymond-sparkes/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44210514505
+  tags: null
+  victim: Raymond Alan Sparkes (61)
+  victim-dob: null
+  victim-vehicle: black Peugeot 3008 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 23 Dec 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8c97214
+  imprisonment: null
+  killer-vehicle:
+  - red Golf car
+  - red Audi A3 car
+  - Audi A8 car
+  links: https://www.thamesvalley.police.uk/news/thames-valley/news/2021/december/20-12-2021/appeal-for-witnesses-following-collisions--bicester/
+  offender-/-driver: null
+  plea: null
+  police-area: Thames Valley
+  police-code: 43210577513
+  tags: null
+  victim: Man (90s)
+  victim-dob: null
+  victim-vehicle: Rover 75 car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 23 Dec 2021
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 9af3bbb
+  imprisonment: null
+  killer-vehicle: Volkswagen Touran car
+  links: https://www.wiltshire.police.uk/news/wiltshire/news/2021/december-2021/motorcyclist-dies-following-collision-in-dinton/
+  offender-/-driver: Man (40s)
+  plea: null
+  police-area: Wiltshire
+  police-code: 54210124746
+  tags: dangerous
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: motorcyclist
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 20 Dec 2021
   date-of-sentence: null
   disqualification: null
