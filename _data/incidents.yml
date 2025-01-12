@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 11 Jan 2025
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 44250015030
+  imprisonment: null
+  killer-vehicle: blue Volkswagen Passat car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2025/january/appeal-for-witnesses-after-man-dies--following-collision-in-gosport/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44250015030
+  tags: null
+  victim: Man (69)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 31 Dec 2024
   date-of-sentence: null
   disqualification: null
@@ -1245,26 +1265,6 @@
   victim: Woman (76)
   victim-dob: null
   victim-vehicle: Ford KA car
--
-  comment: null
-  community-order: null
-  court: null
-  date-of-incident: Thu, 11 Jan 2024
-  date-of-sentence: null
-  disqualification: null
-  editor-notes: null
-  identifier: 44250015030
-  imprisonment: null
-  killer-vehicle: blue Volkswagen Passat car
-  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2025/january/appeal-for-witnesses-after-man-dies--following-collision-in-gosport/
-  offender-/-driver: null
-  plea: null
-  police-area: Hampshire
-  police-code: 44250015030
-  tags: null
-  victim: Man (69)
-  victim-dob: null
-  victim-vehicle: pedestrian
 -
   comment: null
   community-order: null
