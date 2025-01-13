@@ -242,6 +242,28 @@
   date-of-sentence: null
   disqualification: null
   editor-notes: null
+  identifier: c2b4977
+  imprisonment: null
+  killer-vehicle: HGV
+  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2025/01-january/tragic-collision-on-the-a19-at-bagby-near-thirsk-on-saturday-11-january-2025-8.55am/
+  offender-/-driver: Unknown (65)
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12250006038
+  tags: null
+  victim:
+  - PC Rosie Prior
+  - Ryan Welford (41)
+  victim-dob: null
+  victim-vehicle: Pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 11 Jan 2025
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
   identifier: 44250015030
   imprisonment: null
   killer-vehicle: blue Volkswagen Passat car
