@@ -192,6 +192,28 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 13 Jan 2025
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 15a61a8
+  imprisonment: null
+  killer-vehicle: null
+  links: https://www.avonandsomerset.police.uk/news/2025/01/appeal-after-man-dies-in-suspected-fail-to-stop-collision-taunton/
+  offender-/-driver: null
+  pages:
+    https://www.avonandsomerset.police.uk/news/2025/01/appeal-after-man-dies-in-suspected-fail-to-stop-collision-taunton/: "Police are investigating a suspected fail-to-stop collision in Taunton in which a man has died.\nA man, a pedestrian, was found with significant injuries on the A38 Wellington New Road, Taunton, just before 1am on Monday 13 January.\nSadly, he was pronounced dead at the scene. He\u2019s believed to be a man in his sixties and officers are trying to trace his next of kin.\nThe A38 is closed between its junctions with Silk Mills Road and Galmington Road while investigations continue. Please avoid the area.\nWe\u2019d like to hear from anyone who was in the area between midnight and 1am on Monday 13 January who may have relevant information or dashcam or other footage."
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5225009673
+  tags: hit-and-run
+  victim: Man (60s)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 12 Jan 2025
   date-of-sentence: null
   disqualification: null
