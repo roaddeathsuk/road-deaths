@@ -192,6 +192,30 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sun, 12 Jan 2025
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ec5eef4
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.avonandsomerset.police.uk/news/2025/01/appeal-after-fatal-collision-a361/
+  offender-/-driver: null
+  pages:
+    https://www.avonandsomerset.police.uk/news/2025/01/appeal-after-fatal-collision-a361/: "We\u2019re appealing for witnesses, dashcam or other footage and information following the deaths of two people in a collision on the A361 near Cranmore, Shepton Mallet.\nThe two-car collision happened at about 3.50pm today, Sunday 12 January.\nBoth the deceased were from one vehicle. Their next of kin have been traced and our thoughts are with them.\nTwo people from the other car went to hospital by ambulance with injuries not believed to be life-threatening or life-changing.\nRoad closures remain in place to allow for collision investigation and recovery of the vehicles.\nThe A361 is closed at its junctions with Piers Road and Tansey, at Farrington Lane and Merryfield Lane, and at Chelynch Road. Please avoid the area."
+  plea: null
+  police-area: Avon and Somerset
+  police-code: 5225009454
+  tags: null
+  victim:
+  - Unknown 1
+  - Unknown 2
+  victim-dob: null
+  victim-vehicle: car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 11 Jan 2025
   date-of-sentence: null
   disqualification: null
