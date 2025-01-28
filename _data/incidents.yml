@@ -2,22 +2,22 @@
   comment:
   community-order:
   court:
-  date-of-incident: 31 December 2024
+  date-of-incident:
   date-of-sentence:
   disqualification:
   editor-notes:
   imprisonment:
-  killer-vehicle: grey Nissan Qashqai car
-  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2025/january/tribute-paid-following-fatal-collision-in-sandown/
-  offender-/-driver: Man (73)
+  killer-vehicle:
+  links:
+  offender-/-driver:
   plea:
   police-area:
-  police-code: 44240566663
+  police-code:
   tags:
-  victim: Jason John Nicholls (48)
+  victim:
   victim-dob:
-  victim-vehicle: pedestrian
- -
+  victim-vehicle:
+-
   comment:
   community-order:
   court:
@@ -274,6 +274,26 @@
   police-code: 44250015030
   tags: null
   victim: Man (69)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 31 Dec 2024
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 46b71ea
+  imprisonment: null
+  killer-vehicle: grey Nissan Qashqai car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2025/january/tribute-paid-following-fatal-collision-in-sandown/
+  offender-/-driver: Man (73)
+  plea: null
+  police-area: Hampshire
+  police-code: 44240566663
+  tags: null
+  victim: Jason John Nicholls (48)
   victim-dob: null
   victim-vehicle: pedestrian
 -
