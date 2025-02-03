@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Wed, 29 Jan 2025
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 1a87c2e
+  imprisonment: null
+  killer-vehicle: HGV
+  links: https://www.scotland.police.uk/what-s-happening/news/2025/january/pedestrian-died-following-crash-on-clydeside-expressway/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 1688 of 29 January, 2025
+  tags: null
+  victim: Male
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 13 Jan 2025
   date-of-sentence: null
   disqualification: null
