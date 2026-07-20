@@ -110,6 +110,7 @@ alcohol: F4E3
 alfa: null
 alhambra: null
 all-terrain: null
+allegro: null
 almera: null
 altea: null
 alto: null
@@ -232,6 +233,7 @@ e-scooter: F8DA
 e220: null
 e350: null
 elan: null
+electric: null
 eos: null
 estate: null
 evoque: null
@@ -406,6 +408,7 @@ passenger: F6C0
 passengers: null
 pavement: F8E1
 pavement): null
+pedal: null
 pedestrian: F8E0
 pedestrian?: null
 pelican-crossing: F8E4
@@ -562,6 +565,7 @@ wrong-side: F8E5
 x-trail: null
 x-type: null
 x1: null
+x3: null
 x5: null
 xc40: null
 xc60: null

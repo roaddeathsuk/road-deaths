@@ -192,6 +192,110 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 16 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: edc0558
+  imprisonment: null
+  killer-vehicle: HGV
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/july/appeal-following-fatal-collision-in-winchester/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/july/tribute-paid-following-fatal-collision-in-winchester/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260339481
+  tags: passenger
+  victim: Aaron Hough (28)
+  victim-dob: null
+  victim-vehicle: HGV
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 14 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c46bb54
+  imprisonment: null
+  killer-vehicle: car
+  links: https://www.hampshire.police.uk/news/hampshire/news/news/2026/july/tribute-paid-to-cyclist-following-fatal-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: null
+  tags: null
+  victim: Lee Joshua Grant (31)
+  victim-dob: null
+  victim-vehicle: pedal bike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 8 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e8ca2c0
+  imprisonment: null
+  killer-vehicle: white Mercedes
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/july/appeal-following-fatal-collision-in-southampton/
+  - https://www.hampshire.police.uk/news/hampshire/news/news/2026/july/tribute-paid-following-fatal-collision-in-southampton/
+  offender-/-driver: Man (40)
+  plea: null
+  police-area: Hampshire
+  police-code: 44260325641
+  tags: alcohol dangerous
+  victim: Alexandru Cosmin Oprea (37)
+  victim-dob: null
+  victim-vehicle: Allegro electric pedal bike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 4 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5c49331
+  imprisonment: null
+  killer-vehicle: BMW X3 car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/july/appeal-after-fatal-collision-near-crondall/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260318343
+  tags: careless drugs
+  victim: Man (50s)
+  victim-dob: null
+  victim-vehicle: Harley Davidson motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 20 Jun 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 538e584
+  imprisonment: null
+  killer-vehicle: silver Nissan Qashqai car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/july/tribute-paid-to-motorcyclist-following-fatal-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260291683
+  tags: null
+  victim: Cieran Bass (20)
+  victim-dob: null
+  victim-vehicle: motorbike
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Wed, 5 Mar 2025
   date-of-sentence: null
   disqualification: null
@@ -207,7 +311,7 @@
   tags: null
   victim: Man (20s)
   victim-dob: null
-  victim-vehicle: black Volkswagen Golf
+  victim-vehicle: black Volkswagen Golf car
 -
   comment: null
   community-order: null
