@@ -192,6 +192,48 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 24 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 2237d27
+  imprisonment: null
+  killer-vehicle: black Mercedes GLA suv
+  links: https://www.scotland.police.uk/what-s-happening/news/2026/july/appeal-for-information-following-fatal-crash-near-shotts/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 1559 of 24 July, 2026
+  tags: null
+  victim: Woman (63)
+  victim-dob: null
+  victim-vehicle: grey Ford Focus car (rear seat passenger)
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Mon, 20 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 857b7fa
+  imprisonment: null
+  killer-vehicle: red Peugeot 208 car
+  links:
+  - https://www.scotland.police.uk/what-s-happening/news/2026/july/pedestrian-dies-following-crash-outside-royal-infirmary-of-edinburgh/
+  - https://www.thenational.scot/news/26408658.woman-85-dies-hit-car-outside-edinburgh-hospital/
+  offender-/-driver: null
+  plea: null
+  police-area: Scotland
+  police-code: 2205 of 20 July, 2026
+  tags: null
+  victim: Woman (85)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Thu, 16 Jul 2026
   date-of-sentence: null
   disqualification: null
