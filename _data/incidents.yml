@@ -212,6 +212,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 23 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: '8700151'
+  imprisonment: null
+  killer-vehicle: tree
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/july/witness-appeal-following-fatal-collision-in-hook/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260354545
+  tags: null
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: black Volkswagen Caddy car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 20 Jul 2026
   date-of-sentence: null
   disqualification: null
