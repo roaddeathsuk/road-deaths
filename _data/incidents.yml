@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 7 Aug 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 6dc5c4e
+  imprisonment: null
+  killer-vehicle: traffic light lamppost
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/appeal-for-witnesses-following-death-of-man-on-popley-way-basingstoke/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260381048
+  tags: null
+  victim: Man (66)
+  victim-dob: null
+  victim-vehicle: grey Seat Leon car
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Fri, 24 Jul 2026
   date-of-sentence: null
   disqualification: null
@@ -354,6 +374,26 @@
   victim: Cieran Bass (20)
   victim-dob: null
   victim-vehicle: motorbike
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Thu, 11 Jun 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 546d4c3
+  imprisonment: null
+  killer-vehicle: lorry
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/june/appeal-for-witnesses-following-fatal-collision-involving-pedestrian-in-eastleigh/
+  offender-/-driver: Man (57)
+  plea: null
+  police-area: Hampshire
+  police-code: 44260275844
+  tags: careless
+  victim: Man (55)
+  victim-dob: null
+  victim-vehicle: pedestrian
 -
   comment: null
   community-order: null
