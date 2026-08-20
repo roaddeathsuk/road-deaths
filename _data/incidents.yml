@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Sat, 15 Aug 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: ee44fb9
+  imprisonment: null
+  killer-vehicle: blue Ford Focus car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/appealing-following-fatal-collision-in-yateley/
+  offender-/-driver: Man (18)
+  plea: null
+  police-area: Hampshire
+  police-code: 44260396728
+  tags: dangerous
+  victim: Man (18)
+  victim-dob: null
+  victim-vehicle: passenger
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Tue, 11 Aug 2026
   date-of-sentence: null
   disqualification: null
