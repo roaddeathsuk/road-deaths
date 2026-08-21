@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Mon, 17 Aug 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 0839bc5
+  imprisonment: null
+  killer-vehicle: bus
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/boy-14-dies-following-bus-crash-in-portsmouth/
+  offender-/-driver: Man (39)
+  plea: null
+  police-area: Hampshire
+  police-code: 44260399748
+  tags: dangerous
+  victim: Boy (14)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sat, 15 Aug 2026
   date-of-sentence: null
   disqualification: null
