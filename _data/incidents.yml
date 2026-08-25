@@ -192,6 +192,26 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Fri, 21 Aug 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 8c2c9c5
+  imprisonment: null
+  killer-vehicle: grey Kia Soul car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/appeal-following-fatal-collision-in-gosport/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260407128
+  tags: null
+  victim: Woman (80s)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Mon, 17 Aug 2026
   date-of-sentence: null
   disqualification: null
@@ -199,13 +219,15 @@
   identifier: 0839bc5
   imprisonment: null
   killer-vehicle: bus
-  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/boy-14-dies-following-bus-crash-in-portsmouth/
+  links:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/boy-14-dies-following-bus-crash-in-portsmouth/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/tribute-paid-to-teenage-boy-following-fatal-collision-in-portsmouth/
   offender-/-driver: Man (39)
   plea: null
   police-area: Hampshire
   police-code: 44260399748
   tags: dangerous
-  victim: Boy (14)
+  victim: Beau Croucher (14)
   victim-dob: null
   victim-vehicle: pedestrian
 -
