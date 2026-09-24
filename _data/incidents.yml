@@ -2,194 +2,258 @@
   comment:
   community-order:
   court:
-  date-of-incident: 29 August 2026
+  date-of-incident:
   date-of-sentence:
   disqualification:
   editor-notes:
   imprisonment:
   killer-vehicle:
-  - light coloured Fiat Punto car
-  - dark coloured Toyota Land Cruiser suv
-  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/witness-appeal-following-fatal-collision-on-the-a3057/
+  links:
   offender-/-driver:
   plea:
-  police-area: Woman (76)
-  police-code: 44260422133
+  police-area:
+  police-code:
   tags:
-  victim: Woman (76)
+  victim:
   victim-dob:
   victim-vehicle:
 -
   comment:
   community-order:
   court:
-  date-of-incident: 20 September 2026
+  date-of-incident:
   date-of-sentence:
   disqualification:
   editor-notes:
   imprisonment:
-  killer-vehicle: blue VW Caddy van
-  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2026/09-september/appeal-for-information--dashcam-after-cyclist-dies-in-collision-near-skipton/ https://www.bbc.co.uk/news/articles/cx305y59l1ngo
+  killer-vehicle:
+  links:
   offender-/-driver:
   plea:
   police-area:
-  police-code: 12260184905
+  police-code:
   tags:
-  victim: Man (60s)
+  victim:
   victim-dob:
-  victim-vehicle: bicycle
+  victim-vehicle:
 -
   comment:
   community-order:
   court:
-  date-of-incident: 15 September 2026
+  date-of-incident:
   date-of-sentence:
   disqualification:
   editor-notes:
   imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment:
+  community-order:
+  court:
+  date-of-incident:
+  date-of-sentence:
+  disqualification:
+  editor-notes:
+  imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment:
+  community-order:
+  court:
+  date-of-incident:
+  date-of-sentence:
+  disqualification:
+  editor-notes:
+  imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment:
+  community-order:
+  court:
+  date-of-incident:
+  date-of-sentence:
+  disqualification:
+  editor-notes:
+  imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment:
+  community-order:
+  court:
+  date-of-incident:
+  date-of-sentence:
+  disqualification:
+  editor-notes:
+  imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment:
+  community-order:
+  court:
+  date-of-incident:
+  date-of-sentence:
+  disqualification:
+  editor-notes:
+  imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment:
+  community-order:
+  court:
+  date-of-incident:
+  date-of-sentence:
+  disqualification:
+  editor-notes:
+  imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment:
+  community-order:
+  court:
+  date-of-incident:
+  date-of-sentence:
+  disqualification:
+  editor-notes:
+  imprisonment:
+  killer-vehicle:
+  links:
+  offender-/-driver:
+  plea:
+  police-area:
+  police-code:
+  tags:
+  victim:
+  victim-dob:
+  victim-vehicle:
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 20 Sep 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 5356e9c
+  imprisonment: null
+  killer-vehicle: blue VW Caddy van
+  links:
+  - https://www.bbc.co.uk/news/articles/cx305y59l1ngo
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2026/09-september/appeal-for-information--dashcam-after-cyclist-dies-in-collision-near-skipton/
+  offender-/-driver: null
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12260184905
+  tags: null
+  victim: Man (60s)
+  victim-dob: null
+  victim-vehicle: bicycle
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Tue, 15 Sep 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 84189d1
+  imprisonment: null
   killer-vehicle: black Volvo XC40 car
   links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2026/09-september/appeal-after-motorcyclist-dies-in-collision-near-fylingdales/
   offender-/-driver: Woman (40s)
-  plea:
-  police-area:
+  plea: null
+  police-area: North Yorkshire
   police-code: 12260181610
-  tags:
+  tags: null
   victim: Male (30s)
-  victim-dob:
+  victim-dob: null
   victim-vehicle: white Triumph Daytona motorcycle
 -
-  comment:
-  community-order:
-  court: Harrogate Magistrates’ Court
-  date-of-incident: 20 July 2025
-  date-of-sentence: 3 September 2026
-  disqualification:
-  editor-notes:
-  imprisonment:
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sat, 29 Aug 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: e37e2b5
+  imprisonment: null
   killer-vehicle:
-  links: https://www.northyorkshire.police.uk/news/north-yorkshire/news/court-results/2026/09-september/pateley-bridge-fatal-pedestrian-collision-suspect-pleads-guilty-to-drink-driving-offence-which-resulted-in-the-death-of-19-year-old-bailey-chadwick/
-  offender-/-driver: Joseph Henry Stott (24)
-  plea:
-  police-area:
-  police-code:
-  tags: alcohol hit-and-run insurance
-  victim: Bailey Chadwick (19)
-  victim-dob:
-  victim-vehicle: pedestrian
--
-  comment:
-  community-order:
-  court:
-  date-of-incident:
-  date-of-sentence:
-  disqualification:
-  editor-notes:
-  imprisonment:
-  killer-vehicle:
+  - light coloured Fiat Punto car
+  - dark coloured Toyota Land Cruiser suv
   links:
-  offender-/-driver:
-  plea:
-  police-area:
-  police-code:
-  tags:
-  victim:
-  victim-dob:
-  victim-vehicle:
--
-  comment:
-  community-order:
-  court:
-  date-of-incident:
-  date-of-sentence:
-  disqualification:
-  editor-notes:
-  imprisonment:
-  killer-vehicle:
-  links:
-  offender-/-driver:
-  plea:
-  police-area:
-  police-code:
-  tags:
-  victim:
-  victim-dob:
-  victim-vehicle:
--
-  comment:
-  community-order:
-  court:
-  date-of-incident:
-  date-of-sentence:
-  disqualification:
-  editor-notes:
-  imprisonment:
-  killer-vehicle:
-  links:
-  offender-/-driver:
-  plea:
-  police-area:
-  police-code:
-  tags:
-  victim:
-  victim-dob:
-  victim-vehicle:
--
-  comment:
-  community-order:
-  court:
-  date-of-incident:
-  date-of-sentence:
-  disqualification:
-  editor-notes:
-  imprisonment:
-  killer-vehicle:
-  links:
-  offender-/-driver:
-  plea:
-  police-area:
-  police-code:
-  tags:
-  victim:
-  victim-dob:
-  victim-vehicle:
--
-  comment:
-  community-order:
-  court:
-  date-of-incident:
-  date-of-sentence:
-  disqualification:
-  editor-notes:
-  imprisonment:
-  killer-vehicle:
-  links:
-  offender-/-driver:
-  plea:
-  police-area:
-  police-code:
-  tags:
-  victim:
-  victim-dob:
-  victim-vehicle:
--
-  comment:
-  community-order:
-  court:
-  date-of-incident:
-  date-of-sentence:
-  disqualification:
-  editor-notes:
-  imprisonment:
-  killer-vehicle:
-  links:
-  offender-/-driver:
-  plea:
-  police-area:
-  police-code:
-  tags:
-  victim:
-  victim-dob:
-  victim-vehicle:
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/august/witness-appeal-following-fatal-collision-on-the-a3057/
+  - https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/september/tribute-paid-to-woman-who-died-in-a3057-collision/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260422133
+  tags: null
+  victim: Gillian Dixon (76)
+  victim-dob: null
+  victim-vehicle: null
 -
   comment: null
   community-order: null
@@ -496,6 +560,33 @@
   police-code: 44260275844
   tags: careless
   victim: Man (55)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: "Harrogate Magistrates\u2019 Court"
+  date-of-incident: Sun, 20 Jul 2025
+  date-of-sentence: 3 September 2026
+  disqualification: null
+  editor-notes: null
+  identifier: 8acb849
+  imprisonment: null
+  killer-vehicle: null
+  links:
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/appeals/2025/07-july/pateley-bridge-area-fatal-collision-appeal-suspected-hit-and-run-driver-urged-to-come-forward-as-family-pay-tribute-to-19-year-old-man/
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/court-results/2026/09-september/pateley-bridge-fatal-pedestrian-collision-suspect-pleads-guilty-to-drink-driving-offence-which-resulted-in-the-death-of-19-year-old-bailey-chadwick/
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2025/07-july/arrest-made-in-connection-with-pateley-bridge-hit-and-run-rtc/
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2025/07-july/further-arrest-made-in-connection-with-pateley-bridge-hit-and-run/
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2025/07-july/man-bailed-as-hit-and-run-investigation-continues/
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2025/12-december/man-charged-following-pateley-bridge-hit-and-run-collision/
+  - https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2026/01-january/update-on-additional-charges-following-pateley-bridge-hit-and-run-collision/
+  offender-/-driver: Joseph Henry Stott (24)
+  plea: null
+  police-area: North Yorkshire
+  police-code: 12250133851
+  tags: alcohol hit-and-run insurance
+  victim: Bailey Chadwick (19)
   victim-dob: null
   victim-vehicle: pedestrian
 -
