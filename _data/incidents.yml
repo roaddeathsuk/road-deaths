@@ -192,6 +192,46 @@
   comment: null
   community-order: null
   court: null
+  date-of-incident: Thu, 8 Oct 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: c4e9155
+  imprisonment: null
+  killer-vehicle: bus
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/october/appeal-following-fatal-collision-in-southampton/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260494722
+  tags: dangerous drugs
+  victim: Woman (50s)
+  victim-dob: null
+  victim-vehicle: pedestrian
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Wed, 30 Sep 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 01076e1
+  imprisonment: null
+  killer-vehicle: white Renault heavy goods vehicle hgv
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/september/appeal-for-witnesses-to-fatal-collision-near-north-waltham/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260479975
+  tags: null
+  victim: Man (40s)
+  victim-dob: null
+  victim-vehicle: blue Seat Ibiza
+-
+  comment: null
+  community-order: null
+  court: null
   date-of-incident: Sun, 20 Sep 2026
   date-of-sentence: null
   disqualification: null
@@ -376,6 +416,28 @@
   victim: Man (66)
   victim-dob: null
   victim-vehicle: grey Seat Leon car
+-
+  comment: null
+  community-order: null
+  court: null
+  date-of-incident: Sun, 26 Jul 2026
+  date-of-sentence: null
+  disqualification: null
+  editor-notes: null
+  identifier: 92f12e1
+  imprisonment: null
+  killer-vehicle:
+  - black Kia Sportage car
+  - white Tesla Model Y car
+  links: https://www.hampshire.police.uk/news/hampshire/news/appeals/2026/october/appeal-following-fatal-collision-on-hayling-island/
+  offender-/-driver: null
+  plea: null
+  police-area: Hampshire
+  police-code: 44260359349
+  tags: null
+  victim: Man (93)
+  victim-dob: null
+  victim-vehicle: silver Ford Focus car
 -
   comment: null
   community-order: null
